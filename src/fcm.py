@@ -1,6 +1,7 @@
 from typing import Dict, Set
 from collections import defaultdict
 from math import log2
+from functools import partial
 
 
 class Fcm:
@@ -15,7 +16,7 @@ class Fcm:
         assert smoothing > 0 and smoothing <= 1
         assert context_size > 0
 
-        self.index = defaultdict(lambda: defaultdict(int))
+        self.index = defaultdict(partial(defaultdict, int))
         self.symbols = set()
         self.smoothing = smoothing
         self.context_size = context_size
@@ -59,7 +60,6 @@ class Fcm:
         return -log2(self.get_symbol_probability(symbol, context))
 
     def get_context_entropy(self, context: str):
-
         res = 0
 
         for symbol in self.index[context]:

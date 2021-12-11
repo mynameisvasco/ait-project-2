@@ -1,6 +1,9 @@
 #Datasets
 datasets/   
 
+#Cache
+cache/
+
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
