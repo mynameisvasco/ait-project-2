@@ -6,9 +6,11 @@ import pickle
 
 class Lang:
     reference: Fcm
+    name: str
 
     def __init__(self, reference_path: str, context_size: int, smoothing: float) -> None:
         reference_path_base = reference_path.split('/')[-1]
+        self.name = reference_path_base.split(".")[0]
         cache_path = Path(
             f"cache/{reference_path_base}_{context_size}_{smoothing}.cache")
 
@@ -22,7 +24,8 @@ class Lang:
                 self.reference.add_text(reference_file.read())
 
             with open(cache_path, "wb") as cache_file:
-                pickle.dump(self.reference, cache_file)
+                pickle.dump(self.reference, cache_file,
+                            pickle.HIGHEST_PROTOCOL)
 
     def estimate_bits(self, target_path: str):
         i = 0

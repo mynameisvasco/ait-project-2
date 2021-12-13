@@ -1,13 +1,14 @@
 from lang import Lang
 
-lang_pt = Lang("datasets/por_PT.latn.Portugese.EP7-train.utf8", 5, 0.10)
-lang_uk = Lang("datasets/eng_UK.latn.English.bible-train.utf8", 5, 0.10)
-lang_br = Lang("datasets/por_BR.latn.portugues.bible-train.utf8", 5, 0.10)
+lang_deu = Lang("datasets/deu_DE.latn.German.bible-devtest.utf8", 5, 0.10)
+lang_gb = Lang("datasets/eng_GB.latn.English.EP7-devtest.utf8", 5, 0.10)
+lang_est = Lang("est_EE.latn.Estonian.EP7-devtest.utf8", 5, 0.10)
 
-total_bits_pt = lang_pt.estimate_bits("example.txt")
-total_bits_br = lang_br.estimate_bits("example.txt")
-total_bits_uk = lang_uk.estimate_bits("example.txt")
+total_bits_deu = lang_deu.estimate_bits("examples/life_on_mars.txt")
+total_bits_gb = lang_gb.estimate_bits("examples/life_on_mars.txt")
+total_bits_est = lang_est.estimate_bits("examples/life_on_mars.txt")
 
-assert total_bits_br == 4741
-assert total_bits_pt == 4118
-assert total_bits_uk == 8379
+
+assert total_bits_deu == 19754
+assert total_bits_gb == 13291
+assert total_bits_est == 20423
