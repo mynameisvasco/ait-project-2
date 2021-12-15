@@ -17,7 +17,7 @@ class FindLang:
             self.langs.append(Lang(str(reference_path), 5, 0.10))
 
         perf = (perf_counter() - start)
-        print(f"Created all lang instances after {perf}s")
+        print(f"Created all lang instances after {perf:.3f}s")
 
     def find(self, target_path: str):
         results = {}
@@ -27,5 +27,5 @@ class FindLang:
             results[lang.name] = lang.estimate_bits(target_path)
 
         perf = (perf_counter() - start) * 1000
-        print(f"Found language of target after {perf}ms")
+        print(f"Found language of target after {perf:.3f}ms")
         return min(results.items(), key=lambda r: r[1])[0]
