@@ -21,8 +21,14 @@ class Main:
         if self.args.mode == "locate-lang":
             pass
         elif self.args.mode == "find-lang":
-            find_lang = FindLang(self.args.references_dir)
-            print(find_lang.find(self.args.target_file))
+            find_lang = FindLang(self.args.references_dir,
+                                 self.args.target_file)
+            results = find_lang.find()
+            print(f"Results: {results[0][0]} ({results[0][1]}) bits")
+            print("Top 10")
+
+            for i, (lang_name, bits) in enumerate(results[:11]):
+                print(f"{i + 1}. {lang_name} ({bits}) bits")
         else:
             print("Unknown mode, accepted values: locate-lang, find-lang")
 

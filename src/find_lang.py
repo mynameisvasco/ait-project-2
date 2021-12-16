@@ -1,31 +1,40 @@
-from typing import List
+import sys
+from typing import Dict
 from lang import Lang
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor
 from time import perf_counter
+from multiprocessing import Pool
+
+PROCESSES_NUMBER = 5
 
 
 class FindLang:
-    langs: List[Lang]
+    langs: Dict[str, int]
 
-    def __init__(self, references_path: str) -> None:
-        self.langs = []
+    def __init__(self, references_path: str, target_path: str) -> None:
+        self.langs = dict()
         reference_paths = list(Path(references_path).rglob("*.utf8"))
         start = perf_counter()
+        pool = Pool(processes=PROCESSES_NUMBER)
+        langs = []
 
-        for reference_path in reference_paths:
-            self.langs.append(Lang(str(reference_path), 5, 0.10))
+        print(f"Building references...")
+
+        for i, _ in enumerate(reference_paths):
+            if i % PROCESSES_NUMBER == 0:
+                langs = pool.map(
+                    self.build_lang, reference_paths[i:i+PROCESSES_NUMBER])
+
+                for lang in langs:
+                    self.langs[lang.name] = lang.estimate_bits(target_path)
+
+                langs.clear()
 
         perf = (perf_counter() - start)
-        print(f"Created all lang instances after {perf}s")
+        print(f"Builded all references after {perf}s")
 
-    def find(self, target_path: str):
-        results = {}
-        start = perf_counter()
+    def build_lang(self, reference_path: Path):
+        return Lang(str(reference_path))
 
-        for lang in self.langs:
-            results[lang.name] = lang.estimate_bits(target_path)
-
-        perf = (perf_counter() - start) * 1000
-        print(f"Found language of target after {perf}ms")
-        return min(results.items(), key=lambda r: r[1])[0]
+    def find(self):
+        return sorted(self.langs.items(), key=lambda r: r[1])
