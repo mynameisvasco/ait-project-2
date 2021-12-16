@@ -37,7 +37,7 @@ for fcm in indexes:
 with open(locate_lang_target) as target_file:
     target_text = target_file.read()
     for i, char in enumerate(target_text):
-        pyplot.annotate(char, (i, -0.5), horizontalalignment='center',
+        pyplot.annotate(char, (i, -0), horizontalalignment='center',
                         fontfamily='monospace', fontsize='x-small')
 
 pyplot.show()
