@@ -1,11 +1,13 @@
+from typing import List, Tuple
+
 from fcm import Fcm
-from typing import Tuple, List
+
 
 class CombinedFcm:
     average_window_size: int
     current_char_count: int
-    fcms: Tuple[Fcm]
-    fcm_weights: List[int]
+    fcms: Tuple[Fcm, ...]
+    fcm_weights: List[float]
     context_size: int
 
     def __init__(self, average_window_size: int, *fcms: Fcm):
@@ -25,11 +27,13 @@ class CombinedFcm:
         if self.current_char_count > self.average_window_size:
             self.current_char_count = 0
             for i in range(0, len(self.fcms)):
-                self.fcm_weights[i] = self.fcm_scores[i] / self.average_window_size
+                self.fcm_weights[i] = self.fcm_scores[i] / \
+                    self.average_window_size
             self.fcm_scores = [0] * len(self.fcms)
-            
+
         self.current_char_count += 1
-        fcm_results = [fcm.get_information_amount(symbol, context[-fcm.context_size:]) for fcm in self.fcms]
+        fcm_results = [fcm.get_information_amount(
+            symbol, context[-fcm.context_size:]) for fcm in self.fcms]
         final_result = 0
 
         lowest_fcm_index = 0
