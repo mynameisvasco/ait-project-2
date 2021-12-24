@@ -1,7 +1,6 @@
 from typing import Dict, Set
 from collections import defaultdict
 from math import log2
-from functools import partial
 
 
 class Fcm:
@@ -9,16 +8,18 @@ class Fcm:
     symbols: Set[str]
     smoothing: float
     context_size: int
+    context_ocurrences: Dict[str, int]
     total_ocurrences: int
 
     def __init__(self, smoothing: float, context_size: int) -> None:
         assert smoothing > 0 and smoothing <= 1
         assert context_size > 0
 
-        self.index = defaultdict(partial(defaultdict, int))
+        self.index = defaultdict(lambda: defaultdict(int))
         self.symbols = set()
         self.smoothing = smoothing
         self.context_size = context_size
+        self.context_ocurrences = defaultdict(int)
         self.total_ocurrences = 0
 
     def get_context(self, context: str):
@@ -38,7 +39,7 @@ class Fcm:
         assert len(context) == self.context_size
 
         res = self.index[context][symbol] + self.smoothing
-        other = len(self.index[context].values()) + \
+        other = self.context_ocurrences[context] + \
             self.smoothing * len(self.symbols)
 
         return res / other
@@ -58,6 +59,7 @@ class Fcm:
         return -log2(self.get_symbol_probability(symbol, context))
 
     def get_context_entropy(self, context: str):
+
         res = 0
 
         for symbol in self.index[context]:
@@ -95,4 +97,5 @@ class Fcm:
         assert len(context) == self.context_size
 
         self.index[context][symbol] += 1
+        self.context_ocurrences[context] += 1
         self.total_ocurrences += 1
