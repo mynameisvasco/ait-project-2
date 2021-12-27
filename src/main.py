@@ -6,6 +6,7 @@ class Main:
     args: Namespace
 
     def parse_args(self):
+        print("MOCK" == "Моск")
         arg_parser = ArgumentParser()
         arg_parser.add_argument("--references-dir", type=str,
                                 required=True, dest="references_dir", help="Directory of the reference texts")

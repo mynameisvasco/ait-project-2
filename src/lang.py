@@ -20,10 +20,12 @@ class Lang:
             with open(cache_path, "rb") as cache_file:
                 self.reference = pickle.load(cache_file)
         else:
-            self.reference = Fcm(0.05, 5)
+            self.reference = Fcm(0.01, 5)
 
             with open(reference_path, "r") as reference_file:
                 reference_text = reference_file.read()
+                reference_text = ' '.join(i for i in reference_text.split()
+                                          if i.isalpha() or i.isspace())
 
                 if self.references_chars is not None and self.references_chars <= len(reference_text):
                     reference_text = reference_text[:self.references_chars]

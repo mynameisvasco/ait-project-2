@@ -1,0 +1,3990 @@
+The Project Gutenberg EBook of La Divina Comedia, by Dante Alighieri
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: La Divina Comedia
+
+Author: Dante Alighieri
+
+Translator: Manuel Aranda y Sanjuan
+
+Release Date: June 10, 2018 [EBook #57303]
+
+Language: Spanish
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA DIVINA COMEDIA ***
+
+
+
+
+Produced by Carlos Colón, The University of Toronto and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+
+
+
+
+
+
+
+
+  Nota del Transcriptor:
+
+
+  Se ha respetado la ortografía y la acentuación del original.
+
+  Errores obvios de imprenta han sido corregidos.
+
+  Páginas en blanco han sido eliminadas.
+
+  Letras itálicas son denotadas con _líneas_.
+
+  Letras oscuras son denotadas con =signos de igual=.
+
+  Las versalitas (letras mayúsculas de tamaño igual a las minúsculas)
+  han sido sustituidas por letras mayúsculas de tamaño normal.
+
+
+
+
+                          _LA DIVINA COMEDIA_
+
+
+
+
+                           _DANTE ALIGHIERI_
+
+                          _La Divina Comedia_
+
+
+                             [Ilustración]
+
+                         _Universidad Nacional
+                              de México._
+                                 1921
+
+
+
+
+[Ilustración]
+
+
+
+
+"_LA COMMEDIA_"
+
+
+¿Que es pues la Comedia? La edad medieval realizada como arte, a pesar
+del autor y de los contemporáneos. ¡Y notad qué cosa tan grande es
+ésta! La edad media no era un mundo artístico, antes lo contrario del
+arte. La religión era misticismo; la filosofía, escolástica. La primera
+excomulgaba el arte, quemaba las imágenes, avezaba a los espíritus a
+desasirse de lo real. La otra vivía de abstracciones y de fórmulas y
+de citas, aguzando el entendimiento y llevándole a sutilizar acerca
+de los nombres y de los vacuas generalidades llamadas _esencias_. Los
+espíritus eran atraídos hacia lo general, más dispuestos a idealizar
+que a realizar: y esto es precisamente lo contrario del arte. En los
+poetas sencillos hallamos la realidad tosca e informe, como en los
+misterios, en las visiones y en las leyendas. En los poetas doctos
+encontramos una forma crudamente didascálica o figurativa y alegórica.
+El arte no había nacido aún. Existía la imagen; pero no la realidad con
+su libertad y carácter.
+
+Dante toma de los misterios la comedia del alma y hace de esta historia
+el centro de una visión suya del otro mundo. Toda esta representación
+no es más que sentido literal; la visión es alegórica, los personajes
+son imágenes y no personas; todo lo que es activo en su espíritu lo
+lleva hacia la figura y no hacia lo figurado. Su naturaleza poética,
+arrastrada a pesar suyo a las abstracciones teológicas y escolásticas,
+se rebela y puebla su cerebro de fantasmas, obligándolo a concretar,
+a materializar y a dar forma a lo que es más espiritual e impalpable,
+aún a Dios mismo. Aquel mundo literal lo hechiza, lo persigue, lo
+asedia y no descansa hasta que recibe de él su forma definitiva; y ya
+no es letra, sino espíritu; ya no es imagen, sino realidad; un mundo
+en sí cabal e inteligible, perfectamente realizado. Visión y alegoría,
+tratado o leyenda, crónicas, historias, loores, himnos, misticismo y
+escolástica, todas las formas literarias y toda la cultura de la época
+están aquí encerradas y animadas en este gran misterio del alma y de la
+humanidad: poema universal en que se reflejan todos los pueblos y todos
+los siglos que constituyen la edad media.
+
+Más este mundo artístico, nacido de una contradicción entre la
+intención del poeta y su obra, no es acabadamente armónico, no es
+poesía pura. La falsa conciencia poética perturba la obra de aquella
+espontaneidad genial, y pone en ella un no sé qué de inseguro y de
+no acabado, una mezcla y crudeza de colores. El pensamiento, en su
+desnudez escolástica; o exornado con imágenes que sin embargo no bastan
+a vencer su abstracción, tiene demasiada importancia. Sus figuras
+alegóricas recuerdan en ocasiones a los monstruos orientales más que
+a la serena belleza griega: lo mismo las entidades abstractas que los
+personajes conscientes y libres. A menudo, preocupado por el segundo
+sentido que tiene en mientes, agrega pormenores extraños a la imagen,
+lo que perturba y distrae al lector, interrumpiéndole el libre vuelo
+de la fantasía. La presencia constante de otro sentido que aligera
+la representación y a veces la penetra, menoscaba la claridad y la
+armonía. Aún el estilo, enmarañado de cuando en cuando con asuntos
+lejanos y sutiles pierde su claridad y se torna confuso y turbio. No es
+un templo griego sino una catedral gótica, llena de vastas sombras, en
+donde pugnan elementos contrarios, que no han sido bien armonizados. A
+veces es tosco; otras, delicado. En ocasiones, poeta docto y en otras,
+popular. Ora pierde de vista a la verdad y se entrega a sutilezas, ora
+la intuye rápidamente y la expresa con sencillez. Ya es un cronista
+burdo, ya un pintor acabado. Cuándo se pierde en cuestiones abstractas;
+cuándo, en medio de ellas, hace germinar la vida. Aquí desciende
+a cosas pueriles, allá se remonta a excelsitudes sobrehumanas. Al
+ocuparse en un silogismo brilla la luz de una imagen; mientras
+teologiza estalla la flama del sentimiento. En ratos os halláis ante
+una fría alegoría y repentinamente sentís a la carne estremecerse con
+ella. Su credulidad nos hace hoy sonreír; luego su audacia nos llenará
+de asombro. Fué un pequeño mundo donde se reflejaba toda la existencia
+de entonces.
+
+Los elementos contrarios que fermentaban en una sociedad en estado
+aún de formación contendían en él, sin que se diera cuenta de ello.
+Si miráis sus aspiraciones encontraréis que en ellas todo es armonía.
+Filósofo, piensa en el reino de la ciencia y de la virtud; cristiano,
+contempla el reino de Dios; patriota, suspira por el reino de la
+justicia y de la paz; poeta, sueña una forma toda luz, proporción y
+armonía, _lo bello stile_; su autor es Virgilio. Mientras más grande
+era la barbarie y la ignorancia, mayor su aspiración hacia un mundo
+armónico y concorde. Mas el poeta se halla rodeado por esta burda
+realidad, por esas formas discordes; se apesadumbra y le falta la
+serenidad del artista y saca de su fantasía un mundo del arte, en gran
+parte realizado, pero donde se encuentra aún las asperezas de una
+materia domeñada imperfectamente.
+
+       *       *       *       *       *
+
+Penetremos en este mundo, mirémoslo e interroguémoslo. Porque un
+argumento no es _tabula rasa_, donde podamos escribir a nuestro antojo,
+sino mármol entallado, que tiene en sí mismo su concepto y las leyes
+de su desarrollo. La virtud mayor del genio consiste en entender su
+argumento, ser uno con él, apartando todo lo que le sea extraño. Es
+necesario apasionarse por él, vivir dentro de él, constituirse en
+su alma o su conciencia. De modo semejante el crítico en lugar de
+imponerse reglas abstractas y juzgar con el mismo criterio la _Comedia_
+y la _Ilíada_, la _Gerusalemme_ y el _Orlando Furioso_, debe estudiar
+el mundo creado por el poeta, interrogarlo, indagar su naturaleza que
+contiene forzosamente su poética o sean las leyes orgánicas de su
+formación, su concepto, su forma, su génesis, su estilo. ¿Qué cosa es
+el otro mundo?
+
+Es el problema del destino humano resuelto, la explicación del misterio
+del alma, el fin de la historia del hombre, el mundo perfecto, lo
+eterno presente, la inmutable necesidad. En la naturaleza ya no ocurre
+el accidente; en el hombre ya no hay libertad. La naturaleza está
+predeterminada y fijada por una lógica preconcebida según la idea
+moral. Lo real y lo ideal se vuelven idénticos; la apariencia y la
+sustancia son una misma cosa. El hombre ya no tiene libre albedrío:
+está ahí fijo e inmóvil como la naturaleza. Toda acción ha cesado;
+se ha roto todo vínculo que une a los hombres en la tierra; patria,
+familia, riquezas, dignidad, costumbres. No existe sucesión ni
+desenvolvimiento, ni principio, ni fin; falta la narración, el drama.
+El individuo desaparece en el género. El carácter, la personalidad
+no tiene modo de manifestarse. Eterno dolor, gozo eterno, sin eco,
+sin variación, sin contraste ni grado. No hay epopeya porque falta
+la acción; no hay drama porque falta la libertad; la lírica es la
+inmutable y monótona expresión de una sola aria; queda la existencia en
+su inmóvil manera de ser, la descripción de la naturaleza y del hombre.
+
+¿Qué cosa es, pues, el otro mundo--con relación al arte? Visión,
+contemplación, descripción: una historia natural.
+
+Más en esta visión penetra la leyenda o el misterio porque dentro está
+representada la comedia o redención del alma en su peregrinaje desde
+lo humano a lo divino, _da Fiorenza in popol giusto e sano_. Tiene
+pues la apariencia de un drama que se desarrolla en el otro mundo, y
+sus actores son Dante, Virgilio, Catón, Estacio, el demonio, Matilde,
+Beatriz, San Pedro, San Bernardo, la Virgen, Dios; drama alegórico como
+lo es la comedia del alma, _Commedia dell'anima_. Digo _apariencia
+de un drama_, porque la santificación no nace del obrar sino del
+contemplar, y Dante contempla, no obra, y los otros adoctrinan,
+enseñan. El drama, en consecuencia, se desvanece en la contemplación.
+
+Así concebido, este mundo era el de los misterios y las leyendas y
+se convertía en mundo teológico-escolástico en manos de los doctos.
+Dante lo ha realizado, lo ha hecho existir en el arte; ha creado esa
+naturaleza y ese hombre. Y si su mundo no es perfectamente artístico,
+la falta no es de él sino que aquel mundo en donde el hombre es
+naturaleza y la naturaleza, ciencia, y del cual se ha desterrado a lo
+accidental y a la libertad, los dos grandes factores de la vida real y
+del arte.
+
+Si Dante hubiera sido fraile o filósofo, apartado de la vida real, se
+habría encerrado en esas formas y en esa alegoría sin salir de ellas.
+Mas Dante, al entrar en el reino de los muertos lleva consigo todas
+las pasiones de los vivos, y las preocupaciones terrenas. Descuida
+ser un símbolo o una figura alegórica, y es Dante, la más potente
+individualidad de aquel tiempo, en la cual está compendiada toda la
+vida de la época, con sus abstracciones, sus éxtasis, sus pasiones
+impetuosas, su refinamiento y su barbarie. A la vista de un ser
+viviente y al oír sus palabras, las almas renacen por un instante,
+sienten de nuevo la antigua vida, se tornan hombres; en lo eterno
+vuelve a aparecer el tiempo; en el seno de lo porvenir, vive y se
+mueve Italia, y más bien aún, la Europa de aquel siglo. Así la poesía
+abarca toda la vida, cielo y tierra, tiempo y eternidad, lo humano y
+lo divino; y el poema sobrenatural conviértese en humano y terreno, con
+la marca del hombre y del tiempo. Reaparece la naturaleza terrenal como
+oposición o parangón o remembranza. Reaparece el accidente y el tiempo,
+la historia y la sociedad en su vida exterior e interna; apunta la
+tradición virgiliana con Roma por capital del mundo y con la monarquía
+preestablecida; y dentro de este marco magnífico, pasa ante nuestros
+ojos la historia de la época: Bonifacio VIII, Roberto, Felipe el
+hermoso, Carlos de Valois, los Cerchi y los Donati, la nueva Florencia
+y la antigua, la historia de Italia, y la historia de Dante, sus iras,
+sus odios, sus venganzas, sus amores, sus predilecciones.
+
+Así se integra la vida; el otro mundo sale de su abstracción doctrinal
+y mística; cielo y tierra se confunden; síntesis viviente de esta
+inmensa comprensión, Dante es espectador, actor y juez. La vida,
+contemplada desde el otro mundo adquiere nuevas actitudes, sensaciones
+e impresiones. El otro mundo visto desde la tierra, se reviste de sus
+pasiones e intereses. Y resulta de todo una concepción originalísima,
+una naturaleza nueva y un hombre nuevo. Son dos mundos omnipresentes,
+en reciprocidad de acción, que se suceden, se alternan, se cruzan,
+se compenetran, se explican y se iluminan mutuamente, en perpetua
+vuelta. Su unidad no reside en un protagonista, ni en una acción, ni
+en un fin abstracto y extraño a la materia; está en la misma materia;
+unidad interior e impersonal, viviente, indivisible; unidad orgánica
+cuyos instantes se suceden en el espíritu del poeta, no como agregación
+mecánica de partes separables, sino compenetrados e identificados
+como en la vida. Esta unidad enérgica y armoniosa se halla en la
+naturaleza misma de los dos mundos, materialmente diversos, pero que
+no constituyen sino una misma cosa en la unidad de la conciencia.
+Cielo y tierra son términos correlativos; no es posible el uno sin el
+otro. Lo puramente real y lo puramente ideal son dos abstracciones;
+cada cosa real lleva consigo su ideal; todo hombre porta su infierno y
+su paraíso; todo hombre encierra en su pecho a los dioses del Olimpo:
+el escéptico puede negar el infierno, pero no suprimir la conciencia.
+Puesto que estos dos mundos son la vida misma en sus dos aspectos, en
+el seno de esta unidad se desenvuelve el dualismo más vivaz, mejor
+dicho, antagonismo: el otro mundo hace de los cuerpos sombras; sombras
+son los afectos, las grandezas y las pompas; mas en esas sombras aún
+se estremece la carne, se agita el deseo, resuenan las imprecaciones
+terrenales que llegan hasta la tranquila bóveda del cielo. Los hombres
+con sus pasiones, vicios y virtudes quedan eternizados como estatuas,
+en la misma actitud y expresión de odio, de desdén y de amor en que han
+sido sorprendidos por el artista; pero mientras el otro mundo hace de
+la tierra algo eterno, transportándola a su centro y poniéndole delante
+la imagen de lo infinito, descubre lo vano y la nada; los hombres son
+los mismos en un escenario distinto, que es su ironía. Esta unidad y
+dualidad que salen del fondo mismo de la situación brilla a la luz
+del día en las más variadas formas; a veces en un apóstrofe, en un
+discurso, en un gesto, en una acción; ya en la naturaleza, ya en el
+hombre; en esta unidad queda comprendida la mayor variedad, y no es
+fácil encontrar una obra artística cuyos límites sean tan precisos y
+tan vastos. Nada hay en el argumento que constriña al poeta a preferir
+a tal personaje, a cierta época o acción; él escoge toda la historia,
+todos los aspectos bajo los cuales aparece la humanidad; y puede
+abandonarse libremente a sus iras y opiniones e intercalar en el plan
+general fines particulares sin que la unidad se dañe. Todo esto da a su
+universo una acabada realidad poética, y es patente en la permanente
+unidad, todo lo que surge del ser humano, del libre albedrío y de lo
+casual y el moverse con vario juego todos los contrastes y lo necesario
+unido con el libre albedrío y el destino con la casualidad.
+
+En resumen, ¿qué clase de poesía es ésta? contiene materia épica y no
+es epopeya; hay una situación lírica y no es lírica; posee una trama
+dramática y no es drama. Trátase de una de aquellas construcciones
+gigantescas y primitivas, verdaderas enciclopedias, biblias nacionales;
+no de un género más bien que de otro, sino de un todo que contiene en
+embrión toda la materia y todas las formas poéticas, el germen de todo
+desarrollo ulterior. Por lo tanto ningún género de poesía sobresale
+y es explicado; el uno entra en el otro y se perfecciona en él de la
+misma manera que los dos mundos se identifican y no se puede decir:
+aquí está uno de ellos y allá el otro; así los diversos géneros están
+unidos de manera que nadie puede señalar los confines que los dividen y
+aún menos decir: esto es absolutamente épico y esto, dramático.
+
+Es el contenido universal del cual todas las poesías no son más que
+fragmentos; el _poema sacro_; la eterna geometría y la eterna lógica
+de la creación encarnada en los tres mundos cristianos; la ciudad de
+Dios, en la que se refleja la ciudad del hombre con toda su realidad de
+determinado lugar y época; la esfera inmóvil del mundo teológico, en la
+cual alientan tempestuosamente todas las pasiones humanas.
+
+La idea que anima esta vasta construcción y le infunde vida y la
+desarrolla, es el concepto de la salvación, el camino que lleva al alma
+del mal al bien, del error a la verdad, de la anarquía a la ley, de
+lo múltiple a lo uno. Es el concepto cristiano y moderno de la unidad
+de Dios sustituída a la pluralidad pagana. Si este concepto fuera
+solamente algo exterior, explicado en su abstracción doctrinal, como
+pensamiento, o presentado en forma alegórica, la imagen no bastaría
+para engendrar una obra de arte. Pero el concepto no es sólo externo
+sino interno; no es únicamente del significado y la ciencia de aquel
+mundo, obra de filósofo y de crítico, sino principio activo, como en
+el hombre y en la naturaleza, que construye y forma ese mundo y le da
+una historia y un desarrollo. Este principio activo puede llamarse
+en su abstracción lo verdadero o el bien, o la virtud, o la ley;
+como realidad viva y activa es el espíritu, que tiene por contrario
+a la materia o la carne, donde se halla como en prisión o como en
+un _vasello_ de donde se esfuerza por salir. Así, pues, la vida es
+un antagonismo, una batalla entre el espíritu y la carne, entre Dios
+y el demonio. Su historia es la victoria progresiva del espíritu, su
+conciencia y albedrío, bajo las formas en que vive sutilizándose,
+descorporificándose, idealizándose hasta Dios, espíritu absoluto,
+la Verdad, la Bondad, la Unidad, el último Ideal. La concepción
+dantesca, el espíritu que anima su mundo es, pues, la progresiva
+disolución de las formas, un constante ascender desde la carne al
+espíritu, la emancipación de la materia y del sentido mediante la
+expiación y el dolor, el choque entre lo satánico y lo divino, el
+infierno y el paraíso. Homero transporta a los dioses a la tierra
+y los materializa; Dante transporta a los hombres al otro mundo y
+los espiritualiza. La materia no es más que apariencia; lo que sólo
+existe es el espíritu; los hombres son sombras; las acciones humanas
+se reproducen como fantasmas en el dominio de la memoria; la tierra
+misma es un recuerdo que fluctúa como una visión; lo real, lo presente
+es el espíritu infinito; todo lo demás es _vanita che par persona_.
+Todo se va acrisolando progresivamente; el velo se torna cada vez más
+transparente; el _Infierno_ es la sede de la materia, el dominio de
+la carne y del pecado; lo terrenal no solamente es remembranza sino
+presente; el castigo no logra modificar los caracteres y las pasiones;
+el pecado y lo terreno se perpetúan en el otro mundo y se inmovilizan
+en esas almas incapaces de arrepentimiento; pecado eterno, pena eterna.
+En el _Purgatorio_ cesan las tinieblas y brilla el sol, la luz de la
+inteligencia, el espíritu; lo mundano es un penoso recuerdo que el
+penitente procura olvidar; y el espíritu, separándose de lo corpóreo,
+tiende a la completa posesión de sí, a la salvación. En el _Paraíso_
+la persona humana desaparece y todas las formas se desvanecen y se
+elevan en la luz; a medida que se asciende, y mientras más se idealiza
+esta gloriosa transfiguración hasta llegar a la presencia de Dios,
+el espíritu absoluto, la forma se desvanece y no persiste más que el
+sentimiento:
+
+    _....Tutta cessa
+    Mia visione, ed ancor mi distilla
+    Nel cuor lo dolce che nacque da essa.
+    Cosi la neve al sol si disigilla;
+    Cosi al vento nelle foglie lievi
+    Si perdea la sentenzia di Sibilla._
+
+Este concepto comprende todo lo que se puede saber y toda la historia;
+no sólo construye y desarrolla el mundo dantesco sino que lo halláis
+siempre vivo en el camino intelectual e histórico de la vida, bajo
+todas las formas, en todos los problemas que se presentan al poeta,
+en religión, en filosofía, en política, en moral; y así se concreta y
+cumple en todas las direcciones de la vida. En religión, es el camino
+de la letra al espíritu, del símbolo a la idea, del Viejo al Nuevo
+Testamento; en la ciencia, el tránsito de la ignorancia y del error a
+la religión y de la razón a la revelación; en moral, el paso del mal
+al bien, del odio al amor mediante la expiación; en política, la senda
+que conduce de la anarquía a la unidad. Sometido a las condiciones de
+espacio y de tiempo, vuélvese historia; tal hombre, tal pueblo, tal
+siglo. En religión, está ante la Iglesia Romana, ante el papado, que
+el poeta quiere emancipar de los intereses y pasiones terrenales y
+retornar a su fin espiritual; en filosofía, encuentra la ciencia vulgar
+y la ciencia de la verdad en el paraíso; en moral, os halláis delante
+de las pasiones, las discordias, las culpas y los vicios de la edad
+bárbara de la cual os sentís poco a poco alejados en vuestro camino
+hacia el sumo bien; en política, es la Italia anárquica y ensangrentada
+que el poeta aspira a traer a la paz y concordia en la unidad del
+imperio. De este modo un mismo concepto anima el todo, en la forma, en
+el pensamiento y en la historia. Pero comprensión más vasta y concorde
+no había salido jamás de mente humana. Algunos encuentran en la
+_Comedia_ el otro mundo, considerando lo demás como una intrusión, casi
+como una profanación; Edgard Quinet se siente _choqué_ de ver como las
+pasiones del poeta le siguen hasta el paraíso; otros descubren en él un
+mundo político que no es más que una representación figurada. Llaman
+a este poema _religioso_ o _político_, _didascálico_ o _moral_; lo
+reducen a querellas de católicos y protestantes, a disputas de güelfos
+y gibelinos. No miran desde la cumbre del monte sino desde la llanura y
+toman por el todo lo que encuentran en la línea recta del camino. Cada
+uno se forja un pequeño mundo y dice: este es el mundo de Dante. Y el
+mundo de Dante contiene en sí todos esos mundos. Es el mundo universal
+de la edad media realizado en el arte.
+
+                                       _FRANCESCO DE SANCTIS._
+
+(Tomado de la _STORIA DELLA LETTERATURA ITALIANA_, Volume I.)
+
+
+
+
+_INFIERNO_
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO PRIMERO_
+
+
+A la mitad del viaje de nuestra vida me encontré en una selva obscura,
+por haberme apartado del camino recto. ¡Ah! Cuán penoso me sería
+decir lo salvaje, áspera y espesa que era esta selva, cuyo recuerdo
+renueva mi pavor, pavor tan amargo, que la muerte no lo es tanto. Pero
+antes de hablar del bien que allí encontré, revelaré las demás cosas
+que he visto. No sé decir fijamente cómo entré allí; tan adormecido
+estaba cuando abandoné el verdadero camino. Pero al llegar al pie de
+una cuesta, donde terminaba el valle que me había llenado de miedo el
+corazón, miré hacia arriba, y vi su cima revestida ya de los rayos del
+planeta que nos guía con seguridad por todos los senderos. Entonces
+se calmó algún tanto el miedo que había permanecido en el lago de mi
+corazón durante la noche que pasé con tanta angustia; y del mismo modo
+que aquel que, saliendo anhelante fuera del piélago, al llegar a la
+playa, se vuelve hacia las ondas peligrosas y las contempla, así mi
+espíritu, fugitivo aún, se volvió hacia atrás para mirar el lugar de
+que no salió nunca nadie vivo. Después de haber dado algún reposo a mi
+fatigado cuerpo, continué subiendo por la solitaria playa, procurando
+afirmar siempre aquel de mis pies que estuviera más bajo. Al principio
+de la cuesta, aparecióseme una pantera ágil, de rápidos movimientos
+y cubierta de manchada piel. No se separaba de mi vista, sino que
+interceptaba de tal modo mi camino, que me volví muchas veces para
+retroceder. Era a tiempo que apuntaba el día, y el sol subía rodeado de
+aquellas estrellas que estaban con él cuando el amor divino imprimió el
+primer movimiento a todas las cosas bellas. Hora y estación tan dulces
+me daban motivo para augurar bien de aquella fiera de pintada piel.
+Pero no tanto que no me infundiera terror el aspecto de un león que a
+su vez se me apareció: figuróseme que venía contra mí, con la cabeza
+alta y con un hambre tan rabiosa, que hasta el aire parecía temerle.
+Siguió a éste una loba que, en medio de su demacración, parecía cargada
+de deseos; loba que ha obligado a vivir miserable a mucha gente. El
+fuego que despedían sus ojos me causó tal turbación, que perdí la
+esperanza de llegar a la cima. Y así como el que gustoso atesora y se
+entristece y llora con todos sus pensamientos cuando llega el momento
+en que sufre una pérdida, así me hizo padecer aquella inquieta fiera,
+que, viniendo a mi encuentro, poco a poco me repelía hacia donde el sol
+se calla. Mientras yo retrocedía hacia el valle, se presentó a mi vista
+uno, que por su prolongado silencio parecía mudo. Cuando le vi en aquel
+gran desierto:
+
+--Piedad de mí--le grité--quienquiera que seas, sombra u hombre
+verdadero.
+
+Respondióme:
+
+No soy ya hombre, pero lo he sido; mis padres fueron lombardos y ambos
+tuvieron a Mantua por patria. Nací "sub Julio," aunque algo tarde,
+y vi a Roma bajo el mando del buen Augusto en tiempo de los dioses
+falsos y engañosos. Poeta fuí, y canté a aquel justo hijo de Anquises,
+que volvió de Troya después del incendio de la soberbia Ilión. Pero,
+¿por qué te entregas de nuevo a tu aflicción? ¿Por qué no asciendes al
+delicioso monte, que es causa y principio de todo goce?
+
+--¡Oh! ¿Eres tú aquel Virgilio, aquella fuente que derrama tan ancho
+raudal de elocuencia?--le respondí ruboroso. ¡Ah!, ¡honor y antorcha
+de los demás poetas! Válganme para contigo el prolongado estudio y el
+grande amor con que he leído y meditado tu obra. Tú eres mi maestro y
+mi autor predilecto; tú solo eres aquél de quien he imitado el bello
+estilo que me ha dado tanto honor. Mira esa fiera debido a la cual
+retrocedía; líbrame de ella, famoso sabio, porque a su aspecto se
+estremecen mis venas y late con precipitación mi pulso.
+
+--Te conviene seguir otra ruta--respondió al verme llorar--, si quieres
+huír de este sitio salvaje; porque esa fiera que te hace prorrumpir
+en tales lamentaciones no deja pasar a nadie por su camino, sino que
+se opone a ello matando al que a tanto se atreve. Su instinto es tan
+malvado y cruel, que nunca ve satisfechos sus ambiciosos deseos, y
+después de comer tiene más hambre que antes. Muchos son los animales
+a quienes se une, y serán aun muchos más hasta que venga el Lebrel[1]
+y la haga morir entre dolores. Este no se alimentará de tierra ni de
+peltre, sino de sabiduría, de amor y de virtud, y su patria estará
+entre Feltro y Feltro. Será la salvación de esta humilde Italia, por
+quien murieron de sus heridas la virgen Camila, Euríalo y Turno y Niso.
+Perseguirá a la loba de ciudad en ciudad hasta que la haya arrojado en
+el infierno, de donde en otro tiempo la hizo salir la envidia. Ahora,
+por tu bien, pienso y veo claramente que debes seguirme: yo seré tu
+guía, y te sacaré de aquí para llevarte a un lugar eterno, donde oirás
+aullidos desesperados; verás los espíritus dolientes de los antiguos
+condenados, que llaman a gritos a la segunda muerte; verás también a
+los que están contentos entre las llamas, porque esperan, cuando llegue
+la ocasión, tener un puesto entre los bienaventurados. Si quieres, en
+seguida, subir hasta ellos, te acompañará en este viaje un alma más
+digna que yo, te dejaré con ella cuando yo parta; pues el Emperador que
+reina en las alturas no quiere que por mediación mía se entre en su
+ciudad, porque fuí rebelde a su ley. El impera en todas partes y reina
+arriba; arriba está su ciudad y su alto solio: ¡Oh! ¡Feliz el elegido
+para su reino!
+
+       [1] Can Grande della Scala, señor de Verona y bienhechor de
+       Dante.
+
+Y yo le contesté:
+
+--Poeta, te requiero por ese Dios a quien no has conocido, que me hagas
+huír de este mal y de otro peor; condúceme adonde has dicho, para que
+yo vea la puerta de San Pedro y a los que, según dices, están tan
+desolados.
+
+Entonces se puso en marcha, y yo seguí tras él.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO SEGUNDO_
+
+
+El día terminaba; la atmósfera obscura de la noche invitaba a descansar
+de sus fatigas a los seres animados que existen sobre la tierra, y yo
+solo me preparaba a sostener los combates del camino y de las cosas
+dignas de compasión, que mi memoria trazará sin equivocarse. ¡Oh
+Musas!, ¡oh alto ingenio!, venid en mi ayuda: ¡oh mente, que escribiste
+lo que ví!, ahora aparecerá tu nobleza.
+
+Yo comencé:
+
+--Poeta, que me guías, mira si mi virtud es bastante fuerte antes de
+aventurarme en tan profundo viaje. Tú dices que el padre de Silvio,
+aun corruptible, pasó al siglo inmortal y pasó sensiblemente. Si el
+adversario de todo mal le fué favorable, debióse a los grandes efectos
+que de él debían sobrevenir; y el por qué no parece injusto a un hombre
+de talento; pues en el Empíreo fué elegido para ser el padre de la
+fecunda Roma y de su imperio: el uno y la otra, a decir verdad, fueron
+establecidos en favor del sitio santo en donde reside el sucesor del
+gran Pedro. Durante este viaje, por el que le elogias, oyó cosas que
+presagiaron su victoria y el manto papal. Después el Vaso de elección
+fué transportado hasta el cielo para dar más firmeza a la fe, que es
+el principio del camino de la salvación. Pero yo ¿por qué he de ir?,
+¿quién me lo permite? Yo no soy Eneas, ni San Pablo: ante nadie, ni
+ante mí mismo, me creo digno de tal honor. Porque si me lanzo a tal
+empresa, temo por mi loco empeño. Puesto que eres sabio, comprenderás
+las razones que me callo.
+
+Y como aquel que no quiere ya lo que quería, y asaltado de una nueva
+idea, cambia de parecer, de suerte que abandona todo lo que había
+comenzado, así me sucedía en aquella obscura cuesta; porque, a fuerza
+de pensar, abandoné la empresa que había empezado con tanto ardor.
+
+--Si he comprendido bien tus palabras--respondió aquella sombra
+magnánima--, tu alma está traspasada de espanto, el cual se apodera
+frecuentemente del hombre, y tanto, que le retrae de una empresa
+honrosa, como una vana sombra hace a veces retroceder a una fiera,
+cuando se introduce en la obscuridad. Para librarte de ese temor, te
+diré por qué he venido, y lo que vi en el primer momento en que me
+moviste a compasión. Yo estaba entre los que se hallan en suspenso,
+y me llamó una dama tan bienaventurada y tan bella, que le rogué me
+diera sus órdenes. Brillaban sus ojos más que la estrella, y empezó a
+decirme con voz angelical, en su lengua: "¡Oh alma cortés Mantuana,
+cuya fama dura aún en el mundo y durará mientras su movimiento se
+prolongue! Mi amigo, que no lo es de la ventura, se ve tan embarazado
+en la playa desierta, que en medio del camino el miedo le ha hecho
+retroceder; y temo (por lo que he oído de él en el Cielo) que se haya
+extraviado ya, y que yo haya acudido tarde en su socorro. Vé, pues, y
+con tus elocuentes palabras, y con lo que se necesita para sacarle de
+su apuro, auxíliale tan bien, que yo quede consolada. Yo soy Beatriz,
+la que te hace marchar; vengo de un sitio adonde deseo volver: amor
+me impele, y es el que me hace hablar. Cuando vuelva a estar delante
+de mi Señor, le hablaré de ti bien y con frecuencia." Calló entonces,
+y yo repuse: "¡Oh mujer de virtud única, por quien la especie humana
+excede en dignidad a todos los seres contenidos bajo aquel Cielo que
+tiene los círculos más pequeños! Tanto me place tu orden, que si ya
+te hubiera obedecido, creería haber tardado: no tienes necesidad de
+expresarme más tus deseos. Mas dime: ¿por qué causa no temes descender
+al fondo de este centro desde lo alto de esos inmensos lugares, adonde
+ardes en deseos de volver?" "Puesto que tanto quieres saber, te diré
+brevemente, respondióme, por qué no temo venir a este abismo. Sólo
+deben temerse las cosas que pueden redundar en perjuicio de otros;
+pero no aquellas que no inspiran este temor. Por la merced de Dios,
+estoy hecha de tal suerte, que no me alcanzan vuestras miserias, ni
+puede prender en mí la llama de este incendio. Hay en el Cielo una dama
+gentil,[2] que se conduele del obstáculo opuesto al que te envío, y
+que mitiga el duro juicio de la justicia divina. Ella se ha dirigido a
+Lucía[3] con sus ruegos, y le ha dicho: "Tu fiel amigo tiene necesidad
+de ti, y te lo recomiendo." Lucía, enemiga de todo corazón cruel, se ha
+conmovido e ido al lugar donde yo me encontraba, sentada al lado de la
+antigua Raquel. Y me ha dicho: "Beatriz, verdadera alabanza de Dios,
+¿no socorres a aquél que te amó tanto, y que por ti salió de la vulgar
+esfera? ¿No oyes su queja conmovedora? ¿No ves la muerte contra quien
+combate sobre ese río, más formidable que el mismo mar?" En el mundo no
+ha habido jamás una persona más pronta en correr hacia un beneficio ni
+en huír de un peligro, que yo, en cuanto oí tales palabras. Descendí
+desde mi dichoso puesto, fiándome en esa elocuente palabra que te
+honra, y que honra a cuantos la han oído." Después de haberme hablado
+de este modo, volvió llorando hacia mí sus ojos brillantes, con lo que
+me hizo partir más presuroso. Y me he dirigido a ti tal como ha sido
+su voluntad, y te he preservado de aquella fiera que te cerraba el
+camino más corto de la hermosa montaña. Pero ¿qué tienes?, ¿por qué te
+suspendes?, ¿por qué abrigas tanta cobardía en tu corazón?, ¿por qué no
+tienes atrevimiento ni valor, cuando tres mujeres benditas cuidan de ti
+en la corte celestial, y mis palabras te prometen tanto bien?
+
+       [2] La clemencia divina.
+
+       [3] La gracia divina, o más bien, la gracia que ilumina.
+
+Y así como las florecillas, inclinadas y cerradas por la escarcha, se
+abren erguidas en cuanto el Sol las ilumina, así creció mi abatido
+ánimo, e inundó tal aliento mi corazón, que exclamé como un hombre
+decidido:
+
+--¡Oh! ¡Cuán piadosa es la que me ha socorrido! ¡Y tú, alma
+bienhechora, que has obedecido con tal prontitud las palabras de verdad
+que ella te ha dicho! Con las tuyas has preparado mi corazón de tal
+suerte, y le has comunicado tanto deseo de emprender el gran viaje, que
+vuelvo a abrigar mi primer propósito. Vé, pues; que una sola voluntad
+nos dirija: tú eres mi guía, mi señor, mi maestro.
+
+Así le dije, y en cuanto echó a andar, entré por el camino profundo y
+salvaje.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO TERCERO_
+
+
+"Por mí se va a la ciudad del llanto; por mí se va al eterno dolor;
+por mi se va hacia la raza condenada: la justicia animó a mi sublime
+arquitecto; me hizo la divina potestad, la suprema sabiduría y el
+primer amor. Antes que yo no hubo nada creado, a excepción de lo
+eterno, y yo duro eternamente. ¡Oh vosotros los que entráis, abandonad
+toda esperanza!"
+
+Vi escritas estas palabras con caracteres negros en el dintel de una
+puerta, por lo cual exclamé:
+
+--Maestro, el sentido de estas palabras me causa pena.
+
+Y él, como hombre lleno de prudencia, me contestó:
+
+--Conviene abandonar aquí todo temor; conviene que aquí termine toda
+cobardía. Hemos llegado al lugar donde te he dicho que verías a la
+dolorida gente, que ha perdido el bien de la inteligencia.
+
+Y después de haber puesto su mano en la mía con rostro alegre, que me
+reanimó, me introdujo en medio de las cosas secretas. Allí, bajo un
+cielo sin estrellas, resonaban suspiros, quejas y profundos gemidos,
+de suerte que al escucharlos comencé a llorar. Diversas lenguas,
+horribles blasfemias, palabras de dolor, acentos de ira, voces altas y
+roncas, acompañadas de palmadas, producían un tumulto que va rodando
+siempre por aquel espacio eternamente obscuro, como la arena impelida
+por un torbellino. Yo, que estaba horrorizado, dije:
+
+--Maestro, ¿qué es lo que oigo, y qué gente es ésa, que parece
+doblegada por el dolor?
+
+Me respondió:
+
+--Esta miserable suerte está reservada a las tristes almas de aquellos
+que vivieron sin merecer alabanzas ni vituperio: están confundidas
+entre el perverso coro de los ángeles que no fueron rebeldes ni fieles
+a Dios, sino que sólo vivieron para sí. El Cielo los lanzó de su
+seno por no ser menos hermoso; pero el profundo Infierno no quiere
+recibirlos por la gloria que con ello podrían reportar los demás
+culpables.
+
+Y yo repuse:
+
+--Maestro, ¿qué cruel dolor les hace lamentarse tanto?
+
+A lo que me contestó:
+
+--Te lo diré brevemente. Estos no esperan morir; y su ceguedad es
+tanta, que se muestran envidiosos de cualquier otra suerte. El mundo
+no conserva ningún recuerdo suyo; la misericordia y la justicia los
+desdeñan: no hablemos más de ellos, míralos y pasa adelante.
+
+Y yo, fijándome más, vi una bandera que iba ondeando tan de prisa, que
+parecía desdeñosa del menor reposo: tras ella venía tanta muchedumbre,
+que no hubiera creído que la muerte destruyera tan gran número.
+Después de haber reconocido a algunos, miré más fijamente, y vi la
+sombra de aquel que por cobardía hizo la gran renuncia[4]. Comprendí
+inmediatamente y adquirí la certeza de que aquella turba era la de los
+ruines que se hicieron desagradables a los ojos de Dios y a los de
+sus enemigos. Aquellos desgraciados, que no vivieron nunca, estaban
+desnudos, y eran molestados sin tregua por las picaduras de las moscas
+y de las avispas que allí había; las cuales hacían correr por su rostro
+la sangre, que mezclada con sus lágrimas, era recogida a sus pies por
+asquerosos gusanos.
+
+       [4] Según algunos comentadores, éste debe ser Esaú, que
+       renunció a su derecho de primogenitura; según otros,
+       Diocleciano, que abdicó el imperio; según Venturini, el papa
+       Celestino V, y otros creen que el que hizo la gran renuncia es
+       Pilatos.
+
+Habiendo dirigido mis miradas a otra parte, vi nuevas almas a la orilla
+de un gran río, por lo cual, dije:
+
+--Maestro, dígnate manifestarme quiénes son y por qué ley parecen ésos
+tan prontos a atravesar el río, según puedo ver a favor de esta débil
+claridad.
+
+Y él me respondió:
+
+--Te lo diré cuando pongamos nuestros pies sobre la triste orilla del
+Aqueronte.
+
+Entonces, avergonzado y con los ojos bajos, temiendo que le disgustasen
+mis preguntas, me abstuve de hablar hasta que llegamos al río. En
+aquel momento vimos un anciano cubierto de canas, que se dirigía
+hacia nosotros en una barquichuela, gritando: "¡Ay de vosotras, almas
+perversas! No esperéis ver nunca el Cielo. Vengo para conduciros a la
+otra orilla, donde reinan eternas tinieblas, en medio del calor y del
+frío. Y tú, alma viva, que estás aquí, aléjate de entre esas que están
+muertas." Pero cuando vió que yo no me movía, dijo: "Llegarás a la
+playa por otra orilla, por otro puerto, mas no por aquí: para llevarte
+se necesita una barca más ligera."
+
+Y mi guía le dijo:
+
+--Carón, no te irrites. Así se ha dispuesto allí donde se puede todo lo
+que se quiere; y no preguntes más.
+
+Entonces se aquietaron las velludas mejillas del barquero de las
+lívidas lagunas, que tenía círculos de llamas alrededor de sus ojos.
+Pero aquellas almas, que estaban desnudas y fatigadas, no bien oyeron
+tan terribles palabras, cambiaron de color, rechinando los dientes,
+blasfemando de Dios, de sus padres, de la especie humana, del sitio y
+del día de su nacimiento, de la prole de su prole y de su descendencia:
+después se retiraron todas juntas, llorando fuertemente, hacia la
+orilla maldita en donde se espera a todo aquel que no teme a Dios.
+El demonio Carón, con ojos de ascuas, haciendo una señal, las fué
+reuniendo, golpeando con su remo a las que se rezagaban; y así como
+en otoño van cayendo las hojas una tras otra, hasta que las ramas han
+devuelto a la tierra todos sus despojos, del mismo modo los malvados
+hijos de Adán se lanzaban uno a uno desde la orilla, a aquella señal,
+como pájaros que acuden al reclamo. De esta suerte se fueron alejando
+por las negras ondas; pero antes de que hubieran saltado en la orilla
+opuesta, se reunió otra nueva muchedumbre en la que aquéllas habían
+dejado.
+
+--Hijo mío--me dijo el cortés Maestro--, los que mueren en la cólera
+de Dios acuden aquí de todos los países, y se apresuran a atravesar
+el río, espoleados de tal suerte por la justicia divina, que su temor
+se convierte en deseo. Por aquí no pasa nunca un alma pura; por lo
+cual, si Carón se irrita contra ti, ya conoces ahora el motivo de sus
+desdeñosas palabras.
+
+Apenas hubo terminado, tembló tan fuertemente la sombría campiña,
+que el recuerdo del espanto que sentí aún me inunda la frente de
+sudor. De aquella tierra de lágrimas salió un viento que produjo
+rojizos relámpagos, haciéndome perder el sentido y caer como un hombre
+sorprendido por el sueño.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO CUARTO_
+
+
+Interrumpió mi profundo sueño un trueno tan fuerte, que me estremecí
+como hombre a quien se despierta a la fuerza: me levanté, y dirigiendo
+una mirada en derredor mío, fijé la vista para reconocer el lugar donde
+me hallaba. Vime junto al borde del triste valle, abismo de dolor, en
+que resuenan infinitos ayes, semejantes a truenos. El abismo era tan
+profundo, obscuro y nebuloso, que en vano fijaba mis ojos en su fondo,
+pues no distinguía cosa alguna.
+
+--Ahora descendamos allá abajo, al tenebroso mundo--me dijo el poeta
+muy pálido--: yo iré el primero; tú el segundo.
+
+Yo, que había advertido su palidez, le respondí:
+
+--¿Cómo he de ir yo, si tú, que sueles desvanecer mis incertidumbres,
+te atemorizas?
+
+Y él repuso:
+
+--La angustia de los desgraciados que están ahí bajo, refleja en mi
+rostro una piedad que tú tomas por terror. Vamos, pues; que la longitud
+del camino exige que nos apresuremos.
+
+Y sin decir más, penetró y me hizo entrar en el primer círculo que
+rodea el abismo. Allí, según pude advertir, no se oían quejas, sino
+sólo suspiros, que hacían temblar la eterna bóveda, y que procedían
+de la pena sin tormento de una inmensa multitud de hombres, mujeres y
+niños. El buen Maestro me dijo:
+
+--¿No me preguntas qué espíritus son los que estamos viendo? Quiero,
+pues, que sepas, antes de seguir adelante, que éstos no pecaron; y
+si contrajeron en su vida algunos méritos, no es bastante, pues no
+recibieron el agua del bautismo, que es la puerta de la Fe que forma
+tu creencia. Y si vivieron antes del cristianismo, no adoraron a Dios
+como debían: yo también soy uno de ellos. Por tal falta, y no por otra
+culpa, estamos condenados, consistiendo nuestra pena en vivir con el
+deseo sin esperanza.
+
+Un gran dolor afligió mi corazón cuando oí esto, porque conocí personas
+de mucho valor que estaban suspensas en el Limbo.
+
+--Dime, Maestro y señor mío--le pregunté para afirmarme más en esta
+Fe que triunfa de todo error;--¿alguna de esas almas ha podido, bien
+por sus méritos o por los de otros, salir del Limbo y alcanzar la
+bienaventuranza?
+
+Y él, que comprendió mis palabras encubiertas y obscuras, repuso:
+
+--Yo era recién llegado a este sitio, cuando vi venir a un Sér
+poderoso, coronado con la señal de la victoria. Hizo salir de aquí
+el alma del primer padre, y la de Abel su hijo, y la de Noé; la del
+legislador Moisés, tan obediente; la del patriarca Abraham, y la del
+rey David; a Israel, con su padre y con sus hijos, y a Raquel por
+quien aquél hizo tanto,[5] y a otros muchos, a quienes otorgó la
+bienaventuranza; pues debes saber que, antes de ellos, no se salvaban
+las almas humanas.
+
+       [5] Se refiere a Jacobo o Israel, que por casarse con Raquel
+       sirvió al padre de ella catorce años.
+
+Mientras así hablaba, no dejábamos de andar; pero seguíamos atravesando
+siempre la selva, esto es, la selva que formaban los espíritus
+apiñados. Aun no estábamos muy lejos de la entrada del abismo, cuando
+vi un resplandor que triunfaba del hemisferio de las tinieblas: nos
+encontrábamos todavía a bastante distancia, pero no a tanta que no
+pudiera yo distinguir que aquel sitio estaba ocupado por personas
+dignas.
+
+--Oh tú, que honras toda ciencia y todo arte, ¿quiénes son ésos, cuyo
+valimiento debe ser tanto, que así están separados de los demás?
+
+Y él a mí:
+
+--La hermosa fama que aún se conserva de ellos en el mundo que habitas,
+les hace acreedores a esta gracia del cielo, que de tal suerte los
+distingue.
+
+Entonces oí una voz que decía: "¡Honrad al sublime poeta; regresa
+su sombra, que se había separado de nosotros!" Cuando calló la voz,
+vi venir a nuestro encuentro cuatro grandes sombras, cuyo rostro no
+manifestaba tristeza ni alegría. El buen maestro empezó a decirme:
+
+--Mira aquel que tiene una espada en la mano, y viene a la cabeza de
+los tres como su señor. Ese es Homero, poeta soberano: el otro es el
+satírico Horacio, Ovidio es el tercero y el último Lucano. Cada cual
+merece, como yo, el nombre que antes pronunciaron unánimes; me honran y
+hacen bien.
+
+De este modo vi reunida la hermosa escuela de aquel príncipe del
+sublime cántico, que vuela como el águila sobre todos los demás.
+
+Después de haber estado conversando entre sí un rato, se volvieron
+hacia mí dirigiéndome un amistoso saludo, que hizo sonreír a mi
+Maestro; y me honraron aún más, puesto que me admitieron en su
+compañía, de suerte que fuí el sexto entre aquellos grandes genios.
+Así seguimos hasta donde estaba la luz, hablando de cosas que es
+bueno callar, como bueno era hablar de ellas en el sitio en que nos
+encontrábamos. Llegamos al pie de un noble castillo, rodeado siete
+veces de altas murallas, y defendido alrededor por un bello riachuelo.
+Pasamos sobre éste como sobre tierra firme; y atravesando siete puertas
+con aquellos sabios, llegamos a un prado de fresca verdura. Allí había
+personajes de mirada tranquila y grave, cuyo semblante revelaba una
+grande autoridad: hablaban poco y con voz suave. Nos retiramos luego
+hacia un extremo de la pradera; a un sitio despejado, alto y luminoso,
+desde donde podían verse todas aquellas almas. Allí, en pie sobre
+el verde esmalte, me fueron señalados los grandes espíritus, cuya
+contemplación me hizo estremecer de alegría. Allí vi a Electra con
+muchos de sus compañeros, entre los que conocí a Héctor y a Eneas;
+después a César, armado, con sus ojos de ave de rapiña. Vi en otra
+parte a Camila y a Pentesilea, y vi al Rey Latino, que estaba sentado
+al lado de su hija Lavinia; vi a aquel Bruto, que arrojó a Tarquino de
+Roma; a Lucrecia también, a Julia, a Marcia y a Cornelia, y a Saladino,
+que estaba solo y separado de los demás. Habiendo levantado después la
+vista, vi al maestro de los que saben,[6] sentado entre su filosófica
+familia. Todos le admiran, todos le honran: vi además a Sócrates y
+Platón, que estaban más próximos a aquél que los demás; a Demócrito,
+que pretende que el mundo ha tenido por origen la casualidad; a
+Diógenes, a Anaxágoras y a Tales, a Empédocles, a Heráclito y a Zenón:
+vi al buen observador de la cualidad, es decir, a Dioscórides, y vi a
+Orfeo, a Tulio y a Lino, y al moralista Séneca; al geómetra Euclides, a
+Tolomeo, Hipócrates, Avicena y Galeno, y a Averroes, que hizo el gran
+comentario. No me es posible mencionarlos a todos, porque me arrastra
+el largo tema que he de seguir y muchas veces las palabras son breves
+para el asunto. Bien pronto la compañía de seis queda reducida a dos:
+mi sabio guía me conduce por otro camino fuera de aquella inmovilidad
+hacia una aura temblorosa, y llego a un punto privado totalmente de luz.
+
+       [6] El filósofo Aristóteles.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO QUINTO_
+
+
+Así descendí del primer círculo al segundo, que contiene menos espacio,
+pero mucho más dolor, y dolor punzante, que origina desgarradores
+gritos. Allí estaba el horrible Minos que, rechinando los dientes,
+examina las culpas de los que entran; juzga y da a comprender sus
+órdenes por medio de las vueltas de su cola. Es decir, que cuando se
+presenta ante él un alma pecadora, y le confiesa todas sus culpas,
+aquel gran conocedor de los pecados ve qué lugar del infierno debe
+ocupar y se lo designa, ciñéndose al cuerpo la cola tantas veces
+cuantas sea el número del círculo a que debe ser enviada. Ante él están
+siempre muchas almas, acudiendo por turno para ser juzgadas; hablan y
+escuchan, y después son arrojadas al abismo.
+
+--¡Oh, tú, que vienes a la mansión del dolor!--me gritó Minos cuando
+me vió, suspendiendo sus terribles funciones--; mira cómo entras y de
+quién te fías: no te alucine lo anchuroso de la entrada.
+
+Entonces mi guía le preguntó:
+
+--¿Por qué gritas? No te opongas a su viaje ordenado por el destino:
+así lo han dispuesto allí donde se puede lo que se quiere; y no
+preguntes más.
+
+Empezaron a dejarse oír voces plañideras: y llegué a un sitio donde
+hirieron mis oídos grandes lamentos. Entrábamos en un lugar que carecía
+de luz, y que rugía como el mar tempestuoso cuando está combatido
+por vientos contrarios. La tromba infernal, que no se detiene nunca,
+envuelve en su torbellino a los espíritus; les hace dar vueltas
+continuamente, y les agita y les molesta: cuando se encuentran ante la
+ruinosa valla que los encierra, allí son los gritos, los llantos y los
+lamentos, y las blasfemias contra la virtud divina. Supe que estaban
+condenados a semejante tormento los pecadores carnales que sometieron
+la razón a sus lascivos apetitos; y así como los estorninos vuelan en
+grandes y compactas bandadas en la estación de los fríos, así aquel
+torbellino arrastra a los espíritus malvados llevándolos de acá para
+allá, de arriba abajo, sin que abriguen nunca la esperanza de tener
+un momento de reposo, ni de que su pena se aminore. Y del mismo modo
+que las grullas van lanzando sus tristes acentos, formando todas una
+prolongada hilera en el aire, así también vi venir, exhalando gemidos,
+a las sombras arrastradas por aquella tromba. Por lo cual pregunté:
+
+--Maestro, ¿qué almas son ésas a quienes de tal suerte castiga ese aire
+negro?
+
+--La primera de ésas, de quienes deseas noticias--me dijo entonces--,
+fué emperatriz de una multitud de pueblos donde se hablaban diferentes
+lenguas, y tan dada al vicio de la lujuria, que permitió en sus leyes
+todo lo que excitaba el placer, para ocultar de este modo la abyección
+en que vivía. Es Semíramis, de quien se lee que sucedió a Nino y fué
+su esposa y reinó en la tierra en donde impera el Sultán. La otra es
+la que se mató por amor y quebrantó la fe prometida a las cenizas de
+Siqueo. Después sigue la lasciva Cleopatra. Ve también a Helena, que
+dió lugar a tan funestos tiempos; y ve al gran Aquiles, que al fin tuvo
+que combatir por el amor. Ve a París y a Tristán....
+
+Y a más de mil sombras me fué enseñando y designando con el dedo, a
+quienes Amor había hecho salir de esta vida. Cuando oí a mi sabio
+nombrar las antiguas damas y los caballeros, me sentí dominado por la
+piedad y quedé como aturdido. Empecé a decir:
+
+--Poeta, quisiera hablar a aquellas dos almas que van juntas y parecen
+más ligeras que las otras impelidas por el viento.
+
+Y él me contestó:
+
+--Espera que estén más cerca de nosotros: y entonces ruégales, por el
+amor que las conduce, que se dirijan hacia ti.
+
+Tan pronto como el viento las impulsó hacia nosotros, alcé la voz
+diciendo:
+
+--¡Oh almas atormentadas!, venid a hablarnos, si otro no se opone a
+ello.
+
+Así como dos palomas, excitadas por sus deseos, se dirigen con las alas
+abiertas y firmes hacia el dulce nido, llevadas en el aire por una
+misma voluntad, así salieron aquellas dos almas de entre la multitud
+donde estaba Dido, dirigiéndose hacia nosotros a través del aire
+malsano, atraídas por mi eficaz y afectuoso llamamiento.
+
+--¡Oh sér gracioso y benigno, que vienes a visitar enmedio de este aire
+negruzco a los que hemos teñido el mundo de sangre! Si fuéramos amados
+por el Rey del universo, le rogaríamos por tu tranquilidad, ya que te
+compadeces de nuestro acerbo dolor. Todo lo que te agrade oír y decir,
+te lo diremos y escucharemos con gusto mientras que siga el viento tan
+tranquilo como ahora. La tierra donde nací está situada en la costa
+donde desemboca el Po con todos sus afluentes para descansar en el mar.
+Amor, que se apodera pronto de un corazón gentil, hizo que éste se
+prendara de aquel hermoso cuerpo que me fué arrebatado de un modo que
+aún me atormenta. Amor, que no dispensa de amar al que es amado, hizo
+que me entregara vivamente al placer de que se embriagaba éste, que,
+como ves, no me abandona nunca. Amor nos condujo a la misma muerte.
+Caína[7] espera al que nos arrancó la vida.
+
+       [7] La primera de las cuatro divisiones concéntricas del
+       último círculo del Infierno, en donde son castigados los
+       traidores y los matadores de sus propios consanguíneos. Véase
+       el canto trigésimo segundo.
+
+Tales fueron las palabras de las dos sombras. Al oír a aquellas almas
+atormentadas, bajé la cabeza y la tuve inclinada tanto tiempo, que el
+poeta me dijo:
+
+--¿En qué piensas?
+
+--¡Ah!--exclamé al contestarle--; ¡cuán dulces pensamientos, cuántos
+deseos les han conducido a doloroso tránsito!
+
+Después me dirigí hacia ellos, diciéndoles:
+
+--Francisca, tus desgracias me hacen derramar tristes y compasivas
+lágrimas. Pero dime: en tiempo de los dulces suspiros ¿cómo os permitió
+Amor conocer vuestros secretos deseos?
+
+Ella me contestó:
+
+--No hay mayor dolor que acordarse del tiempo feliz en la miseria; y
+eso lo sabe bien tu Maestro. Pero si tienes tanto deseo de conocer cuál
+fué el principal origen de nuestro amor, haré como el que habla y llora
+a la vez. Leíamos un día por pasatiempo las aventuras de Lancelote, y
+de qué modo cayó en las redes del Amor: estábamos solos y sin abrigar
+sospecha alguna. Aquella lectura hizo que nuestros ojos se buscaran
+muchas veces y que palideciera nuestro semblante; mas un solo pasaje
+fué el que decidió de nosotros. Cuando leímos que la deseada sonrisa de
+la amada fué interrumpida por el beso del amante, éste, que jamás se ha
+de separar de mí, me besó tembloroso en la boca: el libro y quien lo
+escribió fué para nosotros otro Galeoto; aquel día ya no leímos más.
+
+Mientras que un alma decía esto, la otra lloraba de tal modo, que,
+movido de compasión, desfallecí como si me muriera, y caí como cae un
+cuerpo inanimado.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO SEXTO_
+
+
+Al recobrar los sentidos, que perdí por la tristeza y la compasión
+que me causó la suerte de los dos cuñados, vi en derredor mío nuevos
+tormentos y nuevas almas atormentadas doquier iba y doquier me volvía o
+miraba. Me encuentro en el tercer círculo; en el de la lluvia eterna,
+maldita, fría y densa, que cae siempre igualmente copiosa y con la
+misma fuerza. Espesos granizos, agua negruzca y nieve descienden en
+turbión a través de las tinieblas; la tierra, al recibirlos, exhala
+un olor pestífero. Cerbero, fiera cruel y monstruosa, ladra con sus
+tres fauces de perro contra los condenados que están allí sumergidos.
+Tiene los ojos rojos, los pelos negros y cerdosos, el vientre ancho y
+las patas guarnecidas de uñas que clava en los espíritus, les desgarra
+la piel y les descuartiza. La lluvia les hace aullar como perros; los
+miserables condenados forman entre sí una muralla con sus costados
+y se revuelven sin cesar. Cuando nos descubrió Cerbero, el gran
+gusano abrió las bocas enseñándonos sus colmillos; todos sus miembros
+estaban agitados. Entonces mi guía extendió las manos, cogió tierra,
+y la arrojó a puñados en las fauces ávidas de la fiera. Y del mismo
+modo que un perro se deshace ladrando al tener hambre, y se apacigua
+cuando muerde su presa, ocupado tan sólo en devorarla, así también el
+demonio Cerbero cerró sus impuras bocas, cuyos ladridos causaban tal
+aturdimiento a las almas que quisieran quedarse sordas. Pasamos por
+encima de las sombras derribadas por la incesante lluvia, poniendo
+nuestros pies sobre sus fantasmas, que parecían cuerpos humanos. Todas
+yacían por el suelo, excepto una que se levantó con presteza para
+sentarse, cuando nos vió pasar ante ella.
+
+--¡Oh, tú, que has venido a este Infierno!--me dijo--; reconóceme si
+puedes. Tú fuiste hecho, antes que yo deshecho.
+
+Yo le contesté:
+
+--La angustia que te atormenta es quizá causa de que no me acuerde de
+ti; me parece que no te he visto nunca. Pero dime, ¿quién eres tú, que
+a tan triste lugar has sido conducido, y condenado a un suplicio, que
+si hay otro mayor, no será por cierto tan desagradable?
+
+Contestóme:
+
+--Tu ciudad, tan llena hoy de envidia, que ya colma la medida, me vió
+en su seno en vida más serena. Vosotros, los habitantes de esa ciudad,
+me llamasteis Ciacco. Por el reprensible pecado de la gula, me veo,
+como ves, sufriendo esta lluvia. Yo no soy aquí la única alma triste;
+todas las demás están condenadas a igual pena por la misma causa.
+
+Y no pronunció una palabra más. Yo le respondí:
+
+--Ciacco, tu martirio me conmueve tanto, que me hace verter lágrimas;
+pero dime, si es que lo sabes: ¿en qué pararán los habitantes de esa
+ciudad tan dividida en facciones? ¿Hay algún justo entre ellos? Dime
+por qué razón se ha introducido en ella la discordia.
+
+Me contestó:
+
+--Después de grandes debates, llegarán a verter su sangre, y el partido
+salvaje arrojará al otro partido causándole grandes pérdidas. Luego
+será preciso que el partido vencedor sucumba al cabo de tres años,
+y que el vencido se eleve, merced a la ayuda de aquel que ahora es
+neutral. Esta facción llevará la frente erguida por mucho tiempo,
+teniendo bajo su férreo yugo a la otra, por más que ésta se lamente y
+avergüence. Aun hay dos justos, pero nadie les escucha: la soberbia,
+la envidia y la avaricia son las tres chispas que han inflamado los
+corazones.
+
+Aquí dió Ciacco fin a su lamentable discurso, y yo le dije:
+
+--Todavía quiero que me informes, y me concedas algunas palabras. Dime
+dónde están, y dame a conocer a Farinata y al Tegghiaio, que fueron tan
+dignos, a Jacobo Rusticucci, Arigo y Mosca, y a otros que a hacer bien
+consagraron su ingenio, pues siento un gran deseo de saber si están
+entre las dulzuras del Cielo o entre las amarguras del Infierno.
+
+A lo que me contestó:
+
+--Están entre almas más perversas; otros pecados los han arrojado a un
+círculo más profundo: si bajas hasta allí, podrás verlos. Pero cuando
+vuelvas al dulce mundo, te ruego que hagas porque en él se renueve mi
+recuerdo: y no te digo ni te respondo más.
+
+Entonces torció los ojos que había tenido fijos; miróme un momento, y
+luego inclinó la cabeza, y volvió a caer entre los demás ciegos. Mi
+guía me dijo:
+
+--Ya no volverá a levantarse hasta que se oiga el sonido de la angélica
+trompeta; cuando venga la potestad enemiga del pecado. Cada cual
+encontrará entonces su triste tumba; recobrará sus carnes y su figura;
+y oirá el juicio que debe resonar por toda una eternidad.
+
+Así fuimos atravesando aquella impura mezcla de sombras y de lluvia,
+con paso lento, razonando un poco sobre la vida futura. Por lo cual
+dije:
+
+--Maestro, ¿estos tormentos serán mayores después de la gran sentencia,
+o bien menores, o seguirán siendo tan dolorosos?
+
+Y él a mí:
+
+--Acuérdate de tu ciencia, que pretende que cuanto más perfecta es una
+cosa, tanto mayor bien o dolor experimenta. Aunque esta raza maldita
+no debe jamás llegar a la verdadera perfección, espera ser después del
+juicio más perfecta que ahora.
+
+Caminando por la vía que gira alrededor del círculo, continuamos
+hablando de otras cosas que no refiero, y llegamos al sitio donde se
+desciende: allí encontramos a Plutón, el gran enemigo.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO SEPTIMO_
+
+
+"Pape satán, pape satán aleppe"[8] comenzó a gritar Plutón con ronca
+voz. Y aquel sabio gentil, que lo supo todo, para animarme, dijo:
+
+       [8] Pape, interjección griega y latina, que significa
+       sorpresa; aleppe, lo mismo que aleph (o Ioseph), voz hebraica,
+       equivalente a jefe, príncipe, etc. La frase, truncada por
+       reticencia, quiere decir: "¡Cómo, Satanás; cómo, Satanás,
+       príncipe del Infierno!... ¿Un audaz mortal se atreve a entrar
+       aquí?"--Fraticelli.
+
+--No te inquiete el temor; pues a pesar de su poder, no te impedirá que
+desciendas a este círculo.
+
+Después, volviéndose hacia aquel rostro hinchado de ira, le dijo:
+
+--Calla, lobo maldito: consúmete interiormente con tu propia rabia. No
+sin razón venimos al profundo infierno; pues así lo han dispuesto allá
+arriba, donde Miguel castigó la soberbia rebelión.
+
+Como las velas, hinchadas por el viento, caen derribadas cuando el
+mástil se rompe, del mismo modo cayó al suelo aquella fiera cruel. Así
+bajamos a la cuarta cavidad, aproximándonos más a la dolorosa orilla
+que encierra en sí todo el mal del universo. ¡Ah, justicia de Dios!,
+¿quién, si no tú, puede amontonar tantas penas y trabajos como allí
+vi? ¿Por qué nos desgarran así nuestras propias faltas? Como una ola
+se estrella contra otra ola en el escollo de Caribdis, así chocan uno
+contra otro los condenados. Allí vi más condenados que en ninguna
+otra parte, los cuales formados en dos filas, se lanzaban de la una
+a la otra enormes pesos con todo el esfuerzo de su pecho, gritando
+fuertemente: dábanse grandes golpes, y después se volvían cada cual
+hacia atrás, exclamando: "¿Por qué guardas? ¿Por qué derrochas?" De
+esta suerte iban girando por aquel tétrico círculo, yendo desde un
+extremo a su opuesto, y repitiendo a gritos su injurioso estribillo.
+Después, cuando cada cual había llegado al centro de su círculo, se
+volvían todos a la vez para empezar de nuevo otra pelea.
+
+Yo, que tenía el corazón conmovido de lástima, dije:
+
+--Maestro mío, indícame qué gente es ésta. Todos esos tonsurados que
+vemos a nuestra izquierda ¿han sido clérigos?
+
+Y él me respondió:
+
+--Erró la mente de todos en la primera vida, y no supieron gastar
+razonablemente: así lo manifiestan claramente sus aullidos cuando
+llegan a los dos puntos del círculo que los separa de los que siguieron
+camino opuesto. Esos que no tienen cabellos que cubran su cabeza,
+fueron clérigos, papas y cardenales, a quienes subyugó la avaricia.
+
+Y yo:
+
+--Maestro, entre todos ésos, bien deberá haber algunos a quienes yo
+conozca y a quienes tan inmundos hizo este vicio.
+
+Y él a mí:
+
+--En vano esforzarás tu imaginación: la vida sórdida que los hizo
+deformes, hace que hoy sean obscuros y desconocidos. Continuarán
+chocando entre sí eternamente; y saldrán éstos del sepulcro con los
+puños cerrados, y aquéllos con el cabello rapado. Por haber gastado
+mal y guardado mal, han perdido el Paraíso, y se ven condenados a ese
+eterno combate, que no necesito pintarte con palabras escogidas. Ahí
+podrás ver, hijo mío, cuán rápidamente pasa el soplo de los bienes de
+la Fortuna, por los que la raza humana se enorgullece y querella. Todo
+el oro que existe bajo la Luna, y todo lo que ha existido, no puede dar
+un momento de reposo a una sola de esas almas fatigadas.
+
+--Maestro--le dije entonces--, enséñame cuál es esa Fortuna de que me
+hablas, y que así tiene entre sus manos los bienes del mundo.
+
+Y él a mí:
+
+--¡Oh necias criaturas! ¡Cuán grande es la ignorancia que os extravía!
+Quiero que te alimentes con mis lecciones. Aquél, cuya sabiduría
+es superior a todo, hizo los cielos y les dió un guía, de modo que
+toda parte brilla para toda parte, distribuyendo la luz por igual;
+con el esplendor del mundo hizo lo mismo, y le dió una guía, que
+administrándolo todo, hiciera pasar de tiempo en tiempo las vanas
+riquezas de una a otra familia, de una a otra nación, a pesar de los
+obstáculos que crean la prudencia y previsión humanas. He aquí por qué,
+mientras una nación impera, otra languidece, según el juicio de Aquél
+que está oculto, como la serpiente en la hierba. Vuestro saber no puedo
+contrastarla; porque provee, juzga y prosigue su reinado, como el suyo
+cada una de las otras deidades. Sus transformaciones no tienen tregua;
+la necesidad la obliga a ser rápida; por eso se cambia todo en el mundo
+con tanta frecuencia. Tal es esa a quien tan a menudo vituperan los
+mismos que deberían ensalzarla, y de quien blasfeman y maldicen sin
+razón. Pero ella es feliz, y no oye esas maldiciones: contenta entre
+las primeras criaturas, prosigue su obra y goza en su beatitud. Bajemos
+ahora donde existen mayores y más lamentables males: ya descienden
+todas las estrellas que salían cuando me puse en marcha, y nos está
+prohibido retrasarnos mucho.
+
+Atravesamos el círculo hasta la otra orilla, sobre un hirviente
+manantial, que vierte sus aguas en un arroyo que le debe su origen
+y cuyas aguas son más bien obscuras que azuladas; y bajamos por un
+camino distinto, siguiendo el curso de tan tenebrosas ondas. Cuando
+aquel arroyo ha llegado al pie de la playa gris e infecta, forma una
+laguna llamada Estigia; y yo, que miraba atentamente, vi algunas almas
+encenagadas en aquel pantano, completamente desnudas y de irritado
+semblante. Se golpeaban no sólo con las manos, sino con la cabeza,
+con el pecho, con los pies, arrancándose la carne a pedazos con los
+dientes. Díjome el buen Maestro:
+
+--Hijo, contempla las almas de los que han sido dominados por la ira:
+quiero además que sepas que bajo esta agua hay una raza condenada
+que suspira, y la hace hervir en la superficie, como te lo indican
+tus miradas en cuantos sitios se fijan. Metidos en el lodo, dicen:
+"Estuvimos siempre tristes bajo aquel aire dulce que alegra el
+Sol, llevando en nuestro interior una tétrica humareda: ahora nos
+entristecemos también en medio de este negro cieno." Estas palabras
+salen del fondo de su garganta, como si formaran gárgaras, no pudiendo
+pronunciar una sola íntegra.
+
+Así fuimos describiendo un gran arco alrededor del fétido pantano,
+entre la playa seca y el agua, vueltos los ojos hacia los que se
+atragantaban con el fango, hasta que al fin llegamos al pie de una
+torre.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO OCTAVO_
+
+
+Digo, continuando, que mucho antes de llegar al pie de la elevada
+torre, nuestros ojos se fijaron en su parte más alta, a causa de dos
+lucecitas que allí vimos, y otra que correspondía a estas dos, pero
+desde tan lejos, que apenas podía distinguirse. Entonces, dirigiéndome
+hacia el mar de toda ciencia, dije:
+
+--¿Qué significan esas llamas? ¿Qué responde aquella otra, y quiénes
+son los que hacen esas señales?
+
+Respondióme:
+
+--Sobre esas aguas fangosas puedes ver lo que ha de venir, si es que no
+te lo ocultan los vapores del pantano.
+
+Jamás cuerda alguna despidió una flecha que corriese por el aire con
+tanta velocidad, como una navecilla que vi surcando las aguas en
+nuestra dirección, gobernada por un solo remero que gritaba: "¿Has
+llegado ya, alma vil?"
+
+--Flegias, Flegias, gritas en vano esta vez--dijo mi Señor--; no nos
+tendrás en tu poder más tiempo que el necesario para pasar la laguna.
+
+Flegias, conteniendo su cólera, hizo lo que un hombre a quien descubren
+que ha sido víctima de un engaño, ocasionándole esto un dolor profundo.
+Mi guía saltó a la barca y me hizo entrar en ella tras él; pero aquélla
+no pareció ir cargada hasta que recibió mi peso. En cuanto ambos
+estuvimos dentro, la antigua proa partió trazando en el agua una estela
+más profunda de lo que solía cuando llevaba otros pasajeros. Mientras
+recorríamos aquel canal de agua estancada, se me presentó una sombra
+llena de lodo, y me preguntó:
+
+--¿Quién eres tú, que vienes antes de tiempo?
+
+A lo que contesté:
+
+--Si he venido, no es para permanecer aquí; mas dime ¿quién eres tú,
+que tan sucio estás?
+
+Respondióme:
+
+--Ya ves que soy uno de los que lloran.
+
+Y yo a él:
+
+--¡Permanece, pues, entre el llanto y la desolación, espíritu maldito!
+Te conozco aunque estés tan enlodado.
+
+Entonces extendió sus manos hacia la barca, pero mi prudente Maestro le
+rechazó diciendo:
+
+--Véte de aquí con los otros perros.
+
+En seguida rodeó mi cuello con sus brazos, me besó en el rostro y me
+dijo:
+
+--Alma desdeñosa, ¡bendita aquella que te llevó en su seno! Ese que
+ves fué en el mundo una persona soberbia; ninguna virtud ha honrado su
+memoria, por lo que su sombra está siempre furiosa. ¡Cuántos se tienen
+allá arriba por grandes reyes, que se verán sumidos como cerdos en este
+pantano, sin dejar en pos de sí más que horribles desprecios!
+
+Y yo:
+
+--Maestro, antes de salir de este lago, desearía en gran manera ver a
+ese pecador sumergido en el fango.
+
+Y él a mí:
+
+--Antes de que veas la orilla, quedarás satisfecho: convendrá que goces
+de ese deseo.
+
+Poco después, le vi acometido de tal modo por las demás sombras
+cenagosas, que aún alabo a Dios y le doy gracias por ello. Todas
+gritaban: "¡A Felipe Argenti!" Este florentino, espíritu orgulloso,
+se revolvía contra sí mismo, destrozándose con sus dientes. Dejémosle
+allí, pues no pienso ocuparme más de él. Después vino a herir mis oídos
+un lamento doloroso, por lo cual miré con más atención en torno mío. El
+buen Maestro me dijo:
+
+--Hijo mío, ya estamos cerca de la ciudad que se llama Dite; sus
+habitantes pecaron gravemente y son muy numerosos.
+
+Y yo le respondí:
+
+--Ya distingo en el fondo del valle sus torres bermejas, como si
+salieran de entre llamas.
+
+A lo cual me contestó:
+
+--El fuego eterno que interiormente las abrasa, les comunica el rojo
+color que ves en ese bajo infierno.
+
+Al fin entramos en los profundos fosos que ciñen aquella desolada
+tierra: las murallas me parecían de hierro. Llegamos, no sin haber
+dado antes un gran rodeo, a un sitio en que el barquero nos dijo en
+alta voz: "Salid, he aquí la entrada." Vi sobre las puertas más de
+mil espíritus, caídos del cielo como una lluvia, que decían con ira:
+"¿Quién es ése que sin haber muerto anda por el reino de los muertos?"
+Mi sabio Maestro hizo un ademán expresando que quería hablarles en
+secreto. Entonces contuvieron un poco su cólera y respondieron: "Ven
+tú solo, y que se vaya aquel que tan audazmente entró en este reino.
+Que se vuelva solo por el camino que ha emprendido locamente: que
+lo intente, si sabe; porque tú, que le has guiado por esta obscura
+comarca, te has de quedar aquí."
+
+Juzga, lector, si estaría yo tranquilo al oír aquellas palabras
+malditas: no creí volver nunca a la tierra.
+
+--¡Oh, mi guía querido!, tú que más de siete veces me has devuelto la
+tranquilidad y librado de los grandes peligros con que he tropezado,
+no me dejes, le dije, tan abatido: si nos está prohibido avanzar más,
+volvamos inmediatamente sobre nuestros pasos.
+
+Y aquel señor que allí me había llevado me dijo:
+
+--No temas, pues nadie puede cerrarnos el paso que Dios nos ha abierto.
+Aguárdame aquí: reanima tu abatido espíritu y alimenta una grata
+esperanza, que yo no te dejaré en este bajo mundo.
+
+En seguida se fué el dulce Padre, y me dejó solo. Permanecí en una gran
+incertidumbre, agitándose el sí y el no en mi cabeza.
+
+No pude oír lo que les propuso; pero habló poco tiempo con ellos, y
+todos a una corrieron hacia la ciudad. Nuestros enemigos dieron con
+las puertas en el rostro a mi Señor, que se quedó fuera, y se dirigió
+lentamente hacia donde yo estaba. Tenía los ojos inclinados, sin dar
+señales de atrevimiento, y decía entre suspiros: "¿Quién me ha impedido
+la entrada en la mansión de los dolores?" Y dirigiéndose a mí:
+
+--Si estoy irritado--me dijo--, no te inquietes; yo saldré victorioso
+de esta prueba, cualesquiera que sean los que se opongan a nuestra
+entrada. Su temeridad no es nueva: ya la demostraron ante una puerta
+menos secreta, que se encuentra todavía sin cerradura. Ya has visto
+sobre ella la inscripción de muerte. Pero más acá de esa puerta,
+descendiendo la montaña y pasando por los círculos sin necesidad de
+guía, viene uno que nos abrirá la ciudad.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO NONO_
+
+
+Aquel color que el miedo pintó en mi rostro cuando vi a mi guía
+retroceder, hizo que en el suyo se desvaneciera más pronto la palidez
+insólita, púsose atento, como un hombre que escucha, porque las miradas
+no podían penetrar a través del denso aire y de la espesa niebla.
+
+--Sin embargo, debemos vencer en esta lucha--empezó a decir--; ¡si
+no!... pero se nos ha prometido... ¡Oh!, ¡cuánto tarda el otro en
+llegar![9]
+
+       [9] Si no... Esta reticencia expresa el temor y la duda, que
+       inmediatamente desecha Virgilio por respeto al Sér Supremo.
+       Quiere decir: "¡Si no... viniese ayuda del cielo!... Pero,
+       ¿qué digo? Se me ha prometido... y no puede faltar." Se
+       refiere a la llegada del ángel.
+
+Yo vi bien que ocultaba lo que había comenzado a decir bajo otra idea
+que le asaltó después, y que estas últimas palabras eran diferentes
+de las primeras: sin embargo, su discurso me causó espanto, porque me
+parecía descubrir en sus entrecortadas frases un sentido peor del que
+en realidad tenían.
+
+--¿Ha bajado alguna vez al fondo de este triste abismo algún espíritu
+del primer círculo, cuya sola pena es la de perder la esperanza?--le
+pregunté.
+
+A lo que me respondió:
+
+--Rara vez sucede que alguno recorra el camino por donde yo voy. Es
+cierto que tuve que bajar aquí otra vez a causa de los conjuros de la
+cruel Erictón, que llamaba las almas a sus cuerpos, hacía poco tiempo
+que mi carne estaba despojada de su alma, cuando me hizo traspasar esas
+murallas para sacar un espíritu del círculo de Judas. Este círculo es
+el más profundo, el más obscuro y el más lejano del Cielo que lo mueve
+todo. Conozco bien el camino; por lo cual debes estar tranquilo. Esta
+laguna, que exhala tan gran fetidez, ciñe en torno la ciudad del dolor,
+donde ya no podremos entrar sin justa indignación.
+
+Dijo además otras cosas, que no he podido retener en mi memoria, porque
+me hallaba absorto, mirando la alta torre de ardiente cúspide, donde
+vi de improviso aparecer rápidamente tres furias infernales, tintas en
+sangre, las cuales tenían movimientos y miembros femeniles. Estaban
+ceñidas de hidras verdosas, y tenían por cabellos pequeñas serpientes y
+cerastas, que ceñían sus horribles sienes. Y aquél que conocía muy bien
+a las siervas de la Reina del dolor eterno:
+
+--Mira--me dijo--, las feroces Erinnias. La de la izquierda es Megera;
+la que llora a la derecha es Alecton, y la del centro es Tisifona.
+
+Después calló. Las furias se desgarraban el pecho con sus uñas; se
+golpeaban con las manos, y daban tan fuertes gritos, que por temor me
+acerqué más al poeta. "Venga Medusa, y le convertiremos en piedra,
+decían todas mirando hacia abajo: mal hemos vengado la entrada del
+audaz Teseo."
+
+--Vuélvete y cúbrete los ojos con las manos, porque si apareciese la
+Gorgona, y la vieses, no podrías jamás volver arriba.
+
+Así me dijo el Maestro, volviéndome él mismo; y no fiándose de mis
+manos, me tapó los ojos con las suyas. ¡Oh vosotros, que gozáis de sano
+entendimiento; descubrid la doctrina que se oculta bajo el velo de tan
+extraños versos!
+
+Oíase a través de las turbias ondas un gran ruido, lleno de horror, que
+hacía retemblar las dos orillas, asemejándose a un viento impetuoso,
+impelido por contrarios ardores, que se ensaña en las selvas, y sin
+tregua las ramas rompe y desgaja, y las arroja fuera; y marchando
+polvoroso y soberbio, hace huír a las fieras y a los pastores. Me
+descubrió los ojos, y me dijo:
+
+--Ahora dirige el nervio de tu vista sobre esa antigua espuma, hacia el
+sitio en que el humo es más maligno.
+
+Como las ranas, que, al ver la culebra enemiga, desaparecen a través
+del agua, hasta que se han reunido todas en el cieno, del mismo modo
+vi más de mil almas condenadas, huyendo de uno que atravesaba la
+Estigia a pie enjuto. Alejaba de su rostro el aire denso, extendiendo
+con frecuencia la siniestra mano hacia delante, y sólo este trabajo
+parecía cansarle. Bien comprendí que era un mensajero del Cielo, y
+volvíme hacia el Maestro; pero éste me indicó que permaneciese quieto y
+me inclinara. ¡Ah!, ¡cuán desdeñoso me pareció aquel enviado celeste!
+Llegó a la puerta, y la abrió con una varita sin encontrar obstáculo.
+
+--¡Oh demonios arrojados del Cielo, raza despreciable!--empezó a
+decir en el horrible umbral--; ¿cómo habéis podido conservar vuestra
+arrogancia? ¿Por qué os resistís contra esa voluntad, que no deja nunca
+de conseguir su intento, y que ha aumentado tantas veces vuestros
+dolores? ¿De qué os sirve luchar contra el destino? Vuestro Cerbero,
+si bien lo recordáis, tiene aún el cuello y el hocico pelados.
+
+Entonces se volvió hacia el cenagoso camino sin dirigirnos la palabra,
+semejante a un hombre a quien preocupan y apremian otros cuidados, que
+no se relacionan con la gente que tiene delante. Y nosotros, confiados
+en las palabras santas, dirigimos nuestros pasos hacia la ciudad de
+Dite. Entramos en ella sin ninguna resistencia; y como yo deseaba
+conocer la suerte de los que estaban encerrados en aquella fortaleza,
+luego que estuve dentro, empecé a dirigir escudriñadoras miradas en
+torno mío, y vi por todos lados un gran campo lleno de dolor y de
+crueles tormentos. Como en los alrededores de Arlés, donde se estanca
+el Ródano, o como en Pola, cerca del Quarnero, que encierra a Italia
+y baña sus fronteras, vense antiguos sepulcros, que hacen montuoso el
+terreno, así también aquí se elevaban sepulcros por todas partes; con
+la diferencia de que su aspecto era más terrible, por estar envueltos
+entre un mar de llamas, que los encendían enteramente, más que lo fué
+nunca el hierro en ningún arte. Todas sus losas estaban levantadas, y
+del interior de aquéllos salían tristes lamentos, parecidos a los de
+los míseros ajusticiados. Entonces le pregunté a mi Maestro:
+
+--¿Qué clase de gente es ésa, que sepultada en aquellas arcas, se da a
+conocer por sus dolientes suspiros?
+
+A lo que me respondió:
+
+--Son los heresiarcas, con sus secuaces de todas sectas: esas tumbas
+están mucho más llenas de lo que puedes figurarte. Ahí está sepultado
+cada cual con su semejante, y las tumbas arden más o menos.
+
+Después, dirigiéndose hacia la derecha, pasamos por entre los sepulcros
+y las altas murallas.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMO_
+
+
+Mi maestro avanzó por un estrecho sendero, entre los muros de la ciudad
+y las tumbas de los condenados, y yo seguí tras él.
+
+--¡Oh suma virtud--exclamé--que me conduces a tu placer por los
+círculos impíos! Háblame y satisface mis deseos. ¿Podré ver la gente
+que yace en esos sepulcros? Todas las losas están levantadas, y no hay
+nadie que vigile.
+
+Respondióme:
+
+--Todos quedarán cerrados, cuando hayan vuelto de Josafat las almas con
+los cuerpos que han dejado allá arriba. Epicuro y todos sus sectarios,
+que pretenden que el alma muere con el cuerpo, tienen su cementerio
+hacia esta parte. Así, que pronto contestarán aquí dentro a la pregunta
+que me haces, y al deseo que me ocultas.
+
+Yo le repliqué:
+
+--Buen Guía, si acaso te oculto mi corazón, es por hablar poco, a lo
+cual no es la primera vez que me has predispuesto con tus advertencias.
+
+--¡Oh Toscano, que vas por la ciudad del fuego hablando modestamente!,
+dígnate detenerte en este sitio. Tu modo de hablar revela claramente el
+noble país al que quizá fuí yo funesto.
+
+Tales palabras salieron súbitamente de una de aquellas arcas, haciendo
+que me aproximara con temor a mi Guía. Este me dijo:
+
+--Vuélvete: ¿qué haces? Mira a Farinata, que se ha levantado en su
+tumba, y a quien puedes contemplar desde la cintura a la cabeza.
+
+Yo tenía ya mis miradas fijas en las suyas: él erguía su pecho y su
+cabeza en ademán de despreciar al Infierno. Entonces mi Guía, con
+mano animosa y pronta, me impelió hacia él a través de los sepulcros,
+diciéndome: "Háblale con claridad."
+
+En cuanto estuve al pie de su tumba, examinóme un momento; y después,
+con acento un tanto desdeñoso, me preguntó:
+
+--¿Quiénes fueron tus antepasados?
+
+Yo, que deseaba obedecer, no le oculté nada, sino que se lo descubrí
+todo; por lo cual arqueó un poco las cejas, y dijo:
+
+--Fueron terribles contrarios míos, de mis parientes y de mi partido;
+por eso los desterré dos veces.
+
+--Si estuvieron desterrados--le contesté--, volvieron de todas partes
+una y otra vez, arte que los vuestros no han aprendido.
+
+Entonces, al lado de aquél, apareció a mi vista una sombra, que sólo
+descubría hasta la barba, lo que me hace creer que estaba de rodillas.
+Miró en torno mío, como deseando ver si estaba alguien conmigo; y
+apenas se desvanecieron sus sospechas, me dijo llorando:
+
+--Si la fuerza de tu genio es la que te ha abierto esta obscura
+prisión, ¿dónde está mi hijo y por qué no se encuentra a tu lado?
+
+Respondíle:
+
+--No he venido por mí mismo: el que me espera allí me guía por estos
+lugares: quizá vuestro Guido "tuvo" hacia él demasiado desdén.
+
+Sus palabras y la clase de su suplicio me habían revelado ya el nombre
+de aquella sombra: así es que mi respuesta fué precisa. Irguiéndose
+repentinamente exclamó:
+
+--¿Cómo dijiste "tuvo"? Pues qué, ¿no vive aún? ¿No hiere ya sus ojos
+la dulce luz del día?
+
+Cuando observó que yo tardaba en responderle, cayó de espaldas en su
+tumba, y no volvió a aparecer fuera de ella. Pero aquel otro magnánimo,
+por quien yo estaba allí, no cambió de color, ni movió el cuello, ni
+inclinó el cuerpo.
+
+--El que no hayan aprendido bien ese arte--me dijo continuando la
+conversación empezada--, me atormenta más que este lecho. Mas la deidad
+que reina aquí no mostrará cincuenta veces su faz iluminada, sin que tú
+conozcas lo difícil que es ese arte. Pero dime, así puedas volver al
+dulce mundo, ¿por qué causa es ese pueblo tan desapiadado con los míos
+en todas sus leyes?
+
+A lo cual le contesté:
+
+--El destrozo y la gran matanza que enrojeció el Arbia excita tales
+discursos en nuestro templo.
+
+Entonces movió la cabeza suspirando, y después dijo:
+
+--No estaba yo allí solo; y en verdad, no sin razón me encontré en
+aquel sitio con los demás; pero sí fuí el único que, cuando se trató de
+destruir a Florencia, la defendí resueltamente.
+
+--¡Ah!--le contesté--; ¡ojalá vuestra descendencia tenga paz y reposo!
+Pero os ruego que deshagáis el nudo que ha enmarañado mi pensamiento.
+Me parece, por lo que he oído, que prevéis lo que el tiempo ha de
+traer, a pesar de que os suceda lo contrario con respecto a lo presente.
+
+--Nosotros--dijo--somos como los que tienen la vista cansada, que
+vemos las cosas distantes, gracias a una luz con que nos ilumina el
+Guía soberano. Cuando las cosas están próximas o existen, nuestra
+inteligencia es vana, y si otro no nos lo cuenta, nada sabemos de
+los sucesos humanos; por lo cual puedes comprender que toda nuestra
+inteligencia morirá el día en que se cierre la puerta del porvenir.
+
+--Decid a ese que acaba de caer, que su hijo está aún entre los vivos.
+Si antes no le respondí, hacedle saber que lo hice porque estaba
+distraído con la duda que habéis aclarado.
+
+Mi Maestro me llamaba ya, por cuya razón rogué más solícitamente al
+espíritu que me dijera quién estaba con él.
+
+--Estoy tendido entre más de mil--me respondió--; ahí dentro están el
+segundo Federico y el Cardenal.[10] En cuanto a los demás, me callo.
+
+       [10] El emperador Federico II, siempre en guerra con los
+       Papas, contra los cuales escribió versos, fué excomulgado
+       por Gregorio IX e Inocencio IV, y murió en 1250.--Octaviano
+       degli Ubaldini, de Florencia y del partido gibelino, a pesar
+       de ser Cardenal, dijo una vez, que, si acaso tuviera alma, la
+       perdería por los gibelinos. Por esta razón los coloca Dante
+       entre los herejes.
+
+Se ocultó después de decir esto, y yo dirigí mis pasos hacia el antiguo
+poeta, pensando en aquellas palabras que me parecían amenazadoras. Se
+puso en marcha, y mientras caminábamos, me dijo:
+
+--¿Por qué estás tan turbado?
+
+Y cuando satisfice su pregunta:
+
+--Conserva en tu memoria lo que has oído contra ti--me ordenó aquel
+sabio--; y ahora estáme atento.
+
+Y levantando el dedo, prosiguió:
+
+--Cuando estés ante la dulce mirada de aquella cuyos bellos ojos lo ven
+todo, conocerás el porvenir que te espera.
+
+En seguida se dirigió hacia la izquierda. Dejamos las murallas y fuimos
+hacia el centro de la ciudad, por un sendero que conduce a un valle, el
+cual exhalaba un hedor insoportable.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO UNDECIMO_
+
+
+A la extremidad de un alto promontorio, formado por grandes piedras
+rotas y acumuladas en círculo, llegamos hasta un montón de espíritus
+más cruelmente atormentados. Allí, para preservarnos de las horribles
+emanaciones y de la fetidez que despedía el profundo abismo, nos
+pusimos al abrigo de la losa de un gran sepulcro, donde vi una
+inscripción que decía: "Encierro al papa Anastasio, a quien Fotino
+arrastró lejos del camino recto."
+
+--Es preciso que descendamos por aquí lentamente, a fin de acostumbrar
+de antemano nuestros sentidos a este triste hedor, y después no
+tendremos necesidad de precavernos de él.
+
+Así habló mi Maestro, y yo le dije:
+
+--Busca algún recurso para que no perdamos el tiempo inútilmente.
+
+A lo que me respondió:
+
+--Ya ves que en ello pienso. Hijo mío--continuó--, en medio de estas
+rocas hay tres círculos, que se estrechan gradualmente como los que has
+dejado: todos están llenos de espíritus malditos; mas para que después
+te baste con sólo verlos, oye cómo y por qué están aquí encerrados. La
+injuria es el fin de toda maldad que se atrae el odio del cielo, y se
+llega a este fin, que redunda en perjuicio de otros, bien por medio de
+la violencia, o bien por medio del fraude. Pero como el fraude es una
+maldad propia del hombre, por eso es más desagradable a los ojos de
+Dios, y por esta razón los fraudulentos están debajo, entregados a un
+dolor más vivo. Todo el primer círculo lo ocupan los violentos, círculo
+que está además construído y dividido en tres recintos; porque puede
+cometerse violencia contra tres clases de seres: contra Dios, contra sí
+mismo y contra el prójimo; y no sólo contra sus personas, sino también
+contra sus bienes, como lo comprenderás por estas claras razones. Se
+comete violencia contra el prójimo dándole la muerte o causándole
+heridas dolorosas; y contra sus bienes, por medio de la ruina, del
+incendio o de los latrocinios. De aquí resulta que los homicidas, los
+que causan heridas, los incendiarios y los ladrones están atormentados
+sucesivamente en el primer recinto. Un hombre puede haber dirigido su
+mano violenta contra sí mismo o contra sus bienes: justo es, pues,
+que purgue su culpa en el segundo recinto, sin esperar tampoco mejor
+suerte aquel que por su propia voluntad se priva de vuestro mundo,
+juega, disipa sus bienes o llora donde debía haber estado alegre y
+gozoso. Puede cometer violencia contra la Divinidad el que reniega de
+ella y blasfema con el corazón, y el que desprecia la Naturaleza y sus
+bondades. He aquí por qué el recinto más pequeño marca con su fuego a
+Sodoma y a Cahors, y a todo el que, despreciando a Dios, le injuria
+sin hablar, desde el fondo de su corazón. El hombre puede emplear el
+fraude que produce remordimientos en todas las conciencias, ya con el
+que de él se fía, ya también con el que desconfía de él. Este último
+modo de usar del fraude parece que sólo quebranta los vínculos de amor,
+que forma la Naturaleza; por esta causa están encadenados en el segundo
+recinto los hipócritas, los aduladores, los hechiceros, los falsarios,
+los ladrones, los simoníacos, los rufianes, los barateros y todos los
+que se han manchado con semejantes e inmundos vicios. Por el primer
+fraude no sólo se olvida el amor que establece la Naturaleza, sino
+también el sentimiento que le sigue, y de donde nace la confianza: he
+aquí por qué, en el círculo menor, donde está el centro de la Tierra y
+donde se halla el asiento de Dite, yace eternamente atormentado todo
+aquel que ha cometido traición.
+
+Le dije entonces:
+
+--Maestro, tus razones son muy claras, y bien me dan a conocer, por
+medio de tales divisiones, ese abismo y la muchedumbre que le habita;
+pero dime: los que están arrojados en aquella laguna cenagosa, los que
+agita el viento sin cesar, los que azota la lluvia, y los que chocan
+entre sí lanzando tan estridentes gritos, ¿por qué no son castigados en
+la ciudad del fuego, si se han atraído la cólera de Dios? Y si no se la
+han atraído, ¿por qué se ven atormentados de tal suerte?
+
+Me contestó:
+
+--¿Por qué tu ingenio, contra su costumbre, delira tanto ahora?, ¿o es
+que tienes el pensamiento en otra parte? ¿No te acuerdas de aquellas
+palabras de la Etica, que has estudiado, en las que se trata de las
+tres inclinaciones que el Cielo reprueba: la incontinencia, la malicia
+y la loca bestialidad, y de qué modo la incontinencia ofende menos
+a Dios y produce menor censura? Si examinas bien esta sentencia,
+acordándote de los que sufren su castigo fuera de aquí, conocerás
+por qué están separados de esos felones, y por qué los atormenta la
+justicia divina, a pesar de demostrarse con ellos menos ofendida.
+
+--¡Oh Sol, que sanas toda vista conturbada!--exclamé--: tal contento
+me das cuando desarrollas tus ideas, que sólo por eso me es tan grato
+dudar como saber. Vuelve atrás un momento, y explícame de qué modo
+ofende la usura a la bondad divina: desvanece esta duda.
+
+--La filosofía--me contestó--enseña en más de un punto al que la
+estudia, que la Naturaleza tiene su origen en la Inteligencia divina y
+en su arte; y si consultas bien tu Física, encontrarás, sin necesidad
+de hojear muchas páginas, que el arte humano sigue cuanto puede a
+la Naturaleza, como el discípulo a su maestro; de modo que aquél es
+casi nieto de Dios. Partiendo, pues, de estos principios, sabrás si
+recuerdas bien el Génesis, que es conveniente sacar de la vida la mayor
+utilidad, y multiplicar el género humano. El usurero sigue otra vía;
+desprecia a la naturaleza y a su secuaz, y coloca su esperanza en otra
+parte. Ahora sígueme; que me place avanzar. Los peces suben ya por el
+horizonte; el carro se ve hacia aquel punto donde expira Coro, y lejos
+de aquí el alto promontorio parece que desciende.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DUODECIMO_
+
+
+El sitio por donde empezamos a bajar era un paraje alpestre y, a causa
+del que allí se hallaba, todas las miradas se apartarían de él con
+horror. Como aquellas ruinas, cuyo flanco azota el río Adigio, más acá
+de Trento, producidas por un terremoto o por falta de base, que desde
+la cima del monte de donde cayeron hasta la llanura, presentan la roca
+tan hendida, que ningún paso hallaría el que estuviese sobre ellas, así
+era la bajada de aquel precipicio; y en el borde de la entreabierta
+sima estaba tendido el monstruo, oprobio de Creta, que fué concebido
+por una falsa vaca. Cuando nos vió, se mordió a sí mismo, como aquel a
+quien abrasa la ira. Gritóle entonces mi Sabio:
+
+--¿Por ventura crees que esté aquí el rey de Atenas, que allá arriba,
+en el mundo, te dió la muerte? Aléjate, monstruo; que éste no viene
+amaestrado por tu hermana, sino con el objeto de contemplar vuestras
+penas.
+
+Como el toro que rompe las ligaduras en el momento de recibir el golpe
+mortal, que huír no puede, pero salta de un lado a otro, lo mismo hizo
+el Minotauro; y mi prudente Maestro me gritó:
+
+--Corre hacia el borde; mientras esté furioso, bueno es que desciendas.
+
+Nos encaminamos por aquel derrumbamiento de piedras, que oscilaban por
+primera vez bajo el peso de mi cuerpo. Iba yo pensativo; por lo cual me
+dijo:
+
+--Acaso piensas en estas ruinas, defendidas por aquella ira bestial,
+que he disipado. Quiero, pues, que sepas que la otra vez que bajé al
+profundo Infierno aun no se habían desprendido estas piedras; pero un
+poco antes (si no estoy equivocado) de que viniese aquél que arrebató
+a Dite la gran presa del primer círculo, retembló el impuro valle tan
+profundamente por todos sus ámbitos, que creí ver al universo sintiendo
+aquel amor, por el cual otros creyeron que el mundo ha vuelto más de
+una vez a sumirse en el caos; y entonces fué cuando esa antigua roca se
+destrozó por tan diversas partes. Pero fija tus miradas en el valle;
+pues ya estamos cerca del río de sangre, en el cual hierve todo el que
+por medio de la violencia ha hecho daño a los demás.
+
+¡Oh ciegos deseos! ¡Oh ira desatentada, que nos aguijonea de tal modo
+en nuestra corta vida, y así nos sumerge en sangre hirviente por toda
+una eternidad! Vi un ancho foso en forma circular, como la montaña que
+rodea toda la llanura, según me había dicho mi Guía, y entre el pie de
+la roca y este foso corrían en fila muchos centauros armados de saetas,
+del mismo modo que solían ir a cazar por el mundo. Al vernos descender,
+se detuvieron, y tres de ellos se separaron de la banda, preparando sus
+arcos y escogiendo antes sus flechas. Uno de ellos gritó desde lejos:
+
+--¿Qué tormento os está reservado a vosotros los que bajáis por esa
+cuesta? Decidlo desde donde estáis, porque si no, disparo mi arco.
+
+Mi Maestro respondió:
+
+--Contestaremos a Quirón, cuando estemos cerca. Tus deseos fueron
+siempre por desgracia muy impetuosos.
+
+Después me tocó y me dijo:
+
+--Ese es Neso, el que murió por la hermosa Deyanira, y vengó por sí
+mismo su muerte; el de enmedio, que inclina la cabeza sobre el pecho,
+es el gran Quirón, que educó a Aquiles; el otro es el irascible Foló.
+Alrededor del foso van a millares, atravesando con sus flechas a toda
+alma que sale de la sangre más de lo que le permiten sus culpas.
+
+Nos fuimos aproximando a aquellos ágiles monstruos: Quirón cogió
+una flecha, y con el regatón apartó las barbas hacia detrás de sus
+quijadas. Cuando se descubrió la enorme boca, dijo a sus compañeros:
+
+--¿Habéis observado que el de detrás mueve cuanto toca? Los pies de los
+muertos no suelen hacer eso.
+
+Y mi buen Maestro, que estaba ya junto a él, y le llegaba al pecho,
+donde las dos naturalezas se unen, repuso:
+
+--Está en efecto vivo, y yo sólo debo enseñarle el sombrío valle: viene
+a él por necesidad, y no por distracción. La que me ha encomendado este
+nuevo oficio, ha cesado por un momento de cantar "aleluya." No es él un
+ladrón, ni yo un alma criminal. Pero por aquella virtud que dirige mis
+pasos en un camino tan salvaje, cédeme uno de los tuyos para que nos
+acompañe, que nos indique un punto vadeable y lleve a éste sobre sus
+ancas, pues no es espíritu que vaya por el aire.
+
+Quirón se volvió hacia la derecha, y dijo a Neso:
+
+--Vé, guíales; y si tropiezan con algún grupo de los nuestros, haz que
+les abran paso.
+
+Nos pusimos en marcha, tan fielmente escoltados, hacia lo largo de
+las orillas de aquella roja espuma, donde lanzaban horribles gritos
+los ahogados. Los vi sumergidos hasta las cejas, por lo que el gran
+Centauro dijo:
+
+--Esos son los tiranos, que vivieron de sangre y de rapiña. Aquí
+se lloran las desapiadadas culpas: aquí está Alejandro, y el feroz
+Dionisio, que tantos años de dolor hizo sufrir a la Sicilia. Aquella
+frente que tiene el cabello tan negro es la de Azzolino, y la otra
+que lo tiene rubio es la de Obezzo de Este, que verdaderamente fué
+asesinado en el mundo por su hijastro.
+
+Entonces me volví hacia el Poeta, el cual me dijo:
+
+--Sea éste ahora tu primer guía; yo seré el segundo.
+
+Algo más lejos se detuvo el Centauro sobre unos condenados, que
+parecían sacar fuera de aquel hervidero su cabeza hasta la garganta, y
+nos mostró una sombra que estaba separada de las demás, diciendo:
+
+Aquél hirió, en recinto sagrado, a un corazón, que aún se ve honrado en
+las orillas del Támesis.[11]
+
+       [11] Guido de Montfort. Para vengar la muerte de Simón, su
+       padre, muerto en Inglaterra por Eduardo, asesinó en 1271, en
+       una iglesia de Viterbo, a Enrique, hermano de aquél, mientras
+       el sacerdote elevaba la hostia. El corazón del asesinado fué
+       llevado en una copa a Londres, y colocado sobre una columna en
+       el puente del Támesis, para recordar a los ingleses la ofensa
+       que se les había hecho.
+
+Después vi otras sombras que sacaban la cabeza fuera del río, y algunas
+todo el pecho, y reconocí a muchos de ellos. Como la sangre iba
+disminuyendo poco a poco, hasta no cubrir más que el pie, vadeamos el
+foso.
+
+--Quiero que creas--me dijo el Centauro--que así como ves disminuir
+la corriente por esta parte, por la otra es su fondo cada vez mayor,
+hasta que llega a reunirse en aquel punto donde la tiranía está
+condenada a gemir. Allí es donde la justicia divina ha arrojado a
+Atila, que fué su azote en la tierra; a Pirro, a Sexto, y eternamente
+arranca lágrimas, con el hervor de esa sangre, a Renato de Corneto y a
+Renato Pazzo, que tanto daño causaron en los caminos.
+
+Dicho esto, se volvió y repasó el vado.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOTERCIO_
+
+
+No había llegado aún Neso a la otra parte, cuando penetramos en un
+bosque, que no estaba surcado por ningún sendero. El follaje no era
+verde, sino de un color obscuro; las ramas no eran rectas, sino nudosas
+y entrelazadas; no había frutas, sino espinas venenosas. No son tan
+ásperas y espesas las selvas donde moran las fieras, que aborrecen los
+sitios cultivados entre el Cecina y Corneto. Allí anidan las brutales
+Arpías, que arrojaron a los Troyanos de las Estrofades con el triste
+presagio de un mal futuro. Tienen alas anchas, cuellos y rostros
+humanos, pies con garras, y el vientre cubierto de plumas: subidas en
+los árboles, lanzan extraños lamentos.
+
+Mi buen Maestro empezó a decirme:
+
+--Antes de avanzar más, debes saber que te encuentras en el segundo
+recinto, por el cual continuarás hasta que llegues a los terribles
+arenales. Por tanto, mira con atención; y de este modo verás cosas, que
+darán testimonio de mis palabras.
+
+Por todas partes oía yo gemidos, sin ver a nadie que los exhalara; por
+eso me detuve todo atemorizado. Creo que él creyó que yo creía que
+aquellas voces eran de gente que se ocultaba de nosotros entre la
+espesura; y así me dijo mi Maestro:
+
+--Si rompes cualquier ramita de una de esas plantas, verás trocarse tus
+pensamientos.
+
+Entonces extendí la mano hacia delante, cogí una ramita de un gran
+endrino, y su tronco exclamó:
+
+--¿Por qué me tronchas?
+
+Inmediatamente se tiñó de sangre, y volvió a exclamar:
+
+--¿Por qué me desgarras? ¿No tienes ningún sentimiento de piedad?
+Hombres fuimos, y ahora estamos convertidos en troncos: tu mano debería
+haber sido más piadosa, aunque fuéramos almas de serpientes.
+
+Cual de verde tizón que, encendido por uno de sus extremos, gotea y
+chilla por el otro, a causa del aire que le atraviesa, así salían de
+aquel tronco palabras y sangre juntamente; lo que me hizo dejar caer la
+rama, y detenerme como hombre acobardado.
+
+--Alma herida--respondió mi Sabio--; si él hubiera podido creer,
+desde luego, que era verdad lo que ha leído en mis versos, no habría
+extendido su mano hacia ti: el ser una cosa tan increíble me ha
+obligado a aconsejarle que hiciese lo que ahora me está pesando. Pero
+dile quién fuiste, a fin de que, en compensación, renueve tu fama en el
+mundo, donde le es lícito volver.
+
+El tronco respondió:
+
+--Me halagas tanto con tus dulces palabras, que no puedo callar:
+no llevéis a mal que me entretenga un poco hablando con vosotros.
+Yo soy aquél[12] que tuvo las dos llaves del corazón de Federico,
+manejándolas tan suavemente para cerrar y abrir, que a casi todos
+aparté de su confianza, habiéndome dedicado con tanta fe a aquel
+glorioso cargo, que perdí el sueño y la vida. La cortesana que no
+ha separado nunca del palacio de César sus impúdicos ojos, peste
+común y vicio de las cortes, inflamó contra mí todos los ánimos, y
+los inflamados inflamaron a su vez y de tal modo a Augusto, que mis
+dichosos honores se trocaron en triste duelo. Mi alma, en un arranque
+de indignación, creyendo librarse del oprobio por medio de la muerte,
+me hizo injusto contra mí mismo, siendo justo. Os juro, por las tiernas
+raíces de este leño, que jamás fuí desleal a mi señor, tan digno de
+ser honrado. Y si uno de vosotros vuelve al mundo, restaure en él mi
+memoria, que yace aún bajo el golpe que le asestó la envidia.
+
+       [12] Pedro Desvignes, o Pedro della Vigna, jurisconsulto
+       de Capua; gozó por mucho tiempo el favor del emperador
+       Federico II, de quien era canciller y a quien inclinaba lo
+       mismo a la clemencia que a la severidad. Acusado de traición
+       por envidiosos cortesanos, le sacaron los ojos en 1246. Su
+       desesperación fué tal que se estrelló la cabeza contra los
+       muros de su calabozo.
+
+El poeta esperó un momento, y después me dijo:
+
+--Pues que calla, no pierdas el tiempo: habla y pregúntale, si quieres
+saber más.
+
+Yo le contesté:
+
+--Interrógale tú mismo lo que creas que me interese, pues yo no podría:
+tanto es lo que me aflige la compasión.
+
+Por lo cual volvió él a empezar de este modo:
+
+--A fin de que este hombre haga generosamente lo que tu súplica
+reclama, espíritu encarcelado, dígnate aún decirnos cómo se encierra el
+alma en esos nudosos troncos, y dime además, si puedes, si hay alguna
+que se desprenda de tales miembros.
+
+Entonces el tronco suspiró, y aquel resoplido se convirtió en esta voz:
+
+--Os contestaré brevemente: cuando el alma feroz sale del cuerpo de
+donde se ha arrancado ella misma, Minos la envía al séptimo círculo.
+Cae en la selva, sin que tenga designado sitio fijo, y allí donde la
+lanza la fortuna, germina cual grano de espelta. Brota primero como
+un retoño, y luego se convierte en planta silvestre: las Arpías, al
+devorar sus hojas, le causan dolor, y abren paso por donde ese dolor
+se exhale. Como las demás almas, iremos a recoger nuestros despojos;
+pero sin que ninguna de nosotras pueda revestirse con ellos, porque no
+sería justo volver a tener lo que uno se ha quitado voluntariamente.
+Los arrastraremos hasta aquí; y en este lúgubre bosque estará cada uno
+de nuestros cuerpos suspendido en el mismo endrino donde sufre tal
+tormento su alma.
+
+Prestábamos aún atención a aquel tronco, creyendo que añadiría algo
+más, cuando fuimos sorprendidos por un rumor, a la manera del que
+siente venir el jabalí y los perros hacia el sitio donde está apostado,
+que juntamente oye el ruido de las fieras y el fragor del ramaje. Y
+he aquí que aparecen a nuestra izquierda dos infelices, desnudos y
+lacerados, huyendo tan precipitadamente, que rompían todas las ramas
+de la selva. El de delante: "¡Acude, acude, muerte!," decía; y el
+otro, que no corría tanto: "Lano, tus piernas no eran tan ágiles en el
+combate del Toppo." Y sin duda, faltándole el aliento, hizo un grupo de
+sí y de un arbusto.
+
+Detrás de ellos estaba la selva llena de perras negras, ávidas y
+corriendo cual lebreles a quienes quitan su cadena. Empezaron a dar
+terribles dentelladas a aquél que se ocultó, y después de despedazarle,
+se llevaron sus miembros palpitantes. Mi Guía me tomó entonces de
+la mano, y llevóme hacia el arbusto, que en vano se quejaba por sus
+sangrientas heridas:
+
+--¡Oh, Jacobo de San Andrés!--decía--. ¿De qué te ha servido tomarme
+por refugio? ¿Tengo yo la culpa de tu vida criminal?
+
+Cuando mi Maestro se detuvo delante de aquel arbusto, dijo:
+
+--¿Quién fuiste tú que por tantas ramas rotas exhalas con tu sangre tan
+quejumbrosas palabras?
+
+A lo que contestó:
+
+--¡Oh, almas, que habéis venido a contemplar el lamentable estrago
+que me ha separado así de mis hojas!, recogedlas al pie del triste
+arbusto. Yo fuí de la ciudad que cambió su primer patrón por San Juan
+Bautista;[13] por cuya razón aquél la contristará siempre con su
+terrible arte: y a no ser porque en el puente del Arno se conserva
+todavía alguna imagen suya, fuera en vano todo el trabajo de aquellos
+ciudadanos que la reedificaron sobre las cenizas que de ella dejó
+Atila. Yo de mi casa hice mi propia horca.
+
+       [13] Florencia, cuyo antiguo patrón era el dios Marte.
+       Su estatua ecuestre se conservaba aún en 1337 en el
+       Ponte-Vecchio, de donde la arrancó, juntamente con un trozo
+       del puente, una avenida del Arno.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOCUARTO_
+
+
+Enternecido por el amor patrio, reuní las hojas dispersas, y las
+devolví a aquel que ya se había callado. Desde allí nos dirigimos al
+punto en que se divide el segundo recinto del tercero, y donde se ve
+el terrible poder de la justicia divina. Para explicar mejor las cosas
+nuevas que allí vi, diré que llegamos a un arenal, que rechaza toda
+planta de su superficie. La dolorosa selva lo rodeaba cual guirnalda,
+así como el sangriento foso circundaba a aquélla. Nuestros pies
+quedaron fijos en el mismo lindero de la selva y la llanura. El espacio
+estaba cubierto de una arena tan árida y espesa, como la que oprimieron
+los pies de Catón en otro tiempo. ¡Oh venganza de Dios! ¡Cuánto debe
+temerte todo aquél que lea lo que se presentó a mis ojos! Vi numerosos
+grupos de almas desnudas, que lloraban miserablemente, y parecían
+cumplir sentencias diversas. Unas yacían de espaldas sobre el suelo;
+otras estaban sentadas en confuso montón; otras andaban continuamente.
+Las que daban la vuelta al círculo eran más numerosas, y en menor
+número las que yacían para sufrir algún tormento; pero éstas tenían
+la lengua más suelta para quejarse. Llovían lentamente en el arenal
+grandes copos de fuego, semejantes a los de nieve que en los Alpes caen
+cuando no sopla el viento. Así como Alejandro vió en las ardientes
+comarcas de la India caer sobre sus soldados llamas, que quedaban en el
+suelo sin extinguirse, lo que le obligó a ordenar a las tropas que las
+pisaran, porque el incendio se apagaba mejor cuanto más aislado estaba,
+así descendía el fuego eterno, abrasando la arena, como abrasa a la
+yesca el pedernal, para redoblar el dolor de las almas. Sus míseras
+manos se agitaban sin reposo, apartando a uno y otro lado las brasas
+continuamente renovadas. Yo empecé a decir:
+
+--Maestro, tú que has vencido todos los obstáculos, a excepción del que
+nos opusieron los demonios inflexibles a la puerta de la ciudad, dime,
+¿quién es aquella gran sombra, que no parece cuidarse del incendio, y
+yace tan feroz y altanera, como si no la martirizara esa lluvia?
+
+Y la sombra, observando que yo hablaba de ella a mi Guía, gritó:
+
+--Tal cual fuí en vida, soy después de muerto. Aun cuando Júpiter
+cansara a su herrero, de quien tomó en su cólera el agudo rayo que me
+hirió el último día de mi vida; aun cuando fatigara uno tras otro a
+todos los negros obreros del Mongibelo, gritando: "Ayúdame, ayúdame,
+buen Vulcano," según hizo en el combate de Flegra, y me asaeteara con
+todas sus fuerzas, no lograría vengarse de mí cumplidamente.
+
+Entonces mi Guía habló con tanta vehemencia, que nunca yo lo había oído
+expresarse de aquel modo:
+
+--¡Oh! Capaneo, si no se modera tu orgullo, él será tu mayor castigo.
+No hay martirio comparable al dolor que te hace sufrir tu rabia.
+
+Después se dirigió a mí, diciendo con acento más apacible:
+
+--Ese fué uno de los siete reyes que sitiaron a Tebas; despreció a
+Dios, y aun parece seguir despreciándole, sin que se note que le
+ruegue; pero, como le he dicho, su mismo despecho es el más digno
+premio debido a su corazón. Ahora, sígueme, y cuida de no poner tus
+pies sobre la abrasada arena; camina siempre arrimado al bosque.
+
+Llegamos en silencio al sitio donde desemboca fuera de la selva un
+riachuelo, cuyo rojo color aún me horripila. Cual sale del Bulicame[14]
+el arroyo, cuyas aguas se reparten las pecadoras, así corría aquel
+riachuelo por la arena. Las orillas y el fondo estaban petrificados,
+por lo que pensé que por ellas debía andar.
+
+       [14] Manantial de aguas minerales calientes, a dos millas
+       de Viterbo. De él salía un riachuelo con el cual se formaba
+       un baño, al que acudían toda clase de enfermos, y más abajo
+       tomaban y se repartían sus aguas le peccatrici, las mujeres
+       públicas.
+
+--Entre todas las cosas que te he enseñado, desde que entramos por la
+puerta en cuyo umbral puede detenerse cualquiera, tus ojos no han visto
+otra tan notable como esa corriente, que amortigua todas las llamas.
+
+Tales fueron las palabras de mi Guía; por lo que le supliqué se
+explicase más claramente, ya que había excitado mi curiosidad.
+
+--En medio del mar existe un país arruinado--me dijo entonces--, que se
+llama Creta, y tuvo un rey, bajo cuyo imperio el mundo fué virtuoso:
+en él hay un monte, llamado Ida, que en otro tiempo fué delicioso por
+sus aguas y su frondosidad, y hoy está desierto, como todas las cosas
+antiguas. Rea lo escogió por cuna segura de su hijo; y para ocultarlo
+mejor, cuando lloraba, hacía que se produjesen grandes ruidos. En el
+interior del monte se mantiene en pie un gran anciano, que está de
+espaldas hacia Damieta, con la mirada fija en Roma como en un espejo.
+Su cabeza es formada de oro fino, y de plata pura son los brazos y el
+pecho; después es de bronce hasta la entrepierna, y de allí para abajo,
+es todo de hierro escogido, excepto el pie derecho, que es de barro
+cocido, y se afirma sobre éste más que sobre el otro. Cada parte, menos
+la formada de oro, está surcada por una hendedura que mana lágrimas,
+las cuales, reunidas, agujeran aquel monte. Su curso se dirige hacia
+este valle, de roca en roca, formando el Aqueronte, la Estigia y el
+Flegetón; después descienden por este estrecho conducto, hasta el punto
+donde no se puede bajar más, y allí forman el Cocito: ya verás lo que
+es este lago; por eso no te lo describo ahora.
+
+Yo le contesté:
+
+--Si ese riachuelo se deriva así de nuestro mundo, ¿por qué se deja ver
+únicamente al margen de este bosque?
+
+Y él a mí:
+
+--Tú sabes que este lugar es redondo, y aunque hayas andado mucho,
+descendiendo siempre al fondo por la izquierda, no has dado aún la
+vuelta a todo el círculo; por lo cual, si se te aparece alguna cosa
+nueva, no debe pintarse la admiración en tu rostro.
+
+Le repliqué:
+
+--Maestro, ¿dónde están el Flegetón y el Leteo? Del uno no dices nada,
+y del otro sólo me dices que lo origina esa lluvia de lágrimas.
+
+--Me agradan todas tus preguntas--contestó--: pero el hervor de esa
+agua roja debiera haberte servido de contestación a una de ellas.
+Verás el Leteo; pero fuera de este abismo, allá donde van las almas a
+lavarse, cuando, arrepentidas de sus culpas, les son perdonadas.
+
+Después añadió:
+
+--Ya es tiempo de que nos apartemos de este bosque; procura venir
+detrás de mí: sus márgenes nos ofrecen un camino; pues no son
+ardientes, y sobre ellas se extinguen todas las brasas.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOQUINTO_
+
+
+Nos pusimos en marcha siguiendo una de aquellas orillas petrificadas:
+el vapor del arroyuelo formaba sobre él una niebla, que preservaba del
+fuego las ondas y los ribazos. Así como los flamencos que habitan entre
+Gante y Brujas, temiendo al mar que avanza hacia ellos, levantan diques
+para contenerle; o como los Paduanos lo hacen a lo largo del Brenta
+para defender sus ciudades y castillos, antes que el Chiarentana sienta
+el calor, de un modo semejante eran formados aquellos ribazos; pero su
+constructor, quienquiera que fuese, no los había hecho tan altos ni tan
+gruesos.
+
+Nos hallábamos ya tan lejos de la selva, que no me habría sido posible
+descubrirla, por más que volviese atrás la vista, cuando encontramos
+una legión de almas, que venía a lo largo del ribazo: cada cual de
+ellas me miraba, como de noche suelen mirarse unos a otros los humanos
+a la escasa luz de la luna nueva, y aguzaban hacia nosotros las
+pestañas, como hace un sastre viejo para enfilar la aguja.
+
+Examinado de este modo por aquellas almas, fuí conocido por una de
+ellas, que me cogió el vestido, exclamando:
+
+--¡Qué maravilla!
+
+Y yo, mientras me tendía los brazos, miré atentamente su abrasado
+rostro, de tal modo que, a pesar de estar desfigurado, no me fué
+imposible conocerle a mi vez; e inclinando hacia su faz la mía contesté:
+
+--¿Vos aquí, "ser" Brunetto?
+
+Y él repuso:
+
+--¡Oh hijo mío!, no te enojes si Brunetto Latini vuelve un poco atrás
+contigo, y deja que se adelanten las demás almas.
+
+Yo le dije:
+
+--Os lo ruego cuanto me es posible; y si queréis que nos sentemos, lo
+haré, si así le place a éste con quien voy.
+
+--¡Oh hijo mío!--replicó--; cualquiera de nosotros que se detenga un
+momento, queda después cien años sufriendo esta lluvia, sin poder
+esquivar el fuego que le abrasa. Así, pues, sigue adelante; yo caminaré
+a tu lado, y luego me reuniré a mi mesnada, que va llorando sus eternos
+tormentos.
+
+No me atreví a bajar del ribazo por donde iba para nivelarme con él;
+pero tenía la cabeza inclinada, en actitud respetuosa. Empezó de este
+modo:
+
+--¿Cuál es la suerte o el destino que te trae aquí abajo antes de tu
+última hora? ¿Y quién es ése que te enseña el camino?
+
+--Allá arriba, en la vida serena--le respondí--, me extravié en un
+valle antes de haberse llenado mi edad. Pero ayer de mañana le volví la
+espalda; y cuando retrocedía otra vez hacia él, se me apareció ése, y
+me volvió al verdadero camino por esta vía.
+
+A lo que me contestó:
+
+--Si sigues tu estrella, no puedes menos de llegar a glorioso puerto,
+dado que yo en el mundo predijera bien tu destino. Y a no haber muerto
+tan pronto, viendo que el cielo te era tan favorable, te habría dado
+alientos para proseguir tu obra. Pero aquel pueblo ingrato y malo,
+que en otro tiempo descendió de Fiésole, y que aun conserva algo de
+la aspereza de sus montañas y de sus rocas, será tu enemigo, por lo
+mismo que prodigarás el bien; lo cual es natural, pues no conviene que
+madure el dulce higo entre ásperos serbales. Una antigua fama les da en
+el mundo el nombre de ciegos; raza avara, envidiosa y soberbia: ¡que
+sus malas costumbres no te manchen nunca! La fortuna te reserva tanto
+honor, que los dos partidos anhelarán poseerte; pero la hierba estará
+lejos del pico. Hagan las bestias fiesolanas forraje de sus mismos
+cuerpos, y no puedan tocar a la planta, si es que todavía sale alguna
+de entre su estiércol, en la que reviva la santa semilla de aquellos
+romanos que quedaron después de construído aquel nido de perversidad.
+
+--Si todos mis deseos se hubiesen realizado--le respondí--, no
+estaríais vos fuera de la humana naturaleza; porque tengo siempre fija
+en mi mente, y ahora me contrista verla así, vuestra querida, buena y
+paternal imagen, cuando me enseñabais en el mundo cómo el hombre se
+inmortaliza: me creo, pues, en el deber, mientras viva, de patentizar
+con mis palabras el agradecimiento que os profeso. Conservo grabado
+en la memoria cuanto me referís acerca de mi destino, para hacerlo
+explicar con otro texto por una Dama que lo sabrá hacer, si consigo
+llegar hasta ella. Solamente deseo manifestaros que estoy dispuesto a
+correr todos los azares de la Fortuna con tal que mi conciencia no me
+remuerda nada. No es la vez primera que he oído semejante predicción; y
+así, mueva su rueda la Fortuna como le plazca, y el campesino su azada.
+
+Entonces mi Maestro se volvió hacia la derecha, me miró, y después me
+dijo:
+
+--Bien escucha quien bien retiene.
+
+No por eso dejé de seguir hablando con "ser" Brunetto; y preguntándole
+quiénes eran sus más notables y eminentes compañeros, me contestó:
+
+--Bueno es que conozcan los nombres de algunos de ellos: con respecto
+a los otros, vale más callar; que para tanta conversación el tiempo
+es corto. Sabe, pues, que todos ellos fueron clérigos y literatos de
+gran fama, y el mismo pecado los contaminó a todos en el mundo. Con
+aquella turba desolada va Prisciano, como también Francisco de Accorso;
+y si desearas conocer a tan inmunda caterva, podrías ver a aquel
+que por el Siervo de los siervos de Dios fué trasladado del Arno al
+Bacchiglione,[15] donde dejó sus mal extendidos miembros. Más te diría;
+pero no puedo avanzar ni hablar más, porque ya veo salir nuevo humo de
+la arena. Vienen almas con las cuales no debo estar. Te recomiendo mi
+"Tesoro,"[16] en el que aún vive mi memoria, y no pido nada más.
+
+       [15] Andrés de Mozzi, que fué desposeído del obispado de
+       Florencia a causa de sus vicios, y trasladado después al de
+       Vicenza, por donde pasa el Bacchiglione.
+
+       [16] Título de la obra principal de Brunetto Latini, escrita
+       en francés. El "Tesoro" fué publicado en su lengua original
+       por Chabaille (París, 1863), y traducido al italiano por Bono
+       Giamboni (Bolonia, 1878-83, 4 vols.).
+
+Después se volvió con los otros, del mismo modo que los que, en la
+campiña de Verona, disputan a la carrera el palio verde, pareciéndose
+en el correr a los que vencen y no a los vencidos.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOSEXTO_
+
+
+Encontrábame ya en un sitio donde se oía el rimbombar del agua que
+caía en el otro recinto, rumor semejante al zumbido que producen las
+abejas en sus colmenas, cuando a un tiempo y corriendo se separaron
+tres sombras de entre una multitud que pasaba sobre la lluvia del
+áspero martirio. Vinieron hacia nosotros, gritando cada cual: "Detente,
+tú, que, a juzgar por tus vestidos, eres hijo de nuestra depravada
+tierra." ¡Ah!, ¡qué de llagas antiguas y recientes vi en sus miembros,
+producidas por las llamas! Su recuerdo me contrista todavía. A sus
+gritos se detuvo mi Maestro; volvió el rostro hacia mí, y me dijo:
+
+--Espera aquí si quieres ser cortés con esos; aunque si no fuese por el
+fuego que lanza sus rayos sobre este lugar, te diría que, mejor que a
+ellos la prisa de venir, te estaría a ti la de correr a su encuentro.
+
+Las sombras volvieron de nuevo a sus exclamaciones luego que nos
+detuvimos, y cuando llegaron adonde estábamos, empezaron las tres a
+dar vueltas formando un círculo. Y como solían hacer los gladiadores
+desnudos y untados de aceite, que antes de venir a las manos buscaba
+cada cual la oportunidad de lanzarse con ventaja sobre su contrario,
+del mismo modo cada una de aquellas sombras dirigía su rostro hacia mí,
+girando sin cesar, de suerte que tenían vuelto el cuello en distinta
+dirección de la que seguían sus pies.
+
+--Aunque la miseria de este suelo movedizo y nuestro llagado y sucio
+aspecto haga que nosotros y nuestros ruegos seamos despreciables,
+comenzó a decir una de ellas, nuestra fama debe incitar a tu corazón a
+decirnos quién eres tú, que sientas con tal seguridad los pies vivos
+en el Infierno. Este que ves tan desnudo y destrozado, y cuyas huellas
+voy siguiendo, fué de un rango mucho más elevado de lo que te figuras.
+Nieto fué de la púdica Gualdrata,[17] se llamó Guido Guerra, y durante
+su vida hizo tanto con su talento, como con su espada: el otro, que
+tras de mí oprime la arena, es Tegghiaio Aldobrandi, cuya voz debería
+ser agradecida en el mundo; y yo, que sufro el mismo tormento que
+ellos, fuí Jacobo Rusticucci, y por cierto que nadie me causó más daño
+que mi fiera mujer.
+
+       [17] Bellísima y honesta doncella, hija de Bellicion Berti, la
+       cual, al mostrarse el emperador Otón IV deseoso de besarla,
+       se volvió hacia su padre diciendo: "Nadie me ha da besar,
+       excepto aquel a quien dé la mano de esposa." Se casó con el
+       conde Guido, de familia germánica, del cual descendieron los
+       condes Guidi, señores de Casentino. De este matrimonio nació
+       Marcovaldo, que fué padre de Guido Guerra, valiente caballero
+       y hombre de gran prudencia y talento, a quien se debió la
+       victoria en la batalla de Benavento.
+
+Si hubiese podido estar al abrigo del fuego, me habría lanzado hacia
+los de abajo, y creo que mi Maestro lo hubiera tolerado; pero como
+estaba expuesto a abrasarme y cocerme, el miedo venció la buena
+intención que me impelía a abrazarlos. Así les dije:
+
+--Vuestra situación no me ha inspirado desprecio, sino un dolor que
+tardará en desaparecer; esto es lo que he sentido desde el momento
+que mi Señor me dijo algunas palabras, por las cuales comprendí que
+era gente de vuestra calidad la que hacia nosotros venía. De vuestra
+tierra soy; y siempre he retenido y escuchado con gusto vuestros actos
+y vuestros honrados nombres. Dejo las amarguras, y voy en busca de los
+sabrosos frutos que me ha prometido mi sincero Guía; pero antes me es
+preciso bajar hasta el centro.
+
+--Así tu alma permanezca unida a tus miembros por mucho tiempo--repuso
+aquél--, y así también resplandezca tu fama después de la muerte,
+ruégote nos digas si la gentileza y el valor habitan aún en nuestra
+ciudad, como solían, o si se han desterrado por completo; porque
+Guillermo Borsiere, que gime hace poco tiempo entre nosotros, y va allí
+con los demás compañeros, nos atormenta con sus relatos.
+
+--¡Los advenedizos y las rápidas fortunas han engendrado en ti,
+Florencia, tanto orgullo e inmoderación, que tú misma te lamentas ya
+por esa causa!
+
+Así exclamé con el rostro levantado; y las tres sombras, oyendo esta
+respuesta, se miraron mutuamente, como cuando se oyen cosas que se
+tienen por verdaderas.
+
+--¡Si tan poco te cuesta en otras ocasiones satisfacer las preguntas de
+cualquiera--respondieron todos--, dichoso tú que dices lo que sientes!
+Mas, si sales de estos lugares, obscuros, y vuelves a ver las hermosas
+estrellas, cuando te plazca decir: "Estuve allí," haz que los hombres
+hablen de nosotros.
+
+En seguida rompieron el círculo, y huyeron tan de prisa, que sus
+piernas parecían alas. No podría decirse "amén" tan pronto como ellos
+desaparecieron: por lo cual mi Maestro determinó que nos fuésemos. Yo
+le seguía, y a los pocos pasos advertí que el ruido del agua estaba
+tan próximo, que aun hablando alto apenas nos hubieran oído. Como
+aquel río que sigue su propio curso desde el monte Veso hacia levante
+por la izquierda del Apenino, el cual se llama Acquacheta antes de
+precipitarse en un lecho más bajo, y perdiendo este nombre en Forli, y
+formando después una cascada, ruge sobre San Benedetto en los Alpes,
+donde un millar de hombres debiera hallar su retiro, así en la parte
+inferior de una roca escarpada, oímos resonar tan fuertemente aquella
+agua teñida de sangre, que me habría hecho ensordecer en poco tiempo.
+Tenía yo una cuerda ceñida al cuerpo, con la cual había esperado
+apoderarme de la pantera de pintada piel: cuando me la desaté, según
+me lo había ordenado mi Guía, se la presenté arrollada y replegada:
+entonces se volvió hacia la derecha, y desde una distancia considerable
+de la orilla, la arrojó en aquel abismo profundo. "Preciso es, decía
+yo entre mí, que alguna novedad responda a esa nueva señal, cuyo
+efecto espera con tanta atención mi Maestro." ¡Oh!; ¡qué circunspectos
+deberían ser los hombres ante los que, no solamente ven sus actos, sino
+que, con la inteligencia, leen en el fondo de su pensamiento! Mi Guía
+me dijo:
+
+--Pronto vendrá de arriba lo que espero, y pronto también es preciso
+que descubran tus ojos lo que tu pensamiento no ve con claridad.
+
+El hombre debe, siempre que pueda, cerrar sus labios antes de decir una
+verdad, que tenga visos de mentira; porque se expone a avergonzarse sin
+tener culpa. Pero ahora no puedo callarme, y te juro, ¡oh lector!, por
+los versos de esta comedia, a la que deseo la mayor aceptación, que vi
+venir nadando por el aire denso y obscuro una figura, que causaría
+espanto al corazón más entero; la cual se asemejaba al buzo que vuelve
+del fondo adonde bajó acaso a desprender el ancla que está afianzada a
+un escollo, u otro cualquier objeto escondido en el mar, y que extiende
+hacia arriba los brazos, al mismo tiempo que encoge sus piernas.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOSEPTIMO_
+
+
+He ahí la fiera de aguzada cola, que traspasa las montañas, y rompe los
+muros y las armas: he ahí la que corrompe al mundo entero.
+
+Así empezó a hablarme mi Maestro, e hizo a aquélla una seña,
+indicándole que se dirigiera hacia la margen de piedra donde nos
+encontrábamos. Y aquella inmunda imagen del fraude, llegó a nosotros, y
+adelantó la cabeza y el cuerpo, pero no puso la cola sobre la orilla.
+Su rostro era el de un varón justo, tan bondadosa era su apariencia
+exterior, y el resto del cuerpo el de una serpiente. Tenía dos garras
+llenas de vello hasta los sobacos, y la espalda, el pecho y los
+costados salpicados de tal modo de lazos y escudos, que no ha habido
+tela turca ni tártara tan rica en colores, no pudiendo compararse
+tampoco a aquéllos los de las telas de Aracnea. Como se ven muchas
+veces las barcas en la orilla, mitad en el agua y mitad en tierra, o
+como en el país de los glotones tudescos el castor se prepara a hacer
+la guerra a los peces, así la detestable fiera se mantenía sobre el
+cerco de piedra que circunda la arenosa llanura, agitando su cola
+en el vacío, y levantando el venenoso dardo de que tenía armada su
+extremidad, como la de un escorpión. Mi Guía me dijo:
+
+--Ahora conviene que dirijamos nuestros pasos hacia la perversa fiera
+que allí está tendida.
+
+Por lo cual descendimos por la derecha, y dimos diez pasos sobre la
+extremidad del margen, procurando evitar la arena abrasada y las
+llamas: cuando llegamos donde la fiera se encontraba, vi a corta
+distancia sobre la arena mucha gente sentada al borde del abismo. Allí
+me dijo mi Maestro:
+
+--A fin de que adquieras una completa experiencia de lo que es este
+recinto, anda y examina la condición de aquellas almas, pero que sea
+corta tu conferencia. Mientras vuelves, hablaré con esta fiera, para
+que nos preste sus fuertes espaldas.
+
+Continué, pues, andando solo hasta el extremo del séptimo círculo,
+donde gemían aquellos desgraciados. El dolor brotaba de sus ojos,
+mientras acá y allá se defendían con las manos, ya de las pavesas, ya
+de la candente arena, como los perros, en el estío, rechazan con las
+patas o con el hocico las pulgas, moscas o tábanos, que les molestan.
+Mirando atentamente el rostro de muchos de aquellos a quienes azota
+el doloroso fuego, no conocí a ninguno; pero observé que del cuello
+de cada cual pendía una bolsa de cierto color, marcada con un signo,
+en cuya contemplación parecían deleitarse sus miradas. Aproximándome
+más para examinar mejor, vi en una bolsa amarilla una figura azul, que
+tenía toda la apariencia de un león. Después, prosiguiendo el curso de
+mis observaciones, vi otra, roja como la sangre, que ostentaba una oca
+más blanca que la leche. Uno de ellos, en cuya bolsa blanca figuraba
+una puerca preñada, de color azul, me dijo:
+
+--¿Qué haces en esta fosa? Véte; y puesto que aún vives, sabe que mi
+vecino Vitaliano debe sentarse aquí a mi izquierda. Yo soy paduano,
+en medio de estos florentinos, que muchas veces me atruenan los oídos
+gritando: "Venga el caballero soberano, que llevará la bolsa con los
+tres picos."
+
+Después torció la boca, y sacó la lengua como el buey que se lame las
+narices. Y yo, temiendo que mi tardanza incomodase a aquél que me
+había encargado que estuviera allí poco tiempo, volví la espalda a tan
+miserables almas. Encontré a mi Guía, que había saltado ya sobre la
+grupa del feroz animal, y me dijo:
+
+--Ahora sé fuerte y atrevido. Por aquí no se baja sino por escaleras de
+esta clase: monta delante; quiero quedarme entre ti y la cola, a fin de
+que ésta no pueda hacerte daño alguno.
+
+Al oír estas palabras, me quedé como aquel que, presintiendo el frío de
+la cuartana, tiene ya las uñas pálidas, y tiembla con todo su cuerpo
+tan sólo al mirar la sombra; pero su sentido amenazador me produjo la
+vergüenza que da ánimo a un servidor delante de un buen amo. Me coloqué
+sobre las anchas espaldas de la fiera, y quise decir: "Ten cuidado de
+sostenerme;" pero, contra lo que esperaba, me faltó la voz; si bien él,
+que ya anteriormente me había socorrido en todos los peligros, apenas
+monté, me estrechó y me sostuvo entre sus brazos. Después dijo:
+
+--Gerión, ponte ya en marcha, trazando anchos círculos y descendiendo
+lentamente: piensa en la nueva carga que llevas.
+
+Aquel animal fué retrocediendo como la barca que se aleja de la orilla,
+y cuando sintió todos sus movimientos en libertad, revolvió la cola
+hacia donde antes tenía el pecho, y extendiéndola, la agitó como
+una anguila, atrayéndose el aire con las garras. No creo que Faetón
+tuviera tanto miedo, cuando abandonó las riendas, por lo cual se
+abrasó el cielo, como se puede ver todavía; ni el desgraciado Icaro,
+cuando, derritiéndose la cera, sintió que las alas se desprendían de su
+cintura, al mismo tiempo que su padre le gritaba: "Mal camino llevas,"
+como el que yo sentí, al verme en el aire por toda partes, y alejado
+de mi vista todo, excepto la fiera. Esta empezó a marchar, nadando
+lentamente, girando y descendiendo; pero yo no podía apercibirme
+más que del viento que sentía en mi rostro y en la parte inferior
+de mi cuerpo. Empecé a oír hacia la derecha el horrible estrépito
+que producían las aguas en el abismo; por lo cual incliné la cabeza
+y dirigí mis miradas hacia abajo, causándome un gran miedo aquel
+precipicio; porque vi llamas y percibí lamentos, que me obligaron a
+encogerme tembloroso. Entonces observé, pues no lo había reparado
+antes, que descendíamos dando vueltas, como me lo hizo notar la
+proximidad de los grandes dolores, amontonados por doquier en torno
+nuestro. Como el halcón, que ha permanecido volando largo tiempo sin
+ver reclamo ni pájaro alguno, hace exclamar al halconero: "¡Eh! ¿Ya
+bajas?," y efectivamente desciende cansado de las alturas donde trazaba
+cien rápidos círculos, posándose lejos del que lo amaestró, desdeñoso
+e iracundo, así nos dejó Gerión en el fondo del abismo, al pie de una
+desmoronada roca; y libre de nuestras personas, se alejó como la saeta
+despedida por la cuerda.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMOOCTAVO_
+
+
+Hay un lugar en el Infierno, llamado Malebolge,[18] construído todo
+de piedra y de color ferruginoso, como la cerca que lo rodea. En el
+centro mismo de aquella funesta planicie se abre un pozo bastante
+ancho y profundo, de cuya estructura me ocuparé en su lugar. El
+espacio que queda entre el pozo y el pie de la dura cerca es redondo,
+y está dividido en diez valles, o recintos cerrados, semejantes a los
+numerosos fosos que rodean a un castillo para defensa de las murallas;
+y así como estos fosos tienen puentes que van desde el umbral de la
+puerta a su otro extremo, del mismo modo aquí avanzaban desde la base
+de la montaña algunas rocas, que atravesando las márgenes y los fosos,
+llegaban hasta el pozo central, y allí se reunían quedando truncadas.
+Tal era el sitio donde nos encontramos cuando descendimos de la grupa
+de Gerión: el Poeta echó a andar hacia la izquierda, y yo seguí tras
+él. A mi derecha vi nuevas causas de conmiseración, nuevos tormentos y
+nuevos burladores, que llenaban la primera fosa. En el fondo estaban
+desnudos los pecadores; los del centro acá venían de frente a nosotros;
+y los de esta parte afuera seguían nuestra misma dirección, pero con
+paso más veloz. Como en el año del Jubileo, a causa de la afluencia
+de gente que atraviesa el puente de San Angelo, los romanos han
+determinado que todos los que se dirijan al castillo y vayan hacia San
+Pedro pasen por un lado, y por el otro los que van hacia el monte, así
+vi, por uno y otro lado de la negra roca, cornudos demonios con grandes
+látigos, que azotaban cruelmente las espaldas de los condenados. ¡Oh!
+¡Cómo les hacían mover las piernas al primer golpe! Ninguno aguardaba
+el segundo ni el tercero. Mientras yo andaba, mis ojos se encontraron
+con los de un pecador, y dije en seguida: "No es la primera vez que
+veo a ése." Por lo que me detuve a observarlo mejor: mi dulce Guía
+se detuvo al mismo tiempo, y aun me permitió retroceder un tanto. El
+azotado creyó ocultarse bajando la cabeza; mas le sirvió de poco, pues
+le dije:
+
+       [18] "Malebolge," fosas malditas. Vocablo dantesco compuesto
+       de "bolge," bolsas, alforjas, y "male" malditas.
+
+--Tú, que fijas los ojos en el suelo, si no son falsas las facciones
+que llevas, eres Venedico Caccianimico. Pero ¿qué es lo que te ha
+traído a tan picantes salsas?
+
+A lo que me contestó:
+
+--Lo digo con repugnancia; pero cedo a tu claro lenguaje, que me hace
+recordar el mundo de otro tiempo. Yo fuí aquel que obligó a la bella
+Ghisola a satisfacer los deseos del Marqués, cuéntese como se quiera la
+tal historia. Y no soy el único boloñés que llora aquí; antes bien este
+sitio está tan lleno de ellos, que no hay en el día entre el Savena y
+el Reno tantas lenguas que digan "sipa,"[19] como en esta fosa; y si
+quieres una prueba de lo que te digo, recuerda nuestra codicia notoria.
+
+       [19] En la provincia de Bolonia, situada entre los ríos
+       Savena y Reno, para decir sia o sí, decían sipa o sipó. En el
+       día pronuncian: se pó, que viene a ser el c'est bon de los
+       franceses.
+
+Mientras así hablaba, un demonio le pegó un latigazo, diciéndole:
+"Anda, rufián; que aquí no hay mujeres que se vendan."
+
+Me reuní a mi Guía; y a los pocos pasos llegamos a un punto de donde
+salía una roca de la montaña. Subimos por ella ligeramente, y volviendo
+a la derecha sobre su áspero dorso, salimos de aquel eterno recinto.
+Luego que llegamos al sitio en que aquel peñasco se ahueca por debajo a
+modo de puente, para dar paso a los condenados, mi Guía me dijo:
+
+--Detente, y haz que en ti se fijen las miradas de esos otros
+malnacidos, cuyos rostros no has visto aún, porque han caminado hasta
+ahora en nuestra misma dirección.
+
+Desde el vetusto puente contemplamos la larga fila que hacia nosotros
+venía por la otra parte, y que era igualmente castigada por el látigo.
+El buen Maestro me dijo, sin que yo le preguntara nada:
+
+--Mira esa gran sombra que se acerca, y que, a pesar de su dolor, no
+parece derramar ninguna lágrima. ¡Qué aspecto tan majestuoso conserva
+aún! Ese es Jasón, que con su valor y su destreza robó en Cólquide el
+vellocino de oro. Pasó por la isla de Lemnos, después que las audaces
+y crueles mujeres de aquella isla dieron muerte a todos los habitantes
+varones; y allí, con sus artificios y sus halagüeñas palabras, engañó
+a la joven Hisipila, que antes había engañado a todas sus compañeras,
+y la dejó encinta y abandonada; por tal culpa está condenado a tal
+martirio, que es también la venganza de Medea. Con él van todos los que
+han cometido igual clase de engaños: bástete, pues, saber esto de la
+primera fosa, y de los que en ella son atormentados.
+
+Nos encontrábamos ya en el punto donde el estrecho sendero se cruza con
+el segundo margen, que sirve de apoyo para otro arco. Allí vimos a los
+que se anidan en una nueva fosa, dando resoplidos con sus narices y
+golpeándose con sus propias manos. Las orillas estaban incrustadas de
+moho, producido por las emanaciones de abajo, que allí se condensan,
+ofendiendo a la vista y al olfato. La fosa es tan profunda, que no se
+puede ver el fondo, sino mirando desde la parte más alta del arco, que
+lo domina perpendicularmente. Allí nos pusimos, y desde aquel punto
+vimos en el foso unas gentes sumergidas en un estiércol, que parecía
+salir de las letrinas humanas; y mientras tenía la vista fija allí
+dentro, vi uno con la cabeza tan sucia de excremento, que no podía
+saber si era clérigo o seglar. Aquella cabeza me dijo:
+
+--¿Por qué te muestras tan ávido de mirarme a mí, con preferencia a los
+otros que están tan sucios como yo?
+
+Le respondí:
+
+--Porque, si mal no recuerdo, te he visto otra vez con los cabellos
+enjutos, y tú eres Alejo Interminelli de Luca; por eso te miro más que
+a todos los otros.
+
+Entonces, él, golpeándose la calabaza, exclamó:
+
+--Aquí me han sumergido las lisonjas que no se cansó de prodigar mi
+lengua.
+
+Después de esto, mi Guía me dijo:
+
+--Procura adelantar un poco la cabeza, a fin de que tus miradas
+alcancen las facciones de aquella sucia esclava desmelenada, que se
+desgarra las carnes con sus uñas llenas de inmundicia, y que tan pronto
+se encoge como se estira. Esa es Thais, la prostituta, que cuando su
+amante le preguntó: "¿Tengo grandes méritos a tus ojos?," ella le
+contestó: "Sí, maravillosos." Y con esto queden saciadas nuestras
+miradas.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO DECIMONONO_
+
+
+¡Oh Simón el mago! ¡Oh miserables sectarios suyos, almas rapaces, que
+prostituís a cambio de oro y plata las cosas de Dios, que deben ser las
+esposas de la virtud! Ahora resonará la trompa para vosotros, puesto
+que os encontráis en la tercera fosa.
+
+Estábamos ya junto a ésta, subidos en aquella parte del escollo que
+cae justamente sobre su centro. ¡Oh suma Sabiduría! ¡Cuán grande es el
+arte que demuestras en el cielo, en la tierra y en el mundo maldito, y
+con cuánta equidad se reparte tu virtud! Vi en los lados y en el fondo
+la piedra lívida llena de pozuelos, todos redondos y de igual tamaño,
+los cuales me parecieron ni más ni menos anchos que los que hay en mi
+hermoso San Juan para servir de pilas bautismales; uno de éstos rompí
+yo no ha muchos años, por salvar a un niño que dentro de él se ahogaba;
+y baste lo que digo, para desengañar a todos.[20] Fuera de la boca
+de cada uno de aquellos pozuelos salían los pies y las piernas de un
+pecador, hasta el muslo, quedando dentro el resto del cuerpo. Ambos
+pies estaban encendidos, por cuya razón se agitaban tan fuertemente
+sus coyunturas, que hubieran roto sogas y cuerdas. Del mismo modo que
+la llama suele recorrer la superficie de los objetos untados de grasa,
+así el fuego flameaba desde el talón a la punta en los pies de los
+condenados.
+
+       [20] Habiendo roto Dante una de las pilas bautismales de la
+       iglesia de San Juan en Florencia, para salvar a un niño que se
+       ahogaba, fué acusado de sacrilegio. Por esto hace constar aquí
+       que no lo hizo por desprecio a las cosas sagradas, sino por
+       amor a la humanidad.
+
+--¿Quién es aquél, Maestro, que furioso agita los pies más que sus
+otros compañeros--dije entonces--, y a quien corroe y deseca una llama
+mucho más roja?
+
+A lo cual me contestó:
+
+--Si quieres que te conduzca por aquella parte de la escarpa que está
+más cercana al fondo, él mismo te dirá quién es y cuáles son sus
+crímenes.
+
+Le respondí:
+
+--Me parece bien todo lo que a ti te agrada: tú eres el dueño y sabes
+que yo no me separo de tu voluntad, así como también conoces lo que me
+callo.
+
+Subimos entonces al cuarto margen; después volvimos y bajamos por la
+izquierda hacia la estrecha y perforada fosa, sin que el buen Maestro
+me hiciera separar de su lado, hasta haberme conducido junto al hoyo
+de aquel que daba tantas señales de dolor con los movimientos de sus
+piernas.
+
+--¡Oh! Quienquiera que seas, tú, que tienes enterrada la parte superior
+de tu cuerpo; alma triste, plantada como una estaca--empecé a decir--,
+habla, si puedes.
+
+Yo estaba como el fraile que confiesa al pérfido asesino, que, metido
+en la tierra, le llama para que cese su muerte. Y él gritó:
+
+--¿Estás ya aquí derecho, estás ya aquí derecho, Bonifacio?[21] Me
+ha engañado en algunos años lo que está escrito. ¿Tan pronto te has
+saciado de aquellos bienes, por los cuales no temiste apoderarte con
+embustes de la hermosa Dama,[22] y gobernarla después indignamente?
+
+       [21] Esta sombra es la del papa Nicolás III, de la familia
+       de los Orsini de Roma, electo en 1277. Cree que quien le
+       interroga es el alma de Bonifacio VIII; y por eso dice:
+       "¿Estás ya aquí, Bonifacio?" Y añade en seguida: "Me ha
+       engañado en algunos años lo escrito." Es decir: El libro
+       profético, en que nosotros los condenados leemos lo futuro, me
+       ha engañado; porque, según él, tú debías morir en 1303, y no
+       en 1300.
+
+       [22] Según la Historia, esta opinión de Dante es exagerada.
+       Sin embargo, Celestino V dijo de Bonifacio VIII, que este papa
+       entró a reinar como un zorro, gobernó como un león y murió
+       como un perro.
+
+Quedéme, al oír esto, como aquellos que, casi avergonzados de no haber
+comprendido lo que se les ha dicho, no saben qué contestar. Entonces
+Virgilio dijo:
+
+--Respóndele pronto: "yo no soy, yo no soy el que tú crees."
+
+Y yo contesté como se me ordenó. Por lo cual el espíritu retorció sus
+pies; y luego, suspirando y con llorosa voz, me dijo:
+
+--¿Pues qué es lo que me preguntas? Si te urge conocer quién soy, hasta
+el punto de haber descendido para ello por todos estos peñascos, sabrás
+que estuve investido del gran manto, y fuí verdadero hijo de la Osa,
+tan codicioso, que, por aumentar la riqueza de los oseznos, embolsé
+arriba todo el dinero que pude, y aquí mi alma. Bajo mi cabeza están
+sepultados los demás papas, que antes de mí cometieron simonía, y se
+hallan comprimidos a lo largo de este angosto agujero. Yo me hundiré
+también luego que venga aquel que creí fueses tú, cuando te dirigí mi
+súbita pregunta. Pero desde que mis pies se abrasan, y me encuentro
+colocado al revés, ha transcurrido más tiempo del que él permanecerá
+en este mismo sitio con los pies quemados; porque en pos de él vendrá
+de poniente un pastor sin ley, por causa más repugnante, y ése deberá
+cubrirnos a entrambos. Será un nuevo Jasón, parecido al de que se habla
+en el libro de los Macabeos; y así como el rey de éste fué débil para
+con él, así con el otro lo será el que rige la Francia.
+
+No sé si en tal momento fué demasiada audacia la mía; pues le respondí
+en estos términos:
+
+--¡Eh!, dime: ¿cuánto dinero exigió Nuestro Señor de San Pedro, antes
+de poner las llaves en su poder? En verdad que no le pidió más sino
+que le siguiera. Ni Pedro ni los otros pidieron a Matías oro ni plata
+cuando por suerte fué elegido en reemplazo del que perdió su alma
+traidora. Permanece, pues, ahí, porque has sido castigado justamente, y
+guarda bien la mal adquirida riqueza, que tan atrevido te hizo contra
+Carlos. Y si no fuese porque aun me contiene el respeto a las llaves
+soberanas, que poseíste en tu alegre vida, emplearía palabras mucho más
+severas; porque vuestra avaricia contrista al mundo, pisoteando a los
+buenos, y ensalzando a los malos. Pastores, a vosotros se refería el
+Evangelista, cuando vió prostituída ante los reyes a la que se sienta
+sobre las aguas; a la que nació con siete cabezas, y obtuvo autoridad
+por sus diez cuernos, mientras la virtud agradó a su marido.[23] Os
+habéis construído dioses de oro y plata: ¿qué diferencia, pues, existe
+entre vosotros y los idólatras, sino la de que ellos adoran a uno y
+vosotros adoráis a ciento? ¡Ah, Constantino! ¡A cuántos males dió
+origen, no tu conversión al cristianismo, sino la donación que de ti
+recibió el primer papa que fué rico!
+
+       [23] Dante alude aquí a Roma, edificada sobre siete colinas,
+       a la que rendían obediencia muchos pueblos y naciones, y
+       permaneció constituída en gran poder y autoridad, mientras (su
+       marido) sus jefes fueron virtuosos: pero decayó en la opinión,
+       que por tanto tiempo había merecido y gozado, cuando la corte
+       romana prefirió a la virtud el oro y la plata, prostituyéndose
+       a los reyes de la tierra.
+
+Mientras yo le hablaba con esta claridad, él, ya fuese a impulsos de
+la ira, o porque le remordiese la conciencia, respingaba fuertemente
+con ambas piernas. Creo que complací a mi Guía; porque escuchó siempre
+con rostro satisfecho el sonido de mis palabras, expresadas con
+sinceridad. Entonces me cogió con los dos brazos, y teniéndome en alto
+bien afianzado sobre su pecho, volvió a subir por el camino por donde
+habíamos descendido, sin dejar de estrecharme contra sí, hasta llegar a
+la parte superior del puente que va de la cuarta a la quinta calzada.
+Allí, depositó suavemente su querido fardo sobre el áspero y pelado
+escollo, que hasta para las cabras sería un difícil sendero, desde
+donde descubrí una nueva fosa.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMO_
+
+
+Mis versos deben relatar un nuevo suplicio, el cual servirá de asunto
+al vigésimo canto del primer cántico, que trata de los sumergidos
+en el Infierno. Me hallaba ya dispuesto a contemplar el descubierto
+fondo, que está bañado de lágrimas de angustia, cuando vi venir por la
+fosa circular gentes que, llorando en silencio, caminaban con aquel
+paso lento que llevan las letanías en el mundo. Cuando incliné más
+hacia ellos mi mirada, me pareció que cada uno de aquellos condenados
+estaba retorcido de un modo extraño desde la barba al principio del
+pecho; pues tenían el rostro vuelto hacia las espaldas, y les era
+preciso andar hacia atrás, porque habían perdido la facultad de ver por
+delante. Quizá, por la fuerza de la perlesía, se encuentre un hombre
+de tal manera contrahecho; pero yo no lo he visto ni creo que pueda
+suceder. Ahora bien, lector, ¡así Dios te permita sacar fruto de esta
+lectura! Considera por ti mismo si mis ojos podrían permanecer secos,
+cuando vi de cerca nuestra humana figura tan torcida, que las lágrimas
+le caían por la espina dorsal. Yo lloraba en verdad, apoyado contra
+una de las rocas de la dura montaña, de suerte que mi Guía me dijo:
+
+--¿Tú también eres de los insensatos? Aquí vive la piedad cuando está
+bien muerta. ¿Quién es más criminal que el que se apasiona contemplando
+la justicia divina? Levanta la cabeza, levántala y mira a aquel por
+quién se abrió la tierra en presencia de los tebanos, que exclamaban:
+"¿Adónde caes, Anfiarao? ¿Por qué abandonas la guerra?" Y no cesó
+de caer en el Infierno hasta llegar a Minos, que se apodera de cada
+culpable. Mira cómo ha convertido sus espaldas en pecho: por haber
+querido ver demasiado hacia adelante, ahora mira hacia atrás, y sigue
+un camino retrógrado. Mira a Tiresias, que mudó de aspecto cuando de
+varón se convirtió en hembra, cambiando también todos su miembros,
+y hubo de abatir con su vara las dos serpientes unidas, antes que
+recobrara su pelo viril. El que acerca sus espaldas al vientre de aquél
+es Aronte, que tuvo por morada una gruta de blancos mármoles en las
+montañas de Luni, cultivadas por el carrarés que habita en su falda,
+y desde allí no había nada que limitara su vista, cuando contemplaba
+el mar o las estrellas. Aquella que, con los destrenzados cabellos,
+cubre sus pechos, por lo cual se ocultan a tus miradas, y tiene en ese
+lado de su cuerpo todas las partes velludas, fué Manto, que recorrió
+muchas comarcas, hasta que se detuvo en el sitio donde yo nací; por
+lo cual deseo que me prestes un poco de atención. Luego que su padre
+salió de la vida, y fué esclavizada la ciudad de Baco,[24] Manto anduvo
+errante por el mundo durante mucho tiempo. Allá arriba, en la bella
+Italia, existe un lago al pie de los Alpes que ciñen la Alemania por
+la parte superior del Tirol, el cual se llama Benaco. Mil corrientes,
+y aun más, según creo, vienen a aumentar, entre Garda, Val-Camonica
+y el Apenino, el agua que se estanca en dicho lago. En medio de éste
+hay un sitio, donde el Pastor de Trento, y los de Verona y Brescia,
+podrían dar su bendición si siguiesen aquel camino. En el punto donde
+es más baja la orilla que le circunda, está situada Peschiera, bello
+y fuerte castillo, a propósito para hacer frente a los de Brescia y a
+los de Bérgamo. Allí afluye necesariamente toda el agua que no puede
+estar contenida en el lago de Benaco, formando un río que corre entre
+verdes praderas. En cuanto aquella agua sigue un curso propio, ya no se
+llama Benaco, sino Mincio, hasta que llega a Governolo, donde desemboca
+en el Po. No corre mucho sin que encuentre una hondonada, en la cual
+se extiende y se estanca, y suele ser malsana en el estío. Pasando,
+pues, por allí la feroz doncella, vió en medio del pantano una tierra
+inculta y deshabitada. Se detuvo en ella con sus esclavas, para huír de
+todo consorcio humano, y para ejercer su arte mágica, y allí vivió y
+dejó sus restos mortales. Entonces los hombres, que estaban dispersos
+por los alrededores, se reunieron en aquel sitio, que era fuerte a
+causa del pantano que le circundaba: edificaron una ciudad sobre los
+huesos de la difunta, y del nombre de la primera que había elegido
+aquel sitio, la llamaron Mantua, sin consultar para ello al Destino. En
+otro tiempo fueron sus habitantes más numerosos, antes de que Casalodi
+se dejara engañar neciamente por Pinamonte. Te lo advierto a fin de
+que, si oyes atribuir otro origen a mi patria, ninguna mentira pueda
+obscurecer la verdad.
+
+       [24] Tebas, ciudad consagrada a Baco.
+
+Le respondí:
+
+--Maestro, tus razonamientos son para mí tan verídicos, y me obligan
+a prestarles tanta fe, que cualesquiera otros me parecerían carbones
+apagados. Pero dime si entre la gente que va pasando hay alguno digno
+de notarse, pues eso solo ocupa mi alma.
+
+Entonces me dijo:
+
+--Aquél, cuya barba se extiende desde el rostro a sus morenas espaldas,
+fué augur cuando la Grecia se quedó tan exhausta de varones, que apenas
+los había en las cunas, y junto con Calcas dió la señal en Aulide para
+cortar el primer cable. Se llamó Euripilo, y así lo nombra en algún
+punto mi alta tragedia. Aquel otro que ves tan demacrado fué Miguel
+Scott, que conoció perfectamente las imposturas del arte mágica. Mira a
+Guido Bonatti, y ve allí a Asdente, que ahora desearía no haber dejado
+su cuero y su bramante; pero se arrepiente demasiado tarde: contempla
+las tristes que abandonaron la aguja, la lanzadera y el huso para
+convertirse en adivinas, y para hacer maleficios con hierbas y con
+figuras. Pero ven ahora, porque ya el astro en que se ve a Caín con las
+espinas ocupa el confín de los dos hemisferios, y toca el mar más abajo
+de Sevilla. La luna era ya redonda en la noche anterior; debes recordar
+bien que no te molestó a veces por la selva umbría.
+
+Así me hablaba y entre tanto íbamos caminando.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOPRIMERO_
+
+
+Así, de un puente a otro, y hablando de cosas que mi comedia no se
+cuida de referir, fuimos avanzando y llegamos a lo alto del quinto,
+donde nos detuvimos para ver la otra hondonada de Malebolge y otras
+vanas lágrimas, y la vi maravillosamente obscura. Así como en el
+arsenal de los venecianos hierve en el invierno la pez tenaz, destinada
+a reparar los buques averiados que no pueden navegar, y al mismo tiempo
+que uno construye su embarcación, otro calafatea los costados de la que
+ha hecho ya muchos viajes; otro recorre la proa, otro la popa; quién
+hace remos; quién retuerce las cuerdas; quiénes, por fin, reparan el
+palo de mesana y el mayor; de igual suerte, y no por medio del fuego,
+sino por la voluntad divina, hervía allá abajo una resina espesa, que
+se pegaba a la orilla por todas partes. Yo la veía, pero sin percibir
+en ella más que las burbujas que producía el hervor, hinchándose toda y
+volviendo a caer desplomada. Mientras la contemplaba fijamente, mi Guía
+me atrajo hacia sí desde el sitio en que me encontraba, diciéndome:
+"Ten cuidado, ten cuidado." Entonces me volví como el hombre que ansía
+ver aquello de que le conviene huír, y a quien asalta un temor tan
+grande y repentino, que ni para mirar detiene su fuga; y vi detrás de
+nosotros un negro diablo, que venía corriendo por el puente. ¡Oh! ¡Cuán
+feroz era su aspecto, y qué amenazador me parecía con sus alas abiertas
+y sus ligeros pies! Sobre sus hombros, altos y angulosos, llevaba a
+cuestas un pecador, a quien tenía agarrado por ambos jarretes. Desde
+nuestro puente dijo:
+
+--¡Oh! Malebranche, ved aquí uno de los ancianos de Santa Zita: ponedle
+debajo; que yo me vuelvo otra vez a aquella tierra, que está tan bien
+provista de ellos. Allí todos son bribones, excepto Bonturo; y por
+dinero, de un "no" hacen un "ita."[25]
+
+       [25] Solíase antiguamente, en los testimonios públicos,
+       escribir el ita de los latinos por signo de afirmación, y el
+       no por signo de negación.
+
+Le arrojó abajo, y se volvió por la dura roca tan de prisa, que jamás
+ha habido mastín suelto que haya perseguido a un ladrón con tanta
+ligereza. El pecador se hundió y volvió a subir hecho un arco; pero los
+demonios, que estaban resguardados por el puente, gritaban:
+
+--Aquí no está el Santo Rostro; aquí se nada de diferente modo que en
+el Serchio. Si no quieres probar nuestros garfios, no salgas de la pez.
+
+Después le pincharon con más de cien harpones, diciéndole:
+
+--Es forzoso que bailes aquí a cubierto, de modo que, si puedes,
+prevariques ocultamente.
+
+No de otra suerte hacen los cocineros que sus marmitones sumerjan en
+la caldera las viandas por medio de grandes tenedores, para que no
+sobrenaden.
+
+--A fin de que no adviertan que estás aquí--me dijo el buen Maestro--,
+ocúltate detrás de una roca, que te sirva de abrigo; y aunque se me
+haga alguna ofensa, no temas nada; pues ya conozco estas cosas por
+haber estado otra vez entre estas almas venales.
+
+En seguida pasó al otro lado del puente, y cuando llegó a la sexta
+orilla, tuvo necesidad de mostrar su intrepidez. Con el furor y el
+ímpetu con que salen los perros tras el pobre que de pronto pide
+limosna donde se detiene, así salieron los demonios de debajo del
+puente, volviendo todos contra él sus harpones; pero les gritó:
+
+--Que ninguno de vosotros se atreva. Antes que me punce vuestra
+orquilla, adelántese uno que me oiga, y después medite si debe
+perdonarme.
+
+Todos gritaron:
+
+--Vé, Malacoda.
+
+Por lo cual uno de ellos se puso en marcha, mientras los otros
+permanecían quietos, y se adelantó diciendo:
+
+--¿Qué te podrá salvar de nuestras garras?
+
+--¿Crees tú, Malacoda, que a no ser por la voluntad divina y por tener
+el destino propicio--dijo mi Maestro--, me hubieras visto llegar aquí,
+sano y salvo, a pesar de todas vuestras armas? Déjame pasar, porque en
+el cielo quieren que enseñe a otro este camino salvaje.
+
+Entonces quedó tan abatido el orgullo del demonio, que dejó caer el
+harpón a sus plantas, y dijo a los otros:
+
+--Que no se le haga daño.
+
+Y mi guía a mí:
+
+--¡Oh tú, que estás agazapado tras de las rocas del puente! Ya puedes
+llegar a mí con toda seguridad.
+
+Entonces eché a andar, y me acerqué a él con prontitud; pero los
+diablos avanzaron, de modo que yo temí que no observaran lo pactado:
+así vi temblar en otro tiempo a los que por capitulación salían de
+Caprona, viéndose entre tantos enemigos. Me acerqué cuanto pude a mi
+Guía, y no separaba mis ojos del rostro de aquéllos, que no era nada
+bueno. Bajaban ellos sus garfios, y: "¿Quiéres que le pinche en la
+rabadilla?," decía uno de ellos a los otros. Y respondían: "Sí, sí
+clávale." Pero aquel demonio, que estaba conversando con mi Guía, se
+volvió de repente, y gritó: "Quieto, quieto, Scarmiglione." Después nos
+dijo:
+
+--Por este escollo no podréis ir más lejos, pues el sexto arco yace
+destrozado en el fondo. Si os place ir más adelante, seguid esta
+costa escarpada: cerca veréis otro escollo por el que podréis pasar.
+Ayer, cinco horas más tarde que en este momento, se cumplieron mil
+doscientos sesenta y seis años desde que se rompió aquí el camino.[26]
+Voy a enviar hacia allá varios de los míos para que observen si algún
+condenado procura sacar la cabeza al aire: id con ellos, que no os
+harán daño.
+
+       [26] Ayer, Viernes, a las tres de la tarde, quiere decir el
+       diablo (pues se supone que habla a las diez de la mañana del
+       Sábado Santo), se cumplieron 1266 años desde que se rompió
+       este puente, a consecuencia de un terremoto, en el momento de
+       la muerte de Jesucristo.
+
+--Adelante, Alichino y Calcabrina--empezó a decir--; y tú también,
+Cagnazzo; Barbariccia guiará a los diez. Vengan además Libicocco, y
+Draghignazzo; Ciriatto, el de los grandes colmillos, y Graffiacane, y
+Farfarello, y el loco de Rubicantondad en torno de la pez hirviente:
+éstos deben llegar salvos hasta el otro escollo, que atraviesa
+enteramente sobre la fosa.[27]
+
+       [27] He aquí traducidos los nombres de los doce diablos
+       que Dante menciona en este canto: Malebranche, malas
+       garras.--Malacoda, cola maldita.--Scarmiglione, que
+       arranca los cabellos.--Alichino, que hace inclinar a los
+       otros.--Calcabrina, que pisa el rocío.--Cagnazzo, perro
+       malo.--Barbariccia, el de la barba erizada.--Libicocco, deseo
+       ardiente.--Draghignazzo, veneno de dragón.--Ciriatto-Sannuto,
+       colmillo de jabalí.--Graffiaccane, perro que
+       araña.--Rubicante, inflamado. Todas estas versiones son de
+       Landino.
+
+--¡Oh Maestro! ¿Qué es lo que veo?--dije--; si conoces el camino, vamos
+sin escolta; yo, por mí, no la solicito. Si eres tan prudente como de
+costumbre, ¿no ves que rechinan los dientes, y se hacen guiños que nos
+amenazan algún mal?
+
+--No quiero que te espantes--me contestó--; deja que rechinen los
+dientes a su gusto. Si lo hacen, es por los desgraciados que están
+hirviendo.
+
+Se pusieron en camino por la margen izquierda; pero cada uno de
+aquéllos de antemano se habían mordido la lengua en señal de
+inteligencia con su jefe, y éste se sirvió de su ano a guisa de
+trompeta.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VEGISIMOSEGUNDO_
+
+
+He visto alguna vez a la caballería levantar el campo, empezar el
+combate, pasar revista, y a veces batirse en retirada; he visto ¡oh,
+aretinos! hacer excursiones por vuestra tierra y saquearla; he visto
+luchar en los torneos y correr en las justas, ya al sonido de las
+trompetas, ya al de las campanas, al ruido de los tambores, con las
+señales de los castillos, y con todo el aparato nacional y extranjero;
+pero lo que no he visto nunca es que tan extraño instrumento de viento
+haya indicado la marcha a jinetes ni peones; jamás, ni en la tierra,
+ni en los cielos, guió semejante faro a ningún buque. Marchábamos
+juntamente con los diez demonios (¡oh terrible compañía!); pero en la
+iglesia con los santos, y en la taberna con los borrachos. Sin embargo,
+mi atención estaba concentrada en la pez para distinguir todo lo que
+contenía la fosa y los que se abrasaban dentro de ella. Así como saltan
+los delfines fuera del agua, indicando a los marinos que precavan la
+nave de la tempestad, así también algunos condenados, para aliviar su
+tormento, sacaban la espalda y la volvían a esconder más rápidos que
+el relámpago; y lo mismo que en un charco las ranas sacan la cabeza a
+flor de agua, aunque teniendo dentro de ella sus patas y el resto del
+cuerpo, así estaban por todas partes los pecadores; pero en cuanto
+Barbariccia se aproximaba, volvían a sumergirse en aquel hervidero.
+Yo vi, y aun se estremece por ello mi corazón, a uno de aquellos que
+había tardado más tiempo en hundirse, como sucede con las ranas, que
+una queda fuera del agua, mientras otra se zambulle; y Graffiacane, que
+estaba más cerca de él, le enganchó por los cabellos enviscados de pez,
+y lo sacó fuera como si fuese una nutria. Yo sabía el nombre de todos
+aquellos demonios, por haberme hecho cargo de ellos cuando los eligió
+Malacoda. "Rubicante, plántale encima tu garfio y desuéllalo," gritaban
+a un tiempo todos aquellos malditos. Yo dije:
+
+--Maestro mío, si puedes, procura saber quién es ese desgraciado que ha
+caído en manos de sus adversarios.
+
+Mi Guía se le acercó, y le preguntó de dónde era, a lo que respondió:
+
+--Yo nací en el reino de Navarra. Mi madre me puso al servicio de un
+señor: ella me había engendrado de un pródigo, que se destruyó a sí
+mismo y disipó su fortuna. Después fuí favorito del buen rey Tebaldo, y
+me lancé a comerciar con sus favores; crimen de que doy cuenta en este
+horno.
+
+Y Ciriatto, a quien salía de cada lado de la boca un colmillo como el
+de un jabalí, le hizo sentir lo bien que uno de ellos hería. Entre
+malos gatos había caído aquel ratón; porque Barbariccia lo sujetó entre
+sus brazos, diciendo: "Quedaos ahí mientras que yo le ensarto." Y
+volviendo el rostro hacia mi Maestro, añadió: "Pregúntale aún si deseas
+saber más, antes que otros lo destrocen."
+
+Mi Guía preguntó:
+
+--Dime, pues, si entre los otros culpables que están sumergidos en esa
+pez, conoces algunos que sean latinos.
+
+A lo que contestó:
+
+--Acabo de separarme de uno que fué de allí cerca. ¡Así estuviera, como
+él, bajo la pez; no temería ahora ni las garras ni los garfios!
+
+Y Libicocco: "Ya hemos tenido demasiada paciencia," dijo; y le enganchó
+por el brazo con su harpón, arrancándole de un golpe todo el antebrazo.
+Draghignazzo quiso también cogerle por las piernas; pero su Decurión
+se volvió hacia todos ellos lanzando una mirada furiosa. Cuando se
+hubieron calmado un poco, mi Guía no tardó en preguntar a aquel que
+estaba contemplando su herida:
+
+--¿Quién es ése de quien dices que te has separado, por tu desgracia,
+para salir a flote?
+
+Y le respondió:
+
+--Es el hermano Gomita, aquel de Gallura, vaso de iniquidad, que tuvo
+en su poder a los enemigos de su señor, e hizo de modo que todos
+le alabasen. Aceptó su oro y los dejó libres, según él mismo dice;
+y con respecto a los empleos, no fué un pequeño, sino un soberano
+prevaricador. Con él conversa a menudo don Miguel Zanche de Logodoro, y
+sus lenguas no se cansan nunca de hablar de las cosas de Cerdeña. ¡Ay
+de mí! Ved a ese otro cómo aprieta los dientes. Aun hablaría más, pero
+temo que se prepare a rascarme la tiña.
+
+El gran jefe de los demonios se dirigió a Farfarelo, que movía sus ojos
+en todas direcciones buscando donde herir, y le dijo: "Quítate de ahí,
+pájaro malvado."
+
+--Si queréis ver u oír a toscanos y lombardos--empezó a decir en
+seguida el desgraciado pecador--, haré que vengan. Pero que esas
+malditas garras se mantengan un poco apartadas, a fin de que ellos
+no teman sus venganzas: yo, sentándome en este mismo sitio, por uno
+que soy haré venir siete, silbando como acostumbramos cuando uno de
+nosotros saca la cabeza fuera de la pez.
+
+Al oír estas palabras, Gagnazzo levantó el hocico meneando la cabeza,
+y dijo: "¡Oigan el medio malicioso de que se ha valido para volver
+a sumergirse!" A lo cual contestó aquél, que tenía abundancia de
+estratagemas: "¡En verdad que soy muy malicioso, cuando expongo a los
+míos a mayores tormentos!" No pudo contenerse Alichino, y en contra de
+lo dicho por los otros, respondió: "Si te arrojas en la pez, no correré
+al galope detrás de ti, sino que emplearé mis alas para ello. Te damos
+de ventaja la escarpa, y el ribazo por defensa, y veamos si tú solo
+vales más que todos nosotros."
+
+¡Oh tú, que lees esto, ahora verás un nuevo juego! Todos los demonios
+se volvieron hacia la pendiente opuesta, y el primero de ellos, el que
+se había mostrado más renitente. El navarro aprovechó bien el tiempo;
+fijó sus pies en el suelo, y precipitándose de un solo salto, se puso
+al abrigo de los malos propósitos de aquéllos. Contristados se quedaron
+los demonios ante esta treta, pero mucho más el que tuvo la culpa de
+ella; por lo cual se lanzó tras de él gritando: "Ya te tengo." Pero
+de poco le valió, porque sus alas no pudieron igualar en velocidad
+al espanto de Ciampolo: éste se lanzó en la pez, y aquél cambió la
+dirección de su vuelo, llevando el pecho hacia arriba.
+
+No de otro modo se sumerge instantáneamente el pato cuando el halcón se
+aproxima, y éste se remonta furioso y fatigado. Calcabrina, irritado
+contra Lichino por aquel engaño, echó a volar tras él, deseoso de
+que el pecador se escapara para tener un motivo de querella. Y
+cuando hubo desaparecido el prevaricador, volvió sus garras contra
+su compañero, y se aferró con él sobre el mismo estanque. Pero éste,
+gavilán adiestrado, hizo uso también de las suyas, y los dos cayeron
+en medio de la pez hirviente. El calor los separó bien pronto;
+pero todo su esfuerzo para remontarse era en vano, porque sus alas
+estaban enviscadas. Barbariccia, descontento como los demás, hizo
+volar a cuatro desde la otra parte con todos sus harpones, y bajando
+rápidamente hacia el sitio designado, tendieron sus garfios a los dos
+demonios, que estaban medio cocidos en la superficie de aquella fosa.
+Nosotros los dejamos allí enredados de aquella manera.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOTERCERO_
+
+
+Solos, en silencio y sin escolta, íbamos uno tras otro, como
+acostumbran ir los frailes menores. La riña que acabábamos de
+presenciar me trajo a la memoria la fábula de Esopo, en que habló
+de la rana y del topo; pues las partículas "mo" e "issa"[28] no son
+tan semejantes como estos dos hechos, si atentamente se consideran
+el principio y el fin de entrambos. Y como un pensamiento procede
+rápidamente de otro, de éste nació uno nuevo, que redobló mi primitivo
+espanto. Yo pensaba así: "Esos demonios han sido engañados por nuestra
+causa, y con tanto daño y escarnio, que les creo muy ofendidos. Si a
+la malevolencia se añade la ira, nos van a perseguir con más crueldad
+que el perro que sujeta a la liebre por el cuello." Ya sentía que
+se erizaban mis cabellos a causa del temor, y miraba hacia atrás
+atentamente, por lo que dije:
+
+--Maestro, si no nos ocultas a los dos prontamente, temo a los demonios
+que vienen detrás de nosotros; y tan así me lo imagino, que ya me
+parece que los oigo.
+
+       [28] Mo e issa, voces que significan ahora en lombardo. Mo,
+       del latín modo, que es ahora; issa, elipsis del latín hac,
+       ipsa hora, es también ahora.
+
+A lo que él contestó:
+
+--Si yo fuera un espejo, no verías en mí tu imagen tan pronto como veo
+en tu interior. En este momento se cruzaban tus pensamientos con los
+míos bajo la misma faz y aspecto, de suerte que he deducido de ambos un
+solo consejo. Si es cierto que la cuesta que hay a nuestra derecha está
+tan inclinada, que nos permita bajar a la sexta fosa, huiremos de la
+caza que imaginamos.
+
+Apenas había concluído de decirme su parecer, cuando vi venir a los
+demonios con las alas extendidas y muy cerca de nosotros, queriendo
+cogernos. Mi Guía me agarró súbitamente, como una madre que, despertada
+por el ruido y viendo brillar las llamas cerca de ella, coge a su hijo
+y huye, y teniendo más cuidado de él que de sí misma, no se detiene ni
+aun a ponerse una camisa. Desde lo alto de la calzada, se deslizó de
+espaldas por la pendiente roca, uno de cuyos lados divide la quinta
+de la sexta fosa. Jamás corrió tan rápida el agua por la canal de un
+molino, cuando más se acerca a las paletas de la rueda, como descendió
+por aquel declive mi Maestro, llevándome sobre su pecho, cual si
+fuese hijo suyo y no su compañero. Apenas tocaron sus pies al suelo
+del profundo abismo, cuando los demonios aparecieron en la roca sobre
+nuestras cabezas: pero ya no nos inspiraban temor; porque la alta
+Providencia que los había designado para ministros de la quinta fosa,
+les quitó la facultad de separarse de allí. Abajo encontramos unas
+gentes pintadas, que giraban en torno con bastante lentitud, llorosas
+y con los semblantes fatigados y abatidos. Llevaban capas con capuchas
+echadas sobre los ojos, por el estilo de las que llevan los monjes
+de Colonia.[29] Aquellas capas eran doradas por de fuera, de modo que
+deslumbraban; pero por dentro eran todas de plomo, y tan pesadas, que
+las de Federico a su lado parecían de paja.[30] ¡Oh manto fatigoso por
+toda la eternidad! Nos volvimos aún hacia la izquierda, y anduvimos
+con aquellas almas, escuchando sus tristes lamentos. Pero las sombras,
+rendidas por el peso, caminaban tan despacio, que a cada paso que
+dábamos cambiábamos de compañero. Yo dije a mi Guía:
+
+--Procura encontrar a alguno que sea conocido por su nombre o por sus
+hechos; y mira al efecto en derredor tuyo mientras andas.
+
+       [29] Cuéntase que hubo en Colonia un abad tan ambicioso e
+       insolente, que pidió permiso al Papa para que sus monjes
+       pudieran usar capas de escarlata, cintos, espuelas y estribos
+       de plata sobredorada. Esta petición desagradó tanto al
+       Pontífice, que dispuso que en adelante el abad y sus monjes
+       usaran capas negras y mal hechas, y cintos y estribos de
+       madera.
+
+       [30] El emperador Federico II encerraba a los culpables de
+       lesa majestad en capas de plomo, y luego los arrojaba al fuego.
+
+Y uno de ellos, que entendió el idioma toscano, exclamó detrás de
+nosotros:
+
+Detened vuestros pasos, vosotros que tanto corréis a través del aire
+sombrío: quizá podrás obtener de mí lo que solicitas.
+
+En seguida mi Guía se volvió y me dijo:
+
+--Espera, y modera tu paso hasta igualar al suyo.
+
+Me detuve, y vi dos de aquéllos, que en sus miradas demostraban gran
+deseo de estar conmigo; pero su carga y lo estrecho del camino les
+hacían tardar. Cuando se me hubieron reunido, me miraron con torvos
+ojos y sin hablarme: después se volvieron uno a otros diciéndose: "Ese
+parece vivo, a juzgar por el movimiento de su garganta; pero si están
+muertos, ¿por qué privilegio no llevan nuestra pesada capa?" Después
+me dijeron:
+
+--¡Oh toscano, que has venido a la mansión de los tristes hipócritas!,
+dígnate decirnos quién eres.
+
+Les contesté:
+
+--Nací y crecí junto a la orilla del hermoso Arno, en la gran ciudad,
+y conservo el cuerpo que he tenido siempre. Pero vosotros, a quienes,
+según veo, cae tan doloroso llanto gota a gota por las mejillas,
+¿quiénes sois, y qué pena padecéis que tanto se hace ver?
+
+Uno de ellos me respondió:
+
+--¡Ay de mí! Estas doradas capas son de plomo, y tan gruesas, que su
+peso nos hace gemir como cargadas balanzas. Fuimos hermanos Gozosos[31]
+y boloñeses. Yo me llamé Catalano y éste Loderingo. Tu ciudad nos
+nombró magistrados, como suele elegirse a un hombre neutral para
+conservar la paz; y la conservamos tan bien como puede verse aún cerca
+del Gardingo.
+
+       [31] Hermanos de una orden de caballería instituída para
+       combatir contra los infieles y los que violaran la justicia.
+       Se les llamó Gaudenti (gozosos) por la vida licenciosa que
+       llevaron.
+
+Yo repuse: "¡Oh hermanos! Vuestros males..." Pero no pude continuar;
+porque vi en el suelo a uno crucificado en tres palos. En cuanto
+me vió, se retorció, haciendo agitar su barba con la fuerza de los
+suspiros; y el hermano Catalano, que lo advirtió, me dijo:
+
+--Ese que estás mirando crucificado aconsejó a los fariseos que era
+necesario hacer sufrir a un hombre el martirio por el pueblo. Está
+atravesado y desnudo sobre el camino, como ves; y es preciso que sienta
+lo que pesa cada uno de los que pasan. Su suegro está condenado a igual
+suplicio en esta fosa, así como los demás del Consejo que fué para los
+judíos origen de tantas desgracias.
+
+Entonces vi a Virgilio que contemplaba con asombro a aquel que estaba
+tan vilmente crucificado en el eterno destierro. Luego se dirigió al
+fraile en estos términos:
+
+--¿Queríais decirnos si hacia la derecha hay alguna abertura por donde
+podamos salir los dos, sin obligar a los ángeles negros a que nos
+saquen de este abismo?
+
+Aquel respondió:
+
+--Más cerca de aquí de lo que esperas, se levanta una peña que parte
+del gran círculo y atraviesa todas las terribles fosas; pero está
+cortada en ésta y no continúa sobre ella. Podréis subir por las ruinas
+que existen en el declive de su falda y cubren el fondo.
+
+Mi Guía permaneció un momento con la cabeza inclinada, y después dijo:
+
+--¡Cómo nos ha engañado aquel que ensarta con su garfio a los pecadores!
+
+Y el fraile repuso:
+
+--He oído referir en Bolonia los numerosos vicios del demonio, entre
+los cuales no era el menor el de ser falso y padre de la mentira.
+
+Entonces mi Guía se alejó precipitadamente con el rostro inmutado por
+la cólera; y en consecuencia, me alejé también de aquellas almas que
+soportaban tanto peso, y seguí las huellas de los pies queridos.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOCUARTO_
+
+
+En la época del año nuevo en que templa el sol su cabellera bajo el
+Acuario, y en que ya las noches van igualándose con los días; cuando
+la escarcha imita en la tierra, aunque por poco tiempo, el color de
+su blanca hermana, el campesino que carece de forraje, se levanta,
+mira, y al ver blanco el campo se golpea el muslo, vuelve a su casa,
+y se lamenta continuamente como el desgraciado que no sabe qué hacer;
+pero torna luego a mirar, y recobra la esperanza, viendo que la tierra
+ha cambiado de aspecto en pocas horas, y entonces coge su cayado y
+sale a apacentar sus ovejas: así mi Maestro me llenó de inquietud
+cuando vi tan turbado su rostro, y así también aplicó pronto remedio
+a mi mal; porque al llegar al derruído puente, se volvió hacia mí con
+aquel amable aspecto que tenía cuando le vi al pie del monte. Después
+de haber pensado la determinación que había de tomar, contemplando
+antes con cuidado las ruinas, abrió sus brazos, cogióme por detrás, y
+como aquel que trabaja, pensando siempre en la labor que emprenderá
+en seguida, del mismo modo, elevándome sobre la cima de una roca,
+contemplaba otra diciendo:
+
+--Agárrate bien a ésa, pero tantea primero si tal cual es podrá
+sostenerte.
+
+Aquel no era un camino a propósito para los que iban con capa; pues
+apenas podíamos, Virgilio tan ágil, y yo sostenido por él, trepar de
+piedra en piedra. Y a no ser porque en aquel recinto era más corto el
+camino que en otro alguno, no sé lo que a él le habría sucedido, pero
+a mí me hubiera vencido el cansancio. Mas como Malebolge va siempre en
+declive hasta la boca del profundísimo pozo, cada fosa que se recorre
+presenta un margen que se eleva y otro que desciende. Llegamos por fin
+al extremo en que se destaca la última piedra. Cuando estuve sobre
+ella, de tal modo me faltaba el aliento, que no podía más; así es que
+me senté en cuanto nos detuvimos.
+
+--Ahora es preciso que sacudas tu pereza--me dijo el Maestro--; que
+no se alcanza la fama reclinado en blanda pluma, ni al abrigo de
+colchas: y el que sin gloria consume su vida, deja en pos de sí el
+mismo vestigio que el humo en el aire o la espuma en el agua. Ea,
+pues, levántate; domina la fatiga con el alma, que vence todos los
+obstáculos, mientras no se envilece con la pesadez del cuerpo. Tenemos
+que subir todavía una escala mucho más larga; pues no basta haber
+atravesado por entre los espíritus infernales. Si me entiendes, deben
+reanimarte mis palabras.
+
+Levantéme entonces, demostrando más resolución de la que verdaderamente
+sentía en mi interior, y dije:
+
+--Vamos, ya me siento fuerte y atrevido.
+
+Echamos a andar por el escollo, que era áspero, estrecho y escabroso, y
+más pendiente que el anterior. Iba hablando para disimular mi flaqueza,
+cuando oí una voz que salía de la otra fosa, articulando palabras
+ininteligibles. No sé lo que dijo, a pesar de encontrarme en la cima
+del arco que por allí pasa; mas el que hablaba parecía conmovido por
+la ira. Yo me había inclinado; pero los ojos de un vivo no podían
+distinguir el fondo a través de aquella obscuridad; por lo cual dije:
+
+--Maestro, haz por llegar al otro recinto, y descendamos este muro,
+porque desde aquí oigo y no comprendo nada; miro hacia abajo y nada veo.
+
+--Te responderé--me dijo--haciendo lo que deseas; que las peticiones
+justas deben satisfacerse en silencio.
+
+Bajamos por el puente desde lo alto hasta donde se une con el octavo
+margen; y entonces descubrí la fosa, y vi una espantosa masa de
+serpientes, de tan diferentes especies, que su recuerdo me hiela
+todavía la sangre. Deje la Libia de envanecerse con sus arenas; que
+si produce quelidras, yáculos y faras, cencros y anfisbenas, ni en
+ella, ni en toda la Etiopía con el país que está sobre el mar Rojo,
+existieron jamás tantas ni tan nocivas pestilencias como en este lugar.
+A través de aquella espantosa y cruel multitud de reptiles corrían
+gentes desnudas y aterrorizadas, sin esperanza de encontrar refugio ni
+heliotropo.[32] Tenían las manos atadas a la espalda con sierpes, las
+cuales, formando nudos por encima, les hincaban la cola y la cabeza en
+los riñones. Y he aquí que uno de aquellos desgraciados, que estaba
+cerca de nosotros, fué mordido por una serpiente en el punto en que
+el cuello se une a los hombros; y en el breve tiempo que se necesita
+para escribir una O y una I, se incendió, ardió y cayó reducido a
+cenizas. Pero apenas quedó consumido en el suelo, reuniéronse aquéllas
+por sí mismas, y súbitamente se rehizo aquel espíritu como estaba
+antes. Así dicen los grandes sabios que muere el Fénix, y renace cuando
+está cercano a su quinto siglo: no se alimenta de hierba ni de trigo
+durante su vida, sino de amomo y lágrimas de incienso, y su último nido
+está formado con nardo y mirra. Y como aquel que cae y no sabe cómo,
+a impulsos del demonio que lo arroja en el suelo o de algún accidente
+producido por su temperamento enfermizo, cuando se levanta, se queda
+asombrado de la cruel angustia que ha sufrido y suspira al mirar en
+torno suyo, así se levantó el pecador ante nosotros. ¡Oh, cuán severa
+es la justicia de Dios, que hace estallar su cólera por medio de tales
+golpes! Mi Guía le preguntó después quién era, y él le contestó:
+
+--Yo caí hace poco tiempo desde Toscana en este horrible abismo. La
+vida salvaje me agradó más que la humana; fuí lo mismo que un mulo: soy
+Vanni Fucci, el bestia, y Pistoya fué mi digno cubil.
+
+       [32] Agata de color verde obscuro con manchas rojizas, a
+       la que se atribuían virtudes milagrosas contra toda clase
+       de veneno y especialmente contra las mordeduras de las
+       serpientes, y que tenía además la de hacer invisible al que la
+       llevaba.
+
+Entonces dije a mi Guía:
+
+--Dile que no huya, y pregúntale qué delito le ha precipitado aquí;
+pues yo le conocí ya hombre colérico y sanguinario.
+
+El pecador, que me oyó, no se ocultó, sino que dirigió hacia mí
+atentamente su mirada, y se cubrió el rostro de triste vergüenza.
+Después dijo:
+
+--Siento más que me hayas encontrado en la miseria en que me ves, de lo
+que sentí verme privado de la vida; pero no puedo negarme a satisfacer
+tus preguntas. Estoy sumido aquí, porque robé en la sacristía los
+hermosos ornamentos, de cuyo delito fué otro acusado falsamente.
+Mas para que no te goces en mi desgracia, si acaso llegas a salir
+de estos lugares sombríos, abre tus oídos a mi anuncio, y escucha:
+primeramente, Pistoya quedará despoblada de Negros; después Florencia
+renovará sus habitantes y su forma de gobierno; Marte hará salir
+del valle de Magra un vapor, que envuelto en sombrías nieblas y en
+tempestad impetuosa y terrible, se desencadenará sobre el campo Piceno;
+y allí, desgarrándose de repente la nube, aniquilará todos los Blancos.
+Te he dicho esto para que te cause dolor.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOQUINTO_
+
+
+Al terminar estas palabras, el ladrón alzó ambas manos haciendo un
+gesto indecente y exclamando: "Toma, Dios, esto es para tí." Desde
+entonces fuí amigo de las serpientes; porque una de ellas se le enroscó
+en el cuello como diciendo: "No quiero que hables más:" y otra se
+agarró a sus brazos, sujetándolos de tal modo, que no le era posible
+al condenado hacer ningún movimiento. ¡Ah, Pistoya, Pistoya! ¿Cómo no
+decides reducirte tú misma a cenizas, y dejar de existir, pues que tus
+hijos son peores que sus antepasados? En todos los círculos del obscuro
+Infierno no he visto espíritu tan soberbio ante Dios, a no ser aquel
+que cayó desde los muros de Tebas. El ladrón huyó sin decir una palabra
+más. Entonces vi un Centauro lleno de ira, que acudía gritando: "¿Dónde
+está, dónde está el soberbio?" No creo que contengan las Marismas
+tanto reptil como llevaba el Centauro sobre su grupa hasta el sitio en
+que empezaba la forma humana: sobre sus espaldas, detrás de la nuca,
+descansaba un dragón con las alas abiertas, el cual abrasaba cuanto
+salía a su encuentro. Mi Maestro dijo:
+
+--Ese monstruo es Caco, el que al pie de las rocas del monte Aventino
+formó más de una vez un lago de sangre. No va por el mismo camino que
+sus hermanos, porque robó fraudulentamente el gran rebaño que pacía en
+las inmediaciones del sitio que había escogido por vivienda: pero sus
+inicuos hechos acabaron por fin bajo la clava de Hércules, que si le
+dió cien golpes con ella, aquél no llegó a sentir el décimo.
+
+Mientras así hablaba Virgilio, Caco desapareció, al mismo tiempo que se
+acercaban tres espíritus por debajo del margen donde estábamos, lo cual
+no advertimos ni mi Guía ni yo, hasta que les oímos gritar: "¿Quiénes
+sois?" Cesó entonces nuestra conversación, y nos fijamos solamente en
+ellos. Yo no les conocía; pero sucedió, como suele acontecer algunas
+veces, que el uno tuvo necesidad de llamar al otro, diciéndole:
+"Cianfa, ¿dónde te has metido?" Y yo, a fin de que estuviese atento mi
+Guía, me puse el dedo desde la nariz a la barba. Ahora, lector, si se
+te hace difícil creer lo que te voy a decir, no será extraño, porque
+yo que lo vi, apenas lo creo. Mientras estaba contemplando a aquellos
+espíritus, se lanzó una serpiente con seis patas sobre uno de ellos,
+agarrándosele enteramente. Con las patas de enmedio le oprimió el
+vientre; con las de delante le sujetó los brazos, y después le mordió
+en ambas mejillas. Extendiendo en seguida las patas de detrás sobre sus
+muslos, le pasó la cola por entre los dos, y se la mantuvo apretada
+contra los riñones. Nunca se agarró tan fuertemente la hiedra al
+árbol, como la horrible fiera adaptó sus miembros a los del culpable:
+después una y otro se confundieron, como si fuesen de blanda cera, y
+mezclaron tan bien sus colores, que ninguno de ambos parecía ya lo
+que antes había sido. Así con el ardor del fuego se extiende sobre el
+papel un color obscuro, que no es negro, y sin embargo deja de ser
+blanco. Los otros dos condenados le miraban, exclamando cada cual:
+"¡Ay, Angel,[33] cómo cambias! No eres ya uno ni dos." Las dos cabezas
+se habían convertido en una, y aparecían dos figuras mezcladas en una
+sola faz, quedando en ella confundidas entrambas. De los cuatro brazos
+se hicieron dos: los muslos y las piernas, el vientre y el tronco se
+convirtieron en miembros nunca vistos. Quedó borrado todo su primitivo
+aspecto: aquella imagen transformada parecía dos y ninguna de las
+anteriores; y en tal estado se alejaba a pasos lentos.
+
+       [33] Agnolo Bruneleschi, florentino.
+
+Como el lagarto, que bajo el ardor de los días caniculares, cuando
+cambia de maleza, parece un rayo al atravesar el camino, tal parecía,
+dirigiéndose hacia el vientre de los otros dos espíritus, una pequeña
+serpiente irritada, lívida y negra como grano de pimienta. Picó a uno
+de ellos en aquella parte del cuerpo por donde nos alimentamos antes de
+nacer, y después cayó a sus pies quedando tendida. El herido la miró
+sin decir nada; y permaneció inmóvil, en pie y bostezando, como si le
+hubiera sorprendido el sueño o la fiebre. El y la serpiente se miraban,
+y el uno por la herida y la otra por la boca, lanzaban un denso humo
+que llegaba a confundirse. Calle Lucano al referir las miserias de
+Sabello y de Nasidio, y escuche atentamente lo que describo aquí: calle
+Ovidio al ocuparse de Cadmo y Aretusa; que si, en su poema, convirtió
+a aquél en serpiente y a éste en fuente, no le envidio. Ovidio no
+transformó jamás dos naturalezas frente a frente, de tal modo que
+sus formas cambiaran también de materia. El hombre y la serpiente se
+correspondieron de tal suerte, que cuando ésta abrió su cola en forma
+de horquilla, el herido juntó sus dos pies. Las piernas y los muslos
+de éste se estrecharon tanto, que en poco tiempo no quedaron vestigios
+de su natural separación. La cola hendida de la serpiente tomaba la
+figura que desaparecía en el hombre, y su piel se hacía blanda al
+paso que dura la de aquél. Vi entrar los brazos del condenado en los
+sobacos; y las dos patas de la fiera, que eran cortas, se alargaban
+tanto cuanto aquéllos se encogían. Las patas de detrás de aquélla,
+retorciéndose, formaban el miembro que el hombre oculta, y el del
+miserable dividióse en dos patas. Mientras que el humo daba el color de
+la serpiente al hombre y viceversa, y hacía salir en aquélla el pelo
+que quitaba a éste, el uno, es decir, la fiera transformada en hombre,
+se levantó, y cayó el otro; pero sin dejar de lanzarse miradas feroces,
+ante las cuales cada uno de ellos cambiaba de rostro. El que estaba en
+pie lo encogió hacia las sienes, y de la carne excedente se le formaron
+las orejas en sus lisos carrillos. La parte del hocico de la serpiente
+que no se replegó en la cabeza quedó fuera formando la nariz del rostro
+humano, y abultó al propio tiempo convenientemente los labios. El que
+estaba en el suelo extendió su boca hacia delante, e hizo entrar sus
+orejas en la cabeza, como el caracol hace con sus cuernos; y la lengua,
+que estaba antes unida y dispuesta a hablar, se hendió, al paso que
+se unía la lengua hendida del reptil, dejando de lanzar humo. El alma
+que se había convertido en serpiente huyó silbando por la fosa; y el
+otro, hablando detrás de ella, le escupía. Volvióle después sus recién
+formadas espaldas, y dijo al otro condenado: "Quiero que Buoso se
+arrastre por este camino como yo lo he hecho." De tal suerte vi yo, en
+la séptima fosa, cambiarse y metamorfosearse dos naturalezas; y si mi
+lenguaje no es florido, sírvame de excusa la novedad del caso.
+
+Aunque mis ojos estuviesen turbados y mi espíritu aturdido, no pudieron
+huír las otras dos sombras tan ocultamente, que yo no conociese a
+Puccio Sciancato, el único de los tres espíritus de los llegados
+anteriormente que no había cambiado de forma: el otro era aquel que tú
+lloras, ¡oh Gaville![34]
+
+       [34] Para mayor claridad, nótese bien que Dante ve primero
+       tres espíritus: Agnolo Brunelleschi, Buoso Donati y Puccio
+       Sciancato. Luego viene Cianfa en forma de serpiente con
+       seis patas, se arroja sobre Brunelleschi, y los dos se
+       convierten en un solo monstruo, que se va con pasos lentos.
+       Llega después, en forma de serpiente lívida y negra, Guercio
+       Cavalcante: pica a Buoso, le transforma en serpiente y él se
+       vuelve hombre: Buoso huye silbando. Quedan solos en escena
+       Puccio Sciancato, que no ha sufrido transformación, y "aquel a
+       quien llora Gaville;" es decir, Guercio Cavalcante.
+
+[Ilustración]
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOSEXTO_
+
+
+Alégrate, Florencia, pues eres tan grande, que tu nombre vuela por
+mar y tierra, y es famoso en todo el infierno. Entre los ladrones he
+encontrado cinco de tus nobles ciudadanos; lo cual me avergüenza, y
+a tí no te honra mucho. Pero, si es verdad lo que se sueña cerca del
+amanecer, dentro de poco tiempo conocerás lo que contra ti desean, no
+ya otros pueblos, sino Prato: y si este mal se hubiese ya cumplido, no
+sería prematuro. ¡Así viniese hoy lo que ha de suceder, pues tanto más
+me contristará, cuanto más viejo me vuelva!
+
+Partimos; y por los mismos escalones de las rocas que nos habían
+servido para bajar, subió mi Guía, tirando de mí. Prosiguiendo la ruta
+solitaria a través de los picos y rocas del escollo, no era posible
+mover un pie sin el auxilio de la mano. Entonces me afligí, como me
+aflijo ahora, cuando pienso en lo que vi; y refreno mi espíritu más
+de lo que acostumbro, para que no aventure tanto que deje de guiarlo
+la virtud; porque, si mi buena estrella u otra influencia mejor me ha
+dado algún ingenio, no quiero yo mismo envidiármelo. Así como en la
+estación en que aquel que ilumina al mundo nos oculta menos su faz,
+el campesino que reposa en la colina a la hora en que el mosquito
+reemplaza a la mosca, ve por el valle las luciérnagas que corren por
+el sitio donde vendimia y ara, así también vi resplandecer infinitas
+llamas en la octava fosa, en cuanto estuve en el punto desde donde
+se distinguía su fondo. Y como aquel a quien los osos ayudaron en su
+venganza[35] vió partir el carro de Elías, cuando los caballos subían
+erguidos al cielo, de tal modo que no pudiendo sus ojos seguirle,
+sólo distinguían una ligera llama elevándose como débil nubecilla,
+así también noté que se agitaban aquéllas en la abertura de la fosa,
+encerrando cada una un pecador, pero sin manifestar lo que ocultaban.
+Yo estaba sobre el puente, tan absorto en la contemplación de aquel
+espectáculo, que, a no haberme agarrado a un trozo de roca, hubiera
+caído sin ser empujado. Mi Guía, que me vió tan atento, me dijo:
+
+--Dentro del fuego están los espíritus, cada uno revestido de la llama
+que le abrasa.
+
+       [35] Colocados en una misma pira los cadáveres de los hermanos
+       Eteocles y Polinyces, que se habían dado muerte el uno al
+       otro, la llama descubría, bifurcándose, que se odiaban aun
+       después de muertos.
+
+--¡Oh, Maestro!--respondí;--tus palabras han hecho que me cerciore de
+lo que veo; pero ya lo había pensado así y quería decírtelo. Mas dime:
+¿quién está en aquella llama que se divide en su parte superior, y
+parece salir de la pira donde fueron puestos Eteocles y su hermano?
+
+Me contestó:
+
+--Allí dentro están torturados Ulises y Diomedes: juntos sufren aquí
+un mismo castigo, como juntos se entregaron a la ira. En esa llama
+se llora también el engaño del caballo de madera, que fué la puerta
+por donde salió la noble estirpe de los romanos. Llórase también el
+artificio por el que Deidamia, aun después de muerta, se lamenta de
+Aquiles, y se sufre además el castigo por el robo del Paladión.
+
+--Si es que pueden hablar en medio de las llamas--dije yo--, Maestro,
+te pido y te suplico, y así mi súplica valga por mil, que me permitas
+esperar que esa llama dividida llegue hasta aquí: mira cómo, arrastrado
+por mi deseo, me abalanzo hacia ella.
+
+A lo que me contestó:
+
+Tu súplica es digna de alabanza, y yo la acojo; pero haz que tu lengua
+se reprima, y déjame a mí hablar; pues comprendo lo que quieres, y
+quizás ellos, siendo griegos, se desdeñarían de contestarte.
+
+Cuando la llama estuvo cerca de nosotros, y mi Guía juzgó el lugar y el
+momento favorables, le oí expresarse en estos términos:
+
+--¡Oh vosotros, que sois dos en un mismo fuego! Si he merecido vuestra
+gracia durante mi vida, si he merecido de vosotros poco o mucho, cuando
+escribí mi gran poema en el mundo, no os alejéis; antes bien dígame uno
+de vosotros dónde fué a morir, llevado de su valor.
+
+La punta más elevada de la antigua llama empezó a oscilar murmurando
+como la que agita el viento; después, dirigiendo a uno y otro lado su
+extremidad, empezó a lanzar algunos sonidos, como si fuera una lengua
+que hablara, y dijo:
+
+--Cuando me separé de Circe, que me tuvo oculto más de un año en Gaeta,
+antes de que Eneas le diera este nombre, ni las dulzuras paternales,
+ni la piedad debida a un padre anciano, ni el amor mutuo que debía
+hacer dichosa a Penélope, pudieron vencer el ardiente deseo que yo tuve
+de conocer el mundo, los vicios y las virtudes de los humanos, sino
+que me lancé por el abierto mar sólo con un navío, y con los pocos
+compañeros que nunca me abandonaron. Vi entrambas costas, por un lado
+hasta España, por otro hasta Marruecos, y la isla de los Sardos y las
+demás que baña en torno aquel mar. Mis compañeros y yo nos habíamos
+vuelto viejos y pesados cuando llegamos a la estrecha garganta donde
+plantó Hércules las dos columnas para que ningún hombre pasase más
+adelante. Dejé a Sevilla a mi derecha, como había dejado ya a Ceuta a
+mi izquierda. "¡Oh hermanos, dije, que habéis llegado al Occidente a
+través de cien mil peligros!, ya que tan poco os resta de vida, no os
+neguéis a conocer el mundo sin habitantes, que se encuentra siguiendo
+al Sol. Pensad en vuestro origen; vosotros no habéis nacido para vivir
+como brutos, sino para alcanzar la virtud y la ciencia." Con esta corta
+arenga infundí en mis compañeros tal deseo de continuar el viaje, que
+apenas los hubiera podido detener después. Y volviendo la popa hacia
+el Oriente, de nuestros remos hicimos alas para seguir tan desatentado
+viaje, inclinándonos siempre hacia la izquierda. La noche veía ya
+brillar todas las estrellas del otro polo, y estaba el nuestro tan bajo
+que apenas parecía salir fuera de la superficie de las aguas. Cinco
+veces se había encendido y otras tantas apagado la luz de la luna desde
+que entramos en aquel gran mar, cuando apareció una montaña obscurecida
+por la distancia, la cual me pareció la más alta de cuantas había
+visto hasta entonces. Nos causó alegría, pero nuestro gozo se trocó
+bien pronto en llanto; pues de aquella tierra se levantó un torbellino
+que chocó contra la proa de nuestro buque: tres veces lo hizo girar
+juntamente con las encrespadas ondas, y a la cuarta levantó la popa y
+sumergió la proa como plugo al Otro, hasta que el mar volvió a unirse
+sobre nosotros.
+
+
+
+
+[Ilustración]
+
+
+
+
+_CANTO VIGESIMOSEPTIMO_
+
+
+Habíase quedado derecha e inmóvil la llama para no decir nada más, y ya
+se iba alejando de nosotros, con permiso del dulce poeta, cuando otra
+que seguía detrás nos hizo volver la vista hacia su punta, a causa del
+confuso rumor que salía de ella. Como el toro de Sicilia que, lanzando
+por primer mugido el llanto del que lo había trabajado con su lima (lo
+cual fué justo), bramaba con las voces de los torturados en él de tal
+suerte, que a pesar de estar construído de bronce, parecía realmente
+traspasado de dolor, así también las palabras lastimeras del espíritu
+contenido en la llama, no encontrando en toda la extensión de ella
+ninguna abertura por donde salir, se convertían en el lenguaje del
+fuego; pero cuando consiguieron llegar a su punta, comunicándole a ésta
+el movimiento que la lengua les había dado al pasar, oímos decir:
+
+--¡Oh tú, a quien me dirijo, y que hace poco hablabas en lombardo,
+diciendo: "Véte ya, no te detengo más!" Aun cuando yo haya llegado
+tarde, no te pese permanecer hablando conmigo; pues a mí no me pesa,
+no obstante que estoy ardiendo.[36] Si acabas de caer en este mundo
+lóbrego desde la dulce tierra latina, donde he cometido todas mis
+faltas, dime si los romañolos están en paz o en guerra; pues fuí de las
+montañas que se elevan entre Urbino y el yugo de que el Tíber se desata.
+
+       [36] Este espíritu es el conde Guido de Montefeltro.
+
+Yo escuchaba aún atento e inclinado, cuando mi Guía me tocó, diciendo:
+
+--Habla tú, ese es latino.
+
+Y yo, que tenía la respuesta preparada, empecé a hablarle así sin
+tardanza:
+
+--¡Oh alma, que te escondes ahí debajo! Tu Romanía no está ni estuvo
+nunca sin guerra en el corazón de sus tiranos; pero al venir no he
+dejado guerra manifiesta: Ravena está como hace muchos años: el águila
+de Polenta anida allí, y cubre aún a Cervia con sus alas. La tierra que
+sostuvo tan larga prueba, y contiene sangrientos montones de cadáveres
+franceses, se encuentra en poder de las garras verdes; y el mastín
+viejo y el joven de Verrucchio, que tanto daño hicieron a Montagna,
+siguen ensangrentando sus dientes donde acostumbran. La ciudad del
+Lamone y la del Santerno están dirigidas por el leoncillo de blanco
+cubil, que del verano al invierno cambia de partido; y aquella que está
+bañada por el Savio, vive entre la tiranía y la libertad, así como se
+asienta entre la llanura y la montaña. Ahora te ruego que me digas
+quién eres: no seas más duro de lo que lo han sido otros; así pueda tu
+nombre durar eternamente en el mundo.
+
+Cuando el fuego hubo producido su acostumbrado rumor, movió de una
+parte a otra su aguda punta, y después habló así:
+
+Si yo creyera que dirijo mi respuesta a una persona que debe volver al
+mundo, esta llama dejaría de agitarse; pero como ninguno pudo salir
+jamás de esta profundidad, si es cierto lo que he oído, te responderé
+sin temor a la infamia. Yo fuí hombre de guerra y luego franciscano,
+creyendo que con este hábito expiaría mis faltas; y mi creencia hubiera
+tenido ciertamente efecto, si el gran Sacerdote, a quien deseo todo
+mal, no me hubiese hecho incurrir en mis primeras faltas. Quiero que
+tú sepas cómo y por qué. Mientras conservé la forma de carne y hueso
+que mi madre me dió, mis acciones no fueron de león, sino de z
