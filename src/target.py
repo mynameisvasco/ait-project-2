@@ -1,7 +1,5 @@
-from typing import ContextManager
 
-
-from time import perf_counter
+import re
 
 
 class Target:
@@ -10,10 +8,11 @@ class Target:
     context_size: int
 
     def __init__(self, text: str, context_size: int, target_chars: int) -> None:
+        self.text = ' '.join(i for i in text.split()
+                             if i.isalpha() or i.isspace())
+
         if target_chars is not None and target_chars <= len(text):
-            self.text = text[:target_chars]
-        else:
-            self.text = text
+            self.text = self.text[:target_chars]
 
         self.target_chars = target_chars
         self.context_size = context_size
