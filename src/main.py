@@ -9,6 +9,10 @@ class Main:
         arg_parser = ArgumentParser()
         arg_parser.add_argument("--references-dir", type=str,
                                 required=True, dest="references_dir", help="Directory of the reference texts")
+        arg_parser.add_argument("--references-chars", type=int,
+                                required=False, default=None, dest="references_chars", help="Number of chars to use for all references")
+        arg_parser.add_argument("--target-chars", type=int,
+                                required=False, default=None, dest="target_chars", help="Number of chars to use for the target")
         arg_parser.add_argument("--target-file", type=str,
                                 required=True, dest="target_file", help="File of the target text")
         arg_parser.add_argument("--mode", type=str, dest="mode", required=True,
@@ -22,7 +26,7 @@ class Main:
             pass
         elif self.args.mode == "find-lang":
             find_lang = FindLang(self.args.references_dir,
-                                 self.args.target_file)
+                                 self.args.target_file, self.args.references_chars, self.args.target_chars)
             results = find_lang.find()
             print(f"Results: {results[0][0]} ({results[0][1]}) bits")
             print("Top 10")
