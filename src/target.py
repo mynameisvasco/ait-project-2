@@ -10,7 +10,7 @@ class Target:
     context_size: int
 
     def __init__(self, text: str, context_size: int, target_chars: int) -> None:
-        if target_chars and target_chars <= len(text):
+        if target_chars is not None and target_chars <= len(text):
             self.text = text[:target_chars]
         else:
             self.text = text

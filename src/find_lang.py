@@ -35,8 +35,6 @@ class FindLang:
                 for lang in langs:
                     self.langs[lang.name] += lang.estimate_bits(
                         context, symbol)
-                if i % 1000 == 0:
-                    print(i)
 
     def find(self):
         return sorted(self.langs.items(), key=lambda r: r[1])
