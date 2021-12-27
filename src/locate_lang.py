@@ -26,7 +26,7 @@ class LocateLang:
         with open(target_path) as target_file:
             target_text = target_file.read()
 
-            for i in range(max_context_size + 1, len(target_text)):
+            for i in range(max_context_size, len(target_text)):
                 context = target_text[i - max_context_size:i]
                 for j, fcm in enumerate(self.fcms, start=1):
                     # TODO: this needs to change according to the
@@ -37,6 +37,7 @@ class LocateLang:
                             target_text[i], context[-fcm.context_size:]))
 
     def find_fcm_indexes(self):
+        k = 3
         fcm_name_list = list(self.fcms_results.keys())
         nr_chars = len(self.fcms_results['fcm1'])
         best_count = 0
@@ -46,17 +47,11 @@ class LocateLang:
         current_segment_fcm = ''
         for i in range(0, nr_chars):
             previous_best_fcm = current_best_fcm
-
-            # find the fcm with the minimum information for this char
-            current_best_fcm = fcm_name_list[0]
-            minimum = self.fcms_results[current_best_fcm][i]
-            for fcm in self.fcms_results:
-                if self.fcms_results[fcm][i] < minimum:
-                    current_best_fcm = fcm
-                    minimum = self.fcms_results[current_best_fcm][i]
+            current_best_fcm = min(self.fcms_results,
+                                   key=lambda x: self.fcms_results[x][i])
 
             # if an fcm is the best for the duration of the threshold then
-            # start a new segment where that fcm is the best
+            # start a new segment where that fcm is considered the best
             if current_best_fcm == previous_best_fcm:
                 best_count += 1
                 if best_count == self.threshold and \
@@ -70,4 +65,4 @@ class LocateLang:
                 best_count = 0
 
         self.fcm_indexes[current_best_fcm].append(
-            (segment_start, nr_chars - 1))
+            (segment_start, nr_chars + k - 1))

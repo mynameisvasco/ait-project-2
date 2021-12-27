@@ -5,12 +5,12 @@ from locate_lang import LocateLang
 
 context_size = 3
 fcm1 = Fcm(0.2, context_size)
-fcm1.add_file('datasets/por_PT.latn.Portugese.EP7-devtest.utf8')
+fcm1.add_file('datasets/por_PT.latn.Portugese.EP7-train.utf8')
 fcm2 = Fcm(0.2, context_size)
-fcm2.add_file('datasets/eng_GB.latn.English.EP7-devtest.utf8')
+fcm2.add_file('datasets/eng_UK.latn.English.bible-test.utf8')
 
 locate_lang_target = 'examples/locatelangtest.txt'
-locate_lang = LocateLang(3, fcm1, fcm2)
+locate_lang = LocateLang(4, fcm1, fcm2)
 locate_lang.generate_fcm_results(locate_lang_target)
 
 results = locate_lang.fcms_results
