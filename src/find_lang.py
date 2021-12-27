@@ -1,40 +1,37 @@
-import sys
+from collections import defaultdict
+from multiprocessing.pool import ThreadPool
 from typing import Dict
 from lang import Lang
 from pathlib import Path
 from time import perf_counter
-from multiprocessing import Pool
 
-PROCESSES_NUMBER = 5
+from target import Target
 
 
 class FindLang:
     langs: Dict[str, int]
 
     def __init__(self, references_path: str, target_path: str) -> None:
-        self.langs = dict()
+        self.langs = defaultdict(int)
         reference_paths = list(Path(references_path).rglob("*.utf8"))
-        start = perf_counter()
-        pool = Pool(processes=PROCESSES_NUMBER)
+        pool = ThreadPool()
         langs = []
 
         print(f"Building references...")
-
-        for i, _ in enumerate(reference_paths):
-            if i % PROCESSES_NUMBER == 0:
-                langs = pool.map(
-                    self.build_lang, reference_paths[i:i+PROCESSES_NUMBER])
-
-                for lang in langs:
-                    self.langs[lang.name] = lang.estimate_bits(target_path)
-
-                langs.clear()
-
+        start = perf_counter()
+        langs = pool.map(lambda rp: Lang(str(rp)), reference_paths)
         perf = (perf_counter() - start)
         print(f"Builded all references after {perf}s")
 
-    def build_lang(self, reference_path: Path):
-        return Lang(str(reference_path))
+        with open(target_path, "r") as target_file:
+            target = Target(target_file.read(), 5)
+
+            for i, (context, symbol) in enumerate(target.generator()):
+                for lang in langs:
+                    self.langs[lang.name] += lang.estimate_bits(
+                        context, symbol)
+                if i % 1000 == 0:
+                    print(i)
 
     def find(self):
         return sorted(self.langs.items(), key=lambda r: r[1])

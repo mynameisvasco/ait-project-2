@@ -26,27 +26,5 @@ class Lang:
             with open(cache_path, "wb") as cache_file:
                 pickle.dump(self.reference, cache_file)
 
-    def sum_estimate_bits(self, target_text: str):
-        total_bits = 0
-
-        for i in range(len(target_text) - self.reference.context_size):
-            current_context = target_text[i:i +
-                                          self.reference.context_size]
-            current_symbol = target_text[i+self.reference.context_size]
-            total_bits += self.reference.get_information_amount(
-                current_symbol, current_context)
-
-        return ceil(total_bits)
-
-    def list_estimate_bits(self, target_text: str):
-        total_bits = []
-
-        for i in range(len(target_text) - self.reference.context_size):
-            current_context = target_text[i:i +
-                                          self.reference.context_size]
-            current_symbol = target_text[i+self.reference.context_size]
-            bits = ceil(self.reference.get_information_amount(
-                current_symbol, current_context))
-            total_bits.append(bits)
-
-        return total_bits
+    def estimate_bits(self, context: str, symbol: str):
+        return self.reference.get_information_amount(symbol, context)
