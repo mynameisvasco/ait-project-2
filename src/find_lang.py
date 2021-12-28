@@ -20,13 +20,17 @@ class FindLang:
         self.target_chars = target_chars
         reference_paths = list(Path(references_path).rglob("*.utf8"))
         langs = []
+        combination_threshold = 100
+        lower_context_size = 3
+        higher_context_size = 9
 
         print(f"Building references...")
         start = perf_counter()
 
         for reference_path in reference_paths:
-            lang = Lang(str(reference_path), reference_chars)
-            langs.append(lang)
+            low_depth_lang = Lang(str(reference_path), reference_chars, lower_context_size)
+            high_depth_lang = Lang(str(reference_path), reference_chars, higher_context_size)
+            langs.append(([low_depth_lang, [], 0], [high_depth_lang, [], 0]))
 
         perf = (perf_counter() - start)
         print(f"Built all references after {round(perf,3)}s")
@@ -39,12 +43,28 @@ class FindLang:
             if target_chars is not None and target_chars <= len(text):
                 text = text[:target_chars]
 
-            target = Target(text, 5, self.target_chars)
+            target = Target(text, higher_context_size, self.target_chars)
 
-            for context, symbol in target.generator():
+            for i, (context, symbol) in enumerate(target.generator(), start=1):
                 for lang in langs:
-                    bits = lang.estimate_bits(context, symbol)
-                    self.estimations[lang.name] += bits
+                    low_depth_bits = lang[0][0].estimate_bits(context[-lower_context_size:], symbol)
+                    lang[0][1].append(low_depth_bits)
+                    high_depth_bits = lang[1][0].estimate_bits(context, symbol)
+                    lang[1][1].append(high_depth_bits)
+                    if low_depth_bits >= high_depth_bits:
+                        lang[0][2] += 1
+                    else:
+                        lang[1][2] += 1
+                    if i % combination_threshold == 0 or i == self.target_chars:
+                        low_depth_weight = lang[0][2] / (lang[0][2] + lang[1][2])
+                        low_depth_sum = sum(lang[0][1])
+                        high_depth_weight = lang[1][2] / (lang[0][2] + lang[1][2])
+                        high_depth_sum = sum(lang[1][1])
+                        self.estimations[lang[0][0].name] += low_depth_weight * low_depth_sum + high_depth_weight * high_depth_sum
+                        lang[0][1] = []
+                        lang[1][1] = []
+                        lang[0][2] = 0
+                        lang[1][2] = 0
 
     def find(self):
-        return sorted(self.estimations.items(), key=lambda r: r[1])[0]
+        return sorted(self.estimations.items(), key=lambda r: r[1])

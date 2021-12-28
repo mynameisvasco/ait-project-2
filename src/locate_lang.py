@@ -9,7 +9,7 @@ from time import perf_counter
 
 class LocateLang:
     lang_results: Dict[str, List[float]]
-    lang_segments: Dict[str, List[Tuple[int, int]]]
+    lang_segments: List[Tuple[int, str]]
     reference_chars: int
     threshold: int
 
@@ -17,7 +17,7 @@ class LocateLang:
                  reference_chars: int, threshold: int) -> None:
         self.threshold = threshold
         self.lang_results = defaultdict(list)
-        self.lang_segments = defaultdict(list)
+        self.lang_segments = []
         self.reference_chars = reference_chars
         reference_paths = list(Path(references_path).rglob("*.utf8"))
         langs = []
@@ -42,7 +42,6 @@ class LocateLang:
                     self.lang_results[lang.name].append(bits)
 
     def find_lang_indexes(self):
-        k = 5
         lang_name_list = list(self.lang_results)
         results_length = len(self.lang_results[lang_name_list[0]])
         best_count = 0
@@ -62,12 +61,12 @@ class LocateLang:
                 if best_count == self.threshold and \
                         current_best_lang != current_segment_fcm:
                     if current_segment_fcm != '':
-                        self.lang_segments[current_segment_fcm].append(
-                            (segment_start, i - self.threshold))
+                        self.lang_segments.append(
+                            (segment_start, current_segment_fcm))
                         segment_start = i - self.threshold
                     current_segment_fcm = current_best_lang
             else:
                 best_count = 0
 
-        self.lang_segments[current_best_lang].append(
-            (segment_start, results_length + k - 1))
+        self.lang_segments.append(
+            (segment_start, current_best_lang))
