@@ -1,5 +1,6 @@
 from lang import Lang
 
+
 lang_deu = Lang("datasets/deu_DE.latn.German.bible-devtest.utf8", 5, 0.10)
 lang_gb = Lang("datasets/eng_GB.latn.English.EP7-devtest.utf8", 5, 0.10)
 lang_est = Lang("est_EE.latn.Estonian.EP7-devtest.utf8", 5, 0.10)

@@ -1,5 +1,6 @@
 from argparse import ArgumentParser, Namespace
 from find_lang import FindLang
+from math import ceil
 
 
 class Main:
@@ -27,12 +28,9 @@ class Main:
         elif self.args.mode == "find-lang":
             find_lang = FindLang(self.args.references_dir,
                                  self.args.target_file, self.args.references_chars, self.args.target_chars)
-            results = find_lang.find()
-            print(f"Results: {results[0][0]} ({results[0][1]}) bits")
-            print("Top 10")
+            lang_name, bits = find_lang.find()
 
-            for i, (lang_name, bits) in enumerate(results[:11]):
-                print(f"{i + 1}. {lang_name} ({bits}) bits")
+            print(f"Target text written in {lang_name} ({ceil(bits)}) bits")
         else:
             print("Unknown mode, accepted values: locate-lang, find-lang")
 

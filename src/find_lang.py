@@ -28,7 +28,7 @@ class FindLang:
             langs.append(lang)
 
         perf = (perf_counter() - start)
-        print(f"Builded all references after {perf}s")
+        print(f"Built all references after {round(perf,3)}s")
 
         with open(target_path, "r") as target_file:
             target = Target(target_file.read(), 5, self.target_chars)
@@ -39,4 +39,4 @@ class FindLang:
                     self.estimations[lang.name] += bits
 
     def find(self):
-        return sorted(self.estimations.items(), key=lambda r: r[1])
+        return sorted(self.estimations.items(), key=lambda r: r[1])[0]
