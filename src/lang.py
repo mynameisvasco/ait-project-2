@@ -1,4 +1,3 @@
-from math import ceil
 from fcm import Fcm
 from pathlib import Path
 import pickle
@@ -9,18 +8,18 @@ class Lang:
     reference: Fcm
     name: str
 
-    def __init__(self, reference_path: str, references_chars: int) -> None:
+    def __init__(self, reference_path: str, references_chars: int, context_size: int = 5) -> None:
         reference_path_base = reference_path.split('/')[-1]
         self.references_chars = references_chars
         self.name = reference_path_base.split(".")[0]
         cache_path = Path(
-            f"cache/{reference_path_base}_{references_chars}.cache")
+            f"cache/{reference_path_base}_{references_chars}_{context_size}.cache")
 
         if cache_path.exists():
             with open(cache_path, "rb") as cache_file:
                 self.reference = pickle.load(cache_file)
         else:
-            self.reference = Fcm(0.01, 5)
+            self.reference = Fcm(0.01, context_size)
 
             with open(reference_path, "r") as reference_file:
                 reference_text = reference_file.read()
