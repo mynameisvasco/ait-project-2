@@ -4,8 +4,9 @@ from typing import Dict
 from lang import Lang
 from pathlib import Path
 from time import perf_counter
-
 from target import Target
+import re
+import string
 
 
 class FindLang:
@@ -31,7 +32,14 @@ class FindLang:
         print(f"Built all references after {round(perf,3)}s")
 
         with open(target_path, "r") as target_file:
-            target = Target(target_file.read(), 5, self.target_chars)
+            text = ' '.join(i for i in "".join(target_file.readlines()[:500]).split()
+                            if not i.isnumeric())
+            text = re.sub(rf"[{string.punctuation}]", "", text)
+
+            if target_chars is not None and target_chars <= len(text):
+                text = text[:target_chars]
+
+            target = Target(text, 5, self.target_chars)
 
             for context, symbol in target.generator():
                 for lang in langs:

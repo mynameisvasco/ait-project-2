@@ -24,7 +24,7 @@ class Lang:
             with open(reference_path, "r") as reference_file:
                 reference_text = reference_file.read()
                 reference_text = ' '.join(i for i in reference_text.split()
-                                          if i.isalpha() or i.isspace())
+                                          if not i.isnumeric())
 
                 if self.references_chars is not None and self.references_chars <= len(reference_text):
                     reference_text = reference_text[:self.references_chars]
