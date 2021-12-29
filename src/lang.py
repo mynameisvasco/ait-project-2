@@ -1,5 +1,6 @@
 from fcm import Fcm
 from pathlib import Path
+from os import path, mkdir
 import pickle
 
 
@@ -30,6 +31,9 @@ class Lang:
                     reference_text = reference_text[:self.references_chars]
 
                 self.reference.add_text(reference_text)
+
+            if not path.exists('cache'):
+                mkdir('cache')
 
             with open(cache_path, "wb") as cache_file:
                 pickle.dump(self.reference, cache_file)
