@@ -28,8 +28,8 @@ class Main:
         elif self.args.mode == "find-lang":
             find_lang = FindLang(self.args.references_dir,
                                  self.args.target_file, self.args.references_chars, self.args.target_chars)
-            lang_name, bits = find_lang.find()
 
+            lang_name, bits = find_lang.find()
             print(f"Target text written in {lang_name} ({ceil(bits)}) bits")
         else:
             print("Unknown mode, accepted values: locate-lang, find-lang")
